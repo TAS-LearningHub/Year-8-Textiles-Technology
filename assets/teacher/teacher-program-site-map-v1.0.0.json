@@ -1,0 +1,1774 @@
+{
+  "schema_version": "1.0",
+  "artifact_id": "year-8-textiles-teacher-program-site-map",
+  "version": "1.0.0",
+  "build_id": "year-8-textiles-program-build-2026-08-27",
+  "integration_baseline": {
+    "artifact_id": "year8textiles-stage13-integrated-local-candidate-v1.0.0",
+    "sha256": "028109e76a5935934b80bc4b52d8ccebf3d834358d5a5630bbdf859e0e408090",
+    "binding_state": "exact",
+    "integration_manifest_sha256": "aeebeedeb02ca5e1b14e31fbc21d010fecc00d327fde89840012b6a22c339421"
+  },
+  "course_id": "year-8-textiles-technology-2026",
+  "route_inventory": [
+    {
+      "route": "index.html",
+      "state": "mapped"
+    },
+    {
+      "route": "modules/module-01.html",
+      "state": "mapped"
+    },
+    {
+      "route": "modules/module-02.html",
+      "state": "mapped"
+    },
+    {
+      "route": "modules/module-03.html",
+      "state": "mapped"
+    },
+    {
+      "route": "modules/module-04.html",
+      "state": "mapped"
+    },
+    {
+      "route": "modules/module-05.html",
+      "state": "mapped"
+    },
+    {
+      "route": "modules/module-06.html",
+      "state": "mapped"
+    },
+    {
+      "route": "modules/module-07.html",
+      "state": "mapped"
+    },
+    {
+      "route": "modules/module-08.html",
+      "state": "mapped"
+    },
+    {
+      "route": "modules/module-09.html",
+      "state": "mapped"
+    },
+    {
+      "route": "modules/module-10.html",
+      "state": "mapped"
+    },
+    {
+      "route": "activities.html",
+      "state": "mapped"
+    },
+    {
+      "route": "video-learning.html",
+      "state": "mapped"
+    },
+    {
+      "route": "folio.html",
+      "state": "mapped"
+    },
+    {
+      "route": "assessment.html",
+      "state": "mapped"
+    },
+    {
+      "route": "teacher-resources.html",
+      "state": "mapped"
+    },
+    {
+      "route": "sources.html",
+      "state": "mapped"
+    }
+  ],
+  "destinations": [
+    {
+      "site_id": "presentation-m01",
+      "route": "modules/module-01.html",
+      "anchor": "module-presentation-m01",
+      "audience": "student",
+      "purpose": "Download the primary matching presentation for Welcome to Textiles.",
+      "module_id": "m01"
+    },
+    {
+      "site_id": "review-m01",
+      "route": "modules/module-01.html",
+      "anchor": "module-01-review",
+      "audience": "student",
+      "purpose": "Review completion across the module's three learning packages and return directly to each package.",
+      "module_id": "m01"
+    },
+    {
+      "site_id": "theory-m01-s01",
+      "route": "modules/module-01.html",
+      "module_id": "m01",
+      "section_id": "m01-s01",
+      "audience": "student",
+      "anchor": "m01-s01-title",
+      "purpose": "Read the named theory section: Textiles in everyday life."
+    },
+    {
+      "site_id": "check-m01-s01",
+      "route": "modules/module-01.html",
+      "module_id": "m01",
+      "section_id": "m01-s01",
+      "audience": "student",
+      "anchor": "m01-s01-learning-package",
+      "purpose": "Complete the feedback-rich 10-question check kc-m01-s01."
+    },
+    {
+      "site_id": "evidence-m01-s01",
+      "route": "modules/module-01.html",
+      "module_id": "m01",
+      "section_id": "m01-s01",
+      "audience": "student",
+      "anchor": "m01-s01-learning-package",
+      "purpose": "Save the scaffolded capstone capstone-m01-s01."
+    },
+    {
+      "site_id": "activity-m01-s01",
+      "route": "modules/module-01.html",
+      "module_id": "m01",
+      "section_id": "m01-s01",
+      "audience": "student",
+      "anchor": "m01-s01-learning-package",
+      "purpose": "Complete the embedded applied-learning activity act-01-m01-s01."
+    },
+    {
+      "site_id": "media-m01-s01",
+      "route": "modules/module-01.html",
+      "module_id": "m01",
+      "section_id": "m01-s01",
+      "audience": "student",
+      "anchor": "m01-s01-title",
+      "purpose": "Use the purposeful visual and complete the validated video or complete non-video pathway."
+    },
+    {
+      "site_id": "theory-m01-s02",
+      "route": "modules/module-01.html",
+      "module_id": "m01",
+      "section_id": "m01-s02",
+      "audience": "student",
+      "anchor": "m01-s02-title",
+      "purpose": "Read the named theory section: Studio routines and hazard decisions."
+    },
+    {
+      "site_id": "check-m01-s02",
+      "route": "modules/module-01.html",
+      "module_id": "m01",
+      "section_id": "m01-s02",
+      "audience": "student",
+      "anchor": "m01-s02-learning-package",
+      "purpose": "Complete the feedback-rich 10-question check kc-m01-s02."
+    },
+    {
+      "site_id": "evidence-m01-s02",
+      "route": "modules/module-01.html",
+      "module_id": "m01",
+      "section_id": "m01-s02",
+      "audience": "student",
+      "anchor": "m01-s02-learning-package",
+      "purpose": "Save the scaffolded capstone capstone-m01-s02."
+    },
+    {
+      "site_id": "activity-m01-s02",
+      "route": "modules/module-01.html",
+      "module_id": "m01",
+      "section_id": "m01-s02",
+      "audience": "student",
+      "anchor": "m01-s02-learning-package",
+      "purpose": "Complete the embedded applied-learning activity act-02-m01-s02."
+    },
+    {
+      "site_id": "media-m01-s02",
+      "route": "modules/module-01.html",
+      "module_id": "m01",
+      "section_id": "m01-s02",
+      "audience": "student",
+      "anchor": "m01-s02-title",
+      "purpose": "Use the purposeful visual and complete the validated video or complete non-video pathway."
+    },
+    {
+      "site_id": "theory-m01-s03",
+      "route": "modules/module-01.html",
+      "module_id": "m01",
+      "section_id": "m01-s03",
+      "audience": "student",
+      "anchor": "m01-s03-title",
+      "purpose": "Read the named theory section: Tools, materials and shared responsibility."
+    },
+    {
+      "site_id": "check-m01-s03",
+      "route": "modules/module-01.html",
+      "module_id": "m01",
+      "section_id": "m01-s03",
+      "audience": "student",
+      "anchor": "m01-s03-learning-package",
+      "purpose": "Complete the feedback-rich 10-question check kc-m01-s03."
+    },
+    {
+      "site_id": "evidence-m01-s03",
+      "route": "modules/module-01.html",
+      "module_id": "m01",
+      "section_id": "m01-s03",
+      "audience": "student",
+      "anchor": "m01-s03-learning-package",
+      "purpose": "Save the scaffolded capstone capstone-m01-s03."
+    },
+    {
+      "site_id": "activity-m01-s03",
+      "route": "modules/module-01.html",
+      "module_id": "m01",
+      "section_id": "m01-s03",
+      "audience": "student",
+      "anchor": "m01-s03-learning-package",
+      "purpose": "Complete the embedded applied-learning activity act-03-m01-s03."
+    },
+    {
+      "site_id": "media-m01-s03",
+      "route": "modules/module-01.html",
+      "module_id": "m01",
+      "section_id": "m01-s03",
+      "audience": "student",
+      "anchor": "m01-s03-title",
+      "purpose": "Use the purposeful visual and complete the validated video or complete non-video pathway."
+    },
+    {
+      "site_id": "presentation-m02",
+      "route": "modules/module-02.html",
+      "anchor": "module-presentation-m02",
+      "audience": "student",
+      "purpose": "Download the primary matching presentation for Sewing Machine Foundations.",
+      "module_id": "m02"
+    },
+    {
+      "site_id": "review-m02",
+      "route": "modules/module-02.html",
+      "anchor": "module-02-review",
+      "audience": "student",
+      "purpose": "Review completion across the module's three learning packages and return directly to each package.",
+      "module_id": "m02"
+    },
+    {
+      "site_id": "theory-m02-s01",
+      "route": "modules/module-02.html",
+      "module_id": "m02",
+      "section_id": "m02-s01",
+      "audience": "student",
+      "anchor": "m02-s01-title",
+      "purpose": "Read the named theory section: Machine parts and functions."
+    },
+    {
+      "site_id": "check-m02-s01",
+      "route": "modules/module-02.html",
+      "module_id": "m02",
+      "section_id": "m02-s01",
+      "audience": "student",
+      "anchor": "m02-s01-learning-package",
+      "purpose": "Complete the feedback-rich 10-question check kc-m02-s01."
+    },
+    {
+      "site_id": "evidence-m02-s01",
+      "route": "modules/module-02.html",
+      "module_id": "m02",
+      "section_id": "m02-s01",
+      "audience": "student",
+      "anchor": "m02-s01-learning-package",
+      "purpose": "Save the scaffolded capstone capstone-m02-s01."
+    },
+    {
+      "site_id": "activity-m02-s01",
+      "route": "modules/module-02.html",
+      "module_id": "m02",
+      "section_id": "m02-s01",
+      "audience": "student",
+      "anchor": "m02-s01-learning-package",
+      "purpose": "Complete the embedded applied-learning activity act-04-m02-s01."
+    },
+    {
+      "site_id": "media-m02-s01",
+      "route": "modules/module-02.html",
+      "module_id": "m02",
+      "section_id": "m02-s01",
+      "audience": "student",
+      "anchor": "m02-s01-title",
+      "purpose": "Use the purposeful visual and complete the validated video or complete non-video pathway."
+    },
+    {
+      "site_id": "theory-m02-s02",
+      "route": "modules/module-02.html",
+      "module_id": "m02",
+      "section_id": "m02-s02",
+      "audience": "student",
+      "anchor": "m02-s02-title",
+      "purpose": "Read the named theory section: Safe setup and threading boundaries."
+    },
+    {
+      "site_id": "check-m02-s02",
+      "route": "modules/module-02.html",
+      "module_id": "m02",
+      "section_id": "m02-s02",
+      "audience": "student",
+      "anchor": "m02-s02-learning-package",
+      "purpose": "Complete the feedback-rich 10-question check kc-m02-s02."
+    },
+    {
+      "site_id": "evidence-m02-s02",
+      "route": "modules/module-02.html",
+      "module_id": "m02",
+      "section_id": "m02-s02",
+      "audience": "student",
+      "anchor": "m02-s02-learning-package",
+      "purpose": "Save the scaffolded capstone capstone-m02-s02."
+    },
+    {
+      "site_id": "activity-m02-s02",
+      "route": "modules/module-02.html",
+      "module_id": "m02",
+      "section_id": "m02-s02",
+      "audience": "student",
+      "anchor": "m02-s02-learning-package",
+      "purpose": "Complete the embedded applied-learning activity act-05-m02-s02."
+    },
+    {
+      "site_id": "media-m02-s02",
+      "route": "modules/module-02.html",
+      "module_id": "m02",
+      "section_id": "m02-s02",
+      "audience": "student",
+      "anchor": "m02-s02-title",
+      "purpose": "Use the purposeful visual and complete the validated video or complete non-video pathway."
+    },
+    {
+      "site_id": "theory-m02-s03",
+      "route": "modules/module-02.html",
+      "module_id": "m02",
+      "section_id": "m02-s03",
+      "audience": "student",
+      "anchor": "m02-s03-title",
+      "purpose": "Read the named theory section: Stitch control and troubleshooting."
+    },
+    {
+      "site_id": "check-m02-s03",
+      "route": "modules/module-02.html",
+      "module_id": "m02",
+      "section_id": "m02-s03",
+      "audience": "student",
+      "anchor": "m02-s03-learning-package",
+      "purpose": "Complete the feedback-rich 10-question check kc-m02-s03."
+    },
+    {
+      "site_id": "evidence-m02-s03",
+      "route": "modules/module-02.html",
+      "module_id": "m02",
+      "section_id": "m02-s03",
+      "audience": "student",
+      "anchor": "m02-s03-learning-package",
+      "purpose": "Save the scaffolded capstone capstone-m02-s03."
+    },
+    {
+      "site_id": "activity-m02-s03",
+      "route": "modules/module-02.html",
+      "module_id": "m02",
+      "section_id": "m02-s03",
+      "audience": "student",
+      "anchor": "m02-s03-learning-package",
+      "purpose": "Complete the embedded applied-learning activity act-06-m02-s03."
+    },
+    {
+      "site_id": "media-m02-s03",
+      "route": "modules/module-02.html",
+      "module_id": "m02",
+      "section_id": "m02-s03",
+      "audience": "student",
+      "anchor": "m02-s03-title",
+      "purpose": "Use the purposeful visual and complete the validated video or complete non-video pathway."
+    },
+    {
+      "site_id": "presentation-m03",
+      "route": "modules/module-03.html",
+      "anchor": "module-presentation-m03",
+      "audience": "student",
+      "purpose": "Download the primary matching presentation for Pincushion Project.",
+      "module_id": "m03"
+    },
+    {
+      "site_id": "review-m03",
+      "route": "modules/module-03.html",
+      "anchor": "module-03-review",
+      "audience": "student",
+      "purpose": "Review completion across the module's three learning packages and return directly to each package.",
+      "module_id": "m03"
+    },
+    {
+      "site_id": "theory-m03-s01",
+      "route": "modules/module-03.html",
+      "module_id": "m03",
+      "section_id": "m03-s01",
+      "audience": "student",
+      "anchor": "m03-s01-title",
+      "purpose": "Read the named theory section: Brief and success criteria."
+    },
+    {
+      "site_id": "check-m03-s01",
+      "route": "modules/module-03.html",
+      "module_id": "m03",
+      "section_id": "m03-s01",
+      "audience": "student",
+      "anchor": "m03-s01-learning-package",
+      "purpose": "Complete the feedback-rich 10-question check kc-m03-s01."
+    },
+    {
+      "site_id": "evidence-m03-s01",
+      "route": "modules/module-03.html",
+      "module_id": "m03",
+      "section_id": "m03-s01",
+      "audience": "student",
+      "anchor": "m03-s01-learning-package",
+      "purpose": "Save the scaffolded capstone capstone-m03-s01."
+    },
+    {
+      "site_id": "activity-m03-s01",
+      "route": "modules/module-03.html",
+      "module_id": "m03",
+      "section_id": "m03-s01",
+      "audience": "student",
+      "anchor": "m03-s01-learning-package",
+      "purpose": "Complete the embedded applied-learning activity act-07-m03-s01."
+    },
+    {
+      "site_id": "media-m03-s01",
+      "route": "modules/module-03.html",
+      "module_id": "m03",
+      "section_id": "m03-s01",
+      "audience": "student",
+      "anchor": "m03-s01-title",
+      "purpose": "Use the purposeful visual and complete the validated video or complete non-video pathway."
+    },
+    {
+      "site_id": "theory-m03-s02",
+      "route": "modules/module-03.html",
+      "module_id": "m03",
+      "section_id": "m03-s02",
+      "audience": "student",
+      "anchor": "m03-s02-title",
+      "purpose": "Read the named theory section: Plan, materials and technique sample."
+    },
+    {
+      "site_id": "check-m03-s02",
+      "route": "modules/module-03.html",
+      "module_id": "m03",
+      "section_id": "m03-s02",
+      "audience": "student",
+      "anchor": "m03-s02-learning-package",
+      "purpose": "Complete the feedback-rich 10-question check kc-m03-s02."
+    },
+    {
+      "site_id": "evidence-m03-s02",
+      "route": "modules/module-03.html",
+      "module_id": "m03",
+      "section_id": "m03-s02",
+      "audience": "student",
+      "anchor": "m03-s02-learning-package",
+      "purpose": "Save the scaffolded capstone capstone-m03-s02."
+    },
+    {
+      "site_id": "activity-m03-s02",
+      "route": "modules/module-03.html",
+      "module_id": "m03",
+      "section_id": "m03-s02",
+      "audience": "student",
+      "anchor": "m03-s02-learning-package",
+      "purpose": "Complete the embedded applied-learning activity act-08-m03-s02."
+    },
+    {
+      "site_id": "media-m03-s02",
+      "route": "modules/module-03.html",
+      "module_id": "m03",
+      "section_id": "m03-s02",
+      "audience": "student",
+      "anchor": "m03-s02-title",
+      "purpose": "Use the purposeful visual and complete the validated video or complete non-video pathway."
+    },
+    {
+      "site_id": "theory-m03-s03",
+      "route": "modules/module-03.html",
+      "module_id": "m03",
+      "section_id": "m03-s03",
+      "audience": "student",
+      "anchor": "m03-s03-title",
+      "purpose": "Read the named theory section: Make, evaluate and improve."
+    },
+    {
+      "site_id": "check-m03-s03",
+      "route": "modules/module-03.html",
+      "module_id": "m03",
+      "section_id": "m03-s03",
+      "audience": "student",
+      "anchor": "m03-s03-learning-package",
+      "purpose": "Complete the feedback-rich 10-question check kc-m03-s03."
+    },
+    {
+      "site_id": "evidence-m03-s03",
+      "route": "modules/module-03.html",
+      "module_id": "m03",
+      "section_id": "m03-s03",
+      "audience": "student",
+      "anchor": "m03-s03-learning-package",
+      "purpose": "Save the scaffolded capstone capstone-m03-s03."
+    },
+    {
+      "site_id": "activity-m03-s03",
+      "route": "modules/module-03.html",
+      "module_id": "m03",
+      "section_id": "m03-s03",
+      "audience": "student",
+      "anchor": "m03-s03-learning-package",
+      "purpose": "Complete the embedded applied-learning activity act-09-m03-s03."
+    },
+    {
+      "site_id": "media-m03-s03",
+      "route": "modules/module-03.html",
+      "module_id": "m03",
+      "section_id": "m03-s03",
+      "audience": "student",
+      "anchor": "m03-s03-title",
+      "purpose": "Use the purposeful visual and complete the validated video or complete non-video pathway."
+    },
+    {
+      "site_id": "presentation-m04",
+      "route": "modules/module-04.html",
+      "anchor": "module-presentation-m04",
+      "audience": "student",
+      "purpose": "Download the primary matching presentation for Sewing Bag Project.",
+      "module_id": "m04"
+    },
+    {
+      "site_id": "review-m04",
+      "route": "modules/module-04.html",
+      "anchor": "module-04-review",
+      "audience": "student",
+      "purpose": "Review completion across the module's three learning packages and return directly to each package.",
+      "module_id": "m04"
+    },
+    {
+      "site_id": "theory-m04-s01",
+      "route": "modules/module-04.html",
+      "module_id": "m04",
+      "section_id": "m04-s01",
+      "audience": "student",
+      "anchor": "m04-s01-title",
+      "purpose": "Read the named theory section: Function and user needs."
+    },
+    {
+      "site_id": "check-m04-s01",
+      "route": "modules/module-04.html",
+      "module_id": "m04",
+      "section_id": "m04-s01",
+      "audience": "student",
+      "anchor": "m04-s01-learning-package",
+      "purpose": "Complete the feedback-rich 10-question check kc-m04-s01."
+    },
+    {
+      "site_id": "evidence-m04-s01",
+      "route": "modules/module-04.html",
+      "module_id": "m04",
+      "section_id": "m04-s01",
+      "audience": "student",
+      "anchor": "m04-s01-learning-package",
+      "purpose": "Save the scaffolded capstone capstone-m04-s01."
+    },
+    {
+      "site_id": "activity-m04-s01",
+      "route": "modules/module-04.html",
+      "module_id": "m04",
+      "section_id": "m04-s01",
+      "audience": "student",
+      "anchor": "m04-s01-learning-package",
+      "purpose": "Complete the embedded applied-learning activity act-10-m04-s01."
+    },
+    {
+      "site_id": "media-m04-s01",
+      "route": "modules/module-04.html",
+      "module_id": "m04",
+      "section_id": "m04-s01",
+      "audience": "student",
+      "anchor": "m04-s01-title",
+      "purpose": "Use the purposeful visual and complete the validated video or complete non-video pathway."
+    },
+    {
+      "site_id": "theory-m04-s02",
+      "route": "modules/module-04.html",
+      "module_id": "m04",
+      "section_id": "m04-s02",
+      "audience": "student",
+      "anchor": "m04-s02-title",
+      "purpose": "Read the named theory section: Construction sequence and decoration."
+    },
+    {
+      "site_id": "check-m04-s02",
+      "route": "modules/module-04.html",
+      "module_id": "m04",
+      "section_id": "m04-s02",
+      "audience": "student",
+      "anchor": "m04-s02-learning-package",
+      "purpose": "Complete the feedback-rich 10-question check kc-m04-s02."
+    },
+    {
+      "site_id": "evidence-m04-s02",
+      "route": "modules/module-04.html",
+      "module_id": "m04",
+      "section_id": "m04-s02",
+      "audience": "student",
+      "anchor": "m04-s02-learning-package",
+      "purpose": "Save the scaffolded capstone capstone-m04-s02."
+    },
+    {
+      "site_id": "activity-m04-s02",
+      "route": "modules/module-04.html",
+      "module_id": "m04",
+      "section_id": "m04-s02",
+      "audience": "student",
+      "anchor": "m04-s02-learning-package",
+      "purpose": "Complete the embedded applied-learning activity act-11-m04-s02."
+    },
+    {
+      "site_id": "media-m04-s02",
+      "route": "modules/module-04.html",
+      "module_id": "m04",
+      "section_id": "m04-s02",
+      "audience": "student",
+      "anchor": "m04-s02-title",
+      "purpose": "Use the purposeful visual and complete the validated video or complete non-video pathway."
+    },
+    {
+      "site_id": "theory-m04-s03",
+      "route": "modules/module-04.html",
+      "module_id": "m04",
+      "section_id": "m04-s03",
+      "audience": "student",
+      "anchor": "m04-s03-title",
+      "purpose": "Read the named theory section: Quality, evaluation and communication."
+    },
+    {
+      "site_id": "check-m04-s03",
+      "route": "modules/module-04.html",
+      "module_id": "m04",
+      "section_id": "m04-s03",
+      "audience": "student",
+      "anchor": "m04-s03-learning-package",
+      "purpose": "Complete the feedback-rich 10-question check kc-m04-s03."
+    },
+    {
+      "site_id": "evidence-m04-s03",
+      "route": "modules/module-04.html",
+      "module_id": "m04",
+      "section_id": "m04-s03",
+      "audience": "student",
+      "anchor": "m04-s03-learning-package",
+      "purpose": "Save the scaffolded capstone capstone-m04-s03."
+    },
+    {
+      "site_id": "activity-m04-s03",
+      "route": "modules/module-04.html",
+      "module_id": "m04",
+      "section_id": "m04-s03",
+      "audience": "student",
+      "anchor": "m04-s03-learning-package",
+      "purpose": "Complete the embedded applied-learning activity act-12-m04-s03."
+    },
+    {
+      "site_id": "media-m04-s03",
+      "route": "modules/module-04.html",
+      "module_id": "m04",
+      "section_id": "m04-s03",
+      "audience": "student",
+      "anchor": "m04-s03-title",
+      "purpose": "Use the purposeful visual and complete the validated video or complete non-video pathway."
+    },
+    {
+      "site_id": "presentation-m05",
+      "route": "modules/module-05.html",
+      "anchor": "module-presentation-m05",
+      "audience": "student",
+      "purpose": "Download the primary matching presentation for Design Inspiration.",
+      "module_id": "m05"
+    },
+    {
+      "site_id": "review-m05",
+      "route": "modules/module-05.html",
+      "anchor": "module-05-review",
+      "audience": "student",
+      "purpose": "Review completion across the module's three learning packages and return directly to each package.",
+      "module_id": "m05"
+    },
+    {
+      "site_id": "theory-m05-s01",
+      "route": "modules/module-05.html",
+      "module_id": "m05",
+      "section_id": "m05-s01",
+      "audience": "student",
+      "anchor": "m05-s01-title",
+      "purpose": "Read the named theory section: Design brief and user."
+    },
+    {
+      "site_id": "check-m05-s01",
+      "route": "modules/module-05.html",
+      "module_id": "m05",
+      "section_id": "m05-s01",
+      "audience": "student",
+      "anchor": "m05-s01-learning-package",
+      "purpose": "Complete the feedback-rich 10-question check kc-m05-s01."
+    },
+    {
+      "site_id": "evidence-m05-s01",
+      "route": "modules/module-05.html",
+      "module_id": "m05",
+      "section_id": "m05-s01",
+      "audience": "student",
+      "anchor": "m05-s01-learning-package",
+      "purpose": "Save the scaffolded capstone capstone-m05-s01."
+    },
+    {
+      "site_id": "activity-m05-s01",
+      "route": "modules/module-05.html",
+      "module_id": "m05",
+      "section_id": "m05-s01",
+      "audience": "student",
+      "anchor": "m05-s01-learning-package",
+      "purpose": "Complete the embedded applied-learning activity act-13-m05-s01."
+    },
+    {
+      "site_id": "media-m05-s01",
+      "route": "modules/module-05.html",
+      "module_id": "m05",
+      "section_id": "m05-s01",
+      "audience": "student",
+      "anchor": "m05-s01-title",
+      "purpose": "Use the purposeful visual and complete the validated video or complete non-video pathway."
+    },
+    {
+      "site_id": "theory-m05-s02",
+      "route": "modules/module-05.html",
+      "module_id": "m05",
+      "section_id": "m05-s02",
+      "audience": "student",
+      "anchor": "m05-s02-title",
+      "purpose": "Read the named theory section: Mood boards, colour and texture."
+    },
+    {
+      "site_id": "check-m05-s02",
+      "route": "modules/module-05.html",
+      "module_id": "m05",
+      "section_id": "m05-s02",
+      "audience": "student",
+      "anchor": "m05-s02-learning-package",
+      "purpose": "Complete the feedback-rich 10-question check kc-m05-s02."
+    },
+    {
+      "site_id": "evidence-m05-s02",
+      "route": "modules/module-05.html",
+      "module_id": "m05",
+      "section_id": "m05-s02",
+      "audience": "student",
+      "anchor": "m05-s02-learning-package",
+      "purpose": "Save the scaffolded capstone capstone-m05-s02."
+    },
+    {
+      "site_id": "activity-m05-s02",
+      "route": "modules/module-05.html",
+      "module_id": "m05",
+      "section_id": "m05-s02",
+      "audience": "student",
+      "anchor": "m05-s02-learning-package",
+      "purpose": "Complete the embedded applied-learning activity act-14-m05-s02."
+    },
+    {
+      "site_id": "media-m05-s02",
+      "route": "modules/module-05.html",
+      "module_id": "m05",
+      "section_id": "m05-s02",
+      "audience": "student",
+      "anchor": "m05-s02-title",
+      "purpose": "Use the purposeful visual and complete the validated video or complete non-video pathway."
+    },
+    {
+      "site_id": "theory-m05-s03",
+      "route": "modules/module-05.html",
+      "module_id": "m05",
+      "section_id": "m05-s03",
+      "audience": "student",
+      "anchor": "m05-s03-title",
+      "purpose": "Read the named theory section: Ethical digital inspiration."
+    },
+    {
+      "site_id": "check-m05-s03",
+      "route": "modules/module-05.html",
+      "module_id": "m05",
+      "section_id": "m05-s03",
+      "audience": "student",
+      "anchor": "m05-s03-learning-package",
+      "purpose": "Complete the feedback-rich 10-question check kc-m05-s03."
+    },
+    {
+      "site_id": "evidence-m05-s03",
+      "route": "modules/module-05.html",
+      "module_id": "m05",
+      "section_id": "m05-s03",
+      "audience": "student",
+      "anchor": "m05-s03-learning-package",
+      "purpose": "Save the scaffolded capstone capstone-m05-s03."
+    },
+    {
+      "site_id": "activity-m05-s03",
+      "route": "modules/module-05.html",
+      "module_id": "m05",
+      "section_id": "m05-s03",
+      "audience": "student",
+      "anchor": "m05-s03-learning-package",
+      "purpose": "Complete the embedded applied-learning activity act-15-m05-s03."
+    },
+    {
+      "site_id": "media-m05-s03",
+      "route": "modules/module-05.html",
+      "module_id": "m05",
+      "section_id": "m05-s03",
+      "audience": "student",
+      "anchor": "m05-s03-title",
+      "purpose": "Use the purposeful visual and complete the validated video or complete non-video pathway."
+    },
+    {
+      "site_id": "presentation-m06",
+      "route": "modules/module-06.html",
+      "anchor": "module-presentation-m06",
+      "audience": "student",
+      "purpose": "Download the primary matching presentation for Fibres, Yarns and Fabrics.",
+      "module_id": "m06"
+    },
+    {
+      "site_id": "review-m06",
+      "route": "modules/module-06.html",
+      "anchor": "module-06-review",
+      "audience": "student",
+      "purpose": "Review completion across the module's three learning packages and return directly to each package.",
+      "module_id": "m06"
+    },
+    {
+      "site_id": "theory-m06-s01",
+      "route": "modules/module-06.html",
+      "module_id": "m06",
+      "section_id": "m06-s01",
+      "audience": "student",
+      "anchor": "m06-s01-title",
+      "purpose": "Read the named theory section: Fibre origins."
+    },
+    {
+      "site_id": "check-m06-s01",
+      "route": "modules/module-06.html",
+      "module_id": "m06",
+      "section_id": "m06-s01",
+      "audience": "student",
+      "anchor": "m06-s01-learning-package",
+      "purpose": "Complete the feedback-rich 10-question check kc-m06-s01."
+    },
+    {
+      "site_id": "evidence-m06-s01",
+      "route": "modules/module-06.html",
+      "module_id": "m06",
+      "section_id": "m06-s01",
+      "audience": "student",
+      "anchor": "m06-s01-learning-package",
+      "purpose": "Save the scaffolded capstone capstone-m06-s01."
+    },
+    {
+      "site_id": "activity-m06-s01",
+      "route": "modules/module-06.html",
+      "module_id": "m06",
+      "section_id": "m06-s01",
+      "audience": "student",
+      "anchor": "m06-s01-learning-package",
+      "purpose": "Complete the embedded applied-learning activity act-16-m06-s01."
+    },
+    {
+      "site_id": "media-m06-s01",
+      "route": "modules/module-06.html",
+      "module_id": "m06",
+      "section_id": "m06-s01",
+      "audience": "student",
+      "anchor": "m06-s01-title",
+      "purpose": "Use the purposeful visual and complete the validated video or complete non-video pathway."
+    },
+    {
+      "site_id": "theory-m06-s02",
+      "route": "modules/module-06.html",
+      "module_id": "m06",
+      "section_id": "m06-s02",
+      "audience": "student",
+      "anchor": "m06-s02-title",
+      "purpose": "Read the named theory section: Yarn and fabric structures."
+    },
+    {
+      "site_id": "check-m06-s02",
+      "route": "modules/module-06.html",
+      "module_id": "m06",
+      "section_id": "m06-s02",
+      "audience": "student",
+      "anchor": "m06-s02-learning-package",
+      "purpose": "Complete the feedback-rich 10-question check kc-m06-s02."
+    },
+    {
+      "site_id": "evidence-m06-s02",
+      "route": "modules/module-06.html",
+      "module_id": "m06",
+      "section_id": "m06-s02",
+      "audience": "student",
+      "anchor": "m06-s02-learning-package",
+      "purpose": "Save the scaffolded capstone capstone-m06-s02."
+    },
+    {
+      "site_id": "activity-m06-s02",
+      "route": "modules/module-06.html",
+      "module_id": "m06",
+      "section_id": "m06-s02",
+      "audience": "student",
+      "anchor": "m06-s02-learning-package",
+      "purpose": "Complete the embedded applied-learning activity act-17-m06-s02."
+    },
+    {
+      "site_id": "media-m06-s02",
+      "route": "modules/module-06.html",
+      "module_id": "m06",
+      "section_id": "m06-s02",
+      "audience": "student",
+      "anchor": "m06-s02-title",
+      "purpose": "Use the purposeful visual and complete the validated video or complete non-video pathway."
+    },
+    {
+      "site_id": "theory-m06-s03",
+      "route": "modules/module-06.html",
+      "module_id": "m06",
+      "section_id": "m06-s03",
+      "audience": "student",
+      "anchor": "m06-s03-title",
+      "purpose": "Read the named theory section: Properties, testing and end use."
+    },
+    {
+      "site_id": "check-m06-s03",
+      "route": "modules/module-06.html",
+      "module_id": "m06",
+      "section_id": "m06-s03",
+      "audience": "student",
+      "anchor": "m06-s03-learning-package",
+      "purpose": "Complete the feedback-rich 10-question check kc-m06-s03."
+    },
+    {
+      "site_id": "evidence-m06-s03",
+      "route": "modules/module-06.html",
+      "module_id": "m06",
+      "section_id": "m06-s03",
+      "audience": "student",
+      "anchor": "m06-s03-learning-package",
+      "purpose": "Save the scaffolded capstone capstone-m06-s03."
+    },
+    {
+      "site_id": "activity-m06-s03",
+      "route": "modules/module-06.html",
+      "module_id": "m06",
+      "section_id": "m06-s03",
+      "audience": "student",
+      "anchor": "m06-s03-learning-package",
+      "purpose": "Complete the embedded applied-learning activity act-18-m06-s03."
+    },
+    {
+      "site_id": "media-m06-s03",
+      "route": "modules/module-06.html",
+      "module_id": "m06",
+      "section_id": "m06-s03",
+      "audience": "student",
+      "anchor": "m06-s03-title",
+      "purpose": "Use the purposeful visual and complete the validated video or complete non-video pathway."
+    },
+    {
+      "site_id": "presentation-m07",
+      "route": "modules/module-07.html",
+      "anchor": "module-presentation-m07",
+      "audience": "student",
+      "purpose": "Download the primary matching presentation for Commercial Patterns.",
+      "module_id": "m07"
+    },
+    {
+      "site_id": "review-m07",
+      "route": "modules/module-07.html",
+      "anchor": "module-07-review",
+      "audience": "student",
+      "purpose": "Review completion across the module's three learning packages and return directly to each package.",
+      "module_id": "m07"
+    },
+    {
+      "site_id": "theory-m07-s01",
+      "route": "modules/module-07.html",
+      "module_id": "m07",
+      "section_id": "m07-s01",
+      "audience": "student",
+      "anchor": "m07-s01-title",
+      "purpose": "Read the named theory section: Envelope, measurements and size choice."
+    },
+    {
+      "site_id": "check-m07-s01",
+      "route": "modules/module-07.html",
+      "module_id": "m07",
+      "section_id": "m07-s01",
+      "audience": "student",
+      "anchor": "m07-s01-learning-package",
+      "purpose": "Complete the feedback-rich 10-question check kc-m07-s01."
+    },
+    {
+      "site_id": "evidence-m07-s01",
+      "route": "modules/module-07.html",
+      "module_id": "m07",
+      "section_id": "m07-s01",
+      "audience": "student",
+      "anchor": "m07-s01-learning-package",
+      "purpose": "Save the scaffolded capstone capstone-m07-s01."
+    },
+    {
+      "site_id": "activity-m07-s01",
+      "route": "modules/module-07.html",
+      "module_id": "m07",
+      "section_id": "m07-s01",
+      "audience": "student",
+      "anchor": "m07-s01-learning-package",
+      "purpose": "Complete the embedded applied-learning activity act-19-m07-s01."
+    },
+    {
+      "site_id": "media-m07-s01",
+      "route": "modules/module-07.html",
+      "module_id": "m07",
+      "section_id": "m07-s01",
+      "audience": "student",
+      "anchor": "m07-s01-title",
+      "purpose": "Use the purposeful visual and complete the validated video or complete non-video pathway."
+    },
+    {
+      "site_id": "theory-m07-s02",
+      "route": "modules/module-07.html",
+      "module_id": "m07",
+      "section_id": "m07-s02",
+      "audience": "student",
+      "anchor": "m07-s02-title",
+      "purpose": "Read the named theory section: Pieces, markings and grainline."
+    },
+    {
+      "site_id": "check-m07-s02",
+      "route": "modules/module-07.html",
+      "module_id": "m07",
+      "section_id": "m07-s02",
+      "audience": "student",
+      "anchor": "m07-s02-learning-package",
+      "purpose": "Complete the feedback-rich 10-question check kc-m07-s02."
+    },
+    {
+      "site_id": "evidence-m07-s02",
+      "route": "modules/module-07.html",
+      "module_id": "m07",
+      "section_id": "m07-s02",
+      "audience": "student",
+      "anchor": "m07-s02-learning-package",
+      "purpose": "Save the scaffolded capstone capstone-m07-s02."
+    },
+    {
+      "site_id": "activity-m07-s02",
+      "route": "modules/module-07.html",
+      "module_id": "m07",
+      "section_id": "m07-s02",
+      "audience": "student",
+      "anchor": "m07-s02-learning-package",
+      "purpose": "Complete the embedded applied-learning activity act-20-m07-s02."
+    },
+    {
+      "site_id": "media-m07-s02",
+      "route": "modules/module-07.html",
+      "module_id": "m07",
+      "section_id": "m07-s02",
+      "audience": "student",
+      "anchor": "m07-s02-title",
+      "purpose": "Use the purposeful visual and complete the validated video or complete non-video pathway."
+    },
+    {
+      "site_id": "theory-m07-s03",
+      "route": "modules/module-07.html",
+      "module_id": "m07",
+      "section_id": "m07-s03",
+      "audience": "student",
+      "anchor": "m07-s03-title",
+      "purpose": "Read the named theory section: Layout, quantity, cost and alterations."
+    },
+    {
+      "site_id": "check-m07-s03",
+      "route": "modules/module-07.html",
+      "module_id": "m07",
+      "section_id": "m07-s03",
+      "audience": "student",
+      "anchor": "m07-s03-learning-package",
+      "purpose": "Complete the feedback-rich 10-question check kc-m07-s03."
+    },
+    {
+      "site_id": "evidence-m07-s03",
+      "route": "modules/module-07.html",
+      "module_id": "m07",
+      "section_id": "m07-s03",
+      "audience": "student",
+      "anchor": "m07-s03-learning-package",
+      "purpose": "Save the scaffolded capstone capstone-m07-s03."
+    },
+    {
+      "site_id": "activity-m07-s03",
+      "route": "modules/module-07.html",
+      "module_id": "m07",
+      "section_id": "m07-s03",
+      "audience": "student",
+      "anchor": "m07-s03-learning-package",
+      "purpose": "Complete the embedded applied-learning activity act-21-m07-s03."
+    },
+    {
+      "site_id": "media-m07-s03",
+      "route": "modules/module-07.html",
+      "module_id": "m07",
+      "section_id": "m07-s03",
+      "audience": "student",
+      "anchor": "m07-s03-title",
+      "purpose": "Use the purposeful visual and complete the validated video or complete non-video pathway."
+    },
+    {
+      "site_id": "presentation-m08",
+      "route": "modules/module-08.html",
+      "anchor": "module-presentation-m08",
+      "audience": "student",
+      "purpose": "Download the primary matching presentation for Apparel Design Plan.",
+      "module_id": "m08"
+    },
+    {
+      "site_id": "review-m08",
+      "route": "modules/module-08.html",
+      "anchor": "module-08-review",
+      "audience": "student",
+      "purpose": "Review completion across the module's three learning packages and return directly to each package.",
+      "module_id": "m08"
+    },
+    {
+      "site_id": "theory-m08-s01",
+      "route": "modules/module-08.html",
+      "module_id": "m08",
+      "section_id": "m08-s01",
+      "audience": "student",
+      "anchor": "m08-s01-title",
+      "purpose": "Read the named theory section: Target market and the apparel brief."
+    },
+    {
+      "site_id": "check-m08-s01",
+      "route": "modules/module-08.html",
+      "module_id": "m08",
+      "section_id": "m08-s01",
+      "audience": "student",
+      "anchor": "m08-s01-learning-package",
+      "purpose": "Complete the feedback-rich 10-question check kc-m08-s01."
+    },
+    {
+      "site_id": "evidence-m08-s01",
+      "route": "modules/module-08.html",
+      "module_id": "m08",
+      "section_id": "m08-s01",
+      "audience": "student",
+      "anchor": "m08-s01-learning-package",
+      "purpose": "Save the scaffolded capstone capstone-m08-s01."
+    },
+    {
+      "site_id": "activity-m08-s01",
+      "route": "modules/module-08.html",
+      "module_id": "m08",
+      "section_id": "m08-s01",
+      "audience": "student",
+      "anchor": "m08-s01-learning-package",
+      "purpose": "Complete the embedded applied-learning activity act-22-m08-s01."
+    },
+    {
+      "site_id": "media-m08-s01",
+      "route": "modules/module-08.html",
+      "module_id": "m08",
+      "section_id": "m08-s01",
+      "audience": "student",
+      "anchor": "m08-s01-title",
+      "purpose": "Use the purposeful visual and complete the validated video or complete non-video pathway."
+    },
+    {
+      "site_id": "theory-m08-s02",
+      "route": "modules/module-08.html",
+      "module_id": "m08",
+      "section_id": "m08-s02",
+      "audience": "student",
+      "anchor": "m08-s02-title",
+      "purpose": "Read the named theory section: Aesthetic and functional features."
+    },
+    {
+      "site_id": "check-m08-s02",
+      "route": "modules/module-08.html",
+      "module_id": "m08",
+      "section_id": "m08-s02",
+      "audience": "student",
+      "anchor": "m08-s02-learning-package",
+      "purpose": "Complete the feedback-rich 10-question check kc-m08-s02."
+    },
+    {
+      "site_id": "evidence-m08-s02",
+      "route": "modules/module-08.html",
+      "module_id": "m08",
+      "section_id": "m08-s02",
+      "audience": "student",
+      "anchor": "m08-s02-learning-package",
+      "purpose": "Save the scaffolded capstone capstone-m08-s02."
+    },
+    {
+      "site_id": "activity-m08-s02",
+      "route": "modules/module-08.html",
+      "module_id": "m08",
+      "section_id": "m08-s02",
+      "audience": "student",
+      "anchor": "m08-s02-learning-package",
+      "purpose": "Complete the embedded applied-learning activity act-23-m08-s02."
+    },
+    {
+      "site_id": "media-m08-s02",
+      "route": "modules/module-08.html",
+      "module_id": "m08",
+      "section_id": "m08-s02",
+      "audience": "student",
+      "anchor": "m08-s02-title",
+      "purpose": "Use the purposeful visual and complete the validated video or complete non-video pathway."
+    },
+    {
+      "site_id": "theory-m08-s03",
+      "route": "modules/module-08.html",
+      "module_id": "m08",
+      "section_id": "m08-s03",
+      "audience": "student",
+      "anchor": "m08-s03-title",
+      "purpose": "Read the named theory section: Final design, material, sustainability and sequence."
+    },
+    {
+      "site_id": "check-m08-s03",
+      "route": "modules/module-08.html",
+      "module_id": "m08",
+      "section_id": "m08-s03",
+      "audience": "student",
+      "anchor": "m08-s03-learning-package",
+      "purpose": "Complete the feedback-rich 10-question check kc-m08-s03."
+    },
+    {
+      "site_id": "evidence-m08-s03",
+      "route": "modules/module-08.html",
+      "module_id": "m08",
+      "section_id": "m08-s03",
+      "audience": "student",
+      "anchor": "m08-s03-learning-package",
+      "purpose": "Save the scaffolded capstone capstone-m08-s03."
+    },
+    {
+      "site_id": "activity-m08-s03",
+      "route": "modules/module-08.html",
+      "module_id": "m08",
+      "section_id": "m08-s03",
+      "audience": "student",
+      "anchor": "m08-s03-learning-package",
+      "purpose": "Complete the embedded applied-learning activity act-24-m08-s03."
+    },
+    {
+      "site_id": "media-m08-s03",
+      "route": "modules/module-08.html",
+      "module_id": "m08",
+      "section_id": "m08-s03",
+      "audience": "student",
+      "anchor": "m08-s03-title",
+      "purpose": "Use the purposeful visual and complete the validated video or complete non-video pathway."
+    },
+    {
+      "site_id": "presentation-m09",
+      "route": "modules/module-09.html",
+      "anchor": "module-presentation-m09",
+      "audience": "student",
+      "purpose": "Download the primary matching presentation for Produce the Bottoms.",
+      "module_id": "m09"
+    },
+    {
+      "site_id": "review-m09",
+      "route": "modules/module-09.html",
+      "anchor": "module-09-review",
+      "audience": "student",
+      "purpose": "Review completion across the module's three learning packages and return directly to each package.",
+      "module_id": "m09"
+    },
+    {
+      "site_id": "theory-m09-s01",
+      "route": "modules/module-09.html",
+      "module_id": "m09",
+      "section_id": "m09-s01",
+      "audience": "student",
+      "anchor": "m09-s01-title",
+      "purpose": "Read the named theory section: Prepare and cut under teacher direction."
+    },
+    {
+      "site_id": "check-m09-s01",
+      "route": "modules/module-09.html",
+      "module_id": "m09",
+      "section_id": "m09-s01",
+      "audience": "student",
+      "anchor": "m09-s01-learning-package",
+      "purpose": "Complete the feedback-rich 10-question check kc-m09-s01."
+    },
+    {
+      "site_id": "evidence-m09-s01",
+      "route": "modules/module-09.html",
+      "module_id": "m09",
+      "section_id": "m09-s01",
+      "audience": "student",
+      "anchor": "m09-s01-learning-package",
+      "purpose": "Save the scaffolded capstone capstone-m09-s01."
+    },
+    {
+      "site_id": "activity-m09-s01",
+      "route": "modules/module-09.html",
+      "module_id": "m09",
+      "section_id": "m09-s01",
+      "audience": "student",
+      "anchor": "m09-s01-learning-package",
+      "purpose": "Complete the embedded applied-learning activity act-25-m09-s01."
+    },
+    {
+      "site_id": "media-m09-s01",
+      "route": "modules/module-09.html",
+      "module_id": "m09",
+      "section_id": "m09-s01",
+      "audience": "student",
+      "anchor": "m09-s01-title",
+      "purpose": "Use the purposeful visual and complete the validated video or complete non-video pathway."
+    },
+    {
+      "site_id": "theory-m09-s02",
+      "route": "modules/module-09.html",
+      "module_id": "m09",
+      "section_id": "m09-s02",
+      "audience": "student",
+      "anchor": "m09-s02-title",
+      "purpose": "Read the named theory section: Construct under teacher demonstration."
+    },
+    {
+      "site_id": "check-m09-s02",
+      "route": "modules/module-09.html",
+      "module_id": "m09",
+      "section_id": "m09-s02",
+      "audience": "student",
+      "anchor": "m09-s02-learning-package",
+      "purpose": "Complete the feedback-rich 10-question check kc-m09-s02."
+    },
+    {
+      "site_id": "evidence-m09-s02",
+      "route": "modules/module-09.html",
+      "module_id": "m09",
+      "section_id": "m09-s02",
+      "audience": "student",
+      "anchor": "m09-s02-learning-package",
+      "purpose": "Save the scaffolded capstone capstone-m09-s02."
+    },
+    {
+      "site_id": "activity-m09-s02",
+      "route": "modules/module-09.html",
+      "module_id": "m09",
+      "section_id": "m09-s02",
+      "audience": "student",
+      "anchor": "m09-s02-learning-package",
+      "purpose": "Complete the embedded applied-learning activity act-26-m09-s02."
+    },
+    {
+      "site_id": "media-m09-s02",
+      "route": "modules/module-09.html",
+      "module_id": "m09",
+      "section_id": "m09-s02",
+      "audience": "student",
+      "anchor": "m09-s02-title",
+      "purpose": "Use the purposeful visual and complete the validated video or complete non-video pathway."
+    },
+    {
+      "site_id": "theory-m09-s03",
+      "route": "modules/module-09.html",
+      "module_id": "m09",
+      "section_id": "m09-s03",
+      "audience": "student",
+      "anchor": "m09-s03-title",
+      "purpose": "Read the named theory section: Quality control and progress evidence."
+    },
+    {
+      "site_id": "check-m09-s03",
+      "route": "modules/module-09.html",
+      "module_id": "m09",
+      "section_id": "m09-s03",
+      "audience": "student",
+      "anchor": "m09-s03-learning-package",
+      "purpose": "Complete the feedback-rich 10-question check kc-m09-s03."
+    },
+    {
+      "site_id": "evidence-m09-s03",
+      "route": "modules/module-09.html",
+      "module_id": "m09",
+      "section_id": "m09-s03",
+      "audience": "student",
+      "anchor": "m09-s03-learning-package",
+      "purpose": "Save the scaffolded capstone capstone-m09-s03."
+    },
+    {
+      "site_id": "activity-m09-s03",
+      "route": "modules/module-09.html",
+      "module_id": "m09",
+      "section_id": "m09-s03",
+      "audience": "student",
+      "anchor": "m09-s03-learning-package",
+      "purpose": "Complete the embedded applied-learning activity act-27-m09-s03."
+    },
+    {
+      "site_id": "media-m09-s03",
+      "route": "modules/module-09.html",
+      "module_id": "m09",
+      "section_id": "m09-s03",
+      "audience": "student",
+      "anchor": "m09-s03-title",
+      "purpose": "Use the purposeful visual and complete the validated video or complete non-video pathway."
+    },
+    {
+      "site_id": "presentation-m10",
+      "route": "modules/module-10.html",
+      "anchor": "module-presentation-m10",
+      "audience": "student",
+      "purpose": "Download the primary matching presentation for Evaluate and Communicate.",
+      "module_id": "m10"
+    },
+    {
+      "site_id": "review-m10",
+      "route": "modules/module-10.html",
+      "anchor": "module-10-review",
+      "audience": "student",
+      "purpose": "Review completion across the module's three learning packages and return directly to each package.",
+      "module_id": "m10"
+    },
+    {
+      "site_id": "theory-m10-s01",
+      "route": "modules/module-10.html",
+      "module_id": "m10",
+      "section_id": "m10-s01",
+      "audience": "student",
+      "anchor": "m10-s01-title",
+      "purpose": "Read the named theory section: Test against criteria."
+    },
+    {
+      "site_id": "check-m10-s01",
+      "route": "modules/module-10.html",
+      "module_id": "m10",
+      "section_id": "m10-s01",
+      "audience": "student",
+      "anchor": "m10-s01-learning-package",
+      "purpose": "Complete the feedback-rich 10-question check kc-m10-s01."
+    },
+    {
+      "site_id": "evidence-m10-s01",
+      "route": "modules/module-10.html",
+      "module_id": "m10",
+      "section_id": "m10-s01",
+      "audience": "student",
+      "anchor": "m10-s01-learning-package",
+      "purpose": "Save the scaffolded capstone capstone-m10-s01."
+    },
+    {
+      "site_id": "activity-m10-s01",
+      "route": "modules/module-10.html",
+      "module_id": "m10",
+      "section_id": "m10-s01",
+      "audience": "student",
+      "anchor": "m10-s01-learning-package",
+      "purpose": "Complete the embedded applied-learning activity act-28-m10-s01."
+    },
+    {
+      "site_id": "media-m10-s01",
+      "route": "modules/module-10.html",
+      "module_id": "m10",
+      "section_id": "m10-s01",
+      "audience": "student",
+      "anchor": "m10-s01-title",
+      "purpose": "Use the purposeful visual and complete the validated video or complete non-video pathway."
+    },
+    {
+      "site_id": "theory-m10-s02",
+      "route": "modules/module-10.html",
+      "module_id": "m10",
+      "section_id": "m10-s02",
+      "audience": "student",
+      "anchor": "m10-s02-title",
+      "purpose": "Read the named theory section: Care label and swing tag."
+    },
+    {
+      "site_id": "check-m10-s02",
+      "route": "modules/module-10.html",
+      "module_id": "m10",
+      "section_id": "m10-s02",
+      "audience": "student",
+      "anchor": "m10-s02-learning-package",
+      "purpose": "Complete the feedback-rich 10-question check kc-m10-s02."
+    },
+    {
+      "site_id": "evidence-m10-s02",
+      "route": "modules/module-10.html",
+      "module_id": "m10",
+      "section_id": "m10-s02",
+      "audience": "student",
+      "anchor": "m10-s02-learning-package",
+      "purpose": "Save the scaffolded capstone capstone-m10-s02."
+    },
+    {
+      "site_id": "activity-m10-s02",
+      "route": "modules/module-10.html",
+      "module_id": "m10",
+      "section_id": "m10-s02",
+      "audience": "student",
+      "anchor": "m10-s02-learning-package",
+      "purpose": "Complete the embedded applied-learning activity act-29-m10-s02."
+    },
+    {
+      "site_id": "media-m10-s02",
+      "route": "modules/module-10.html",
+      "module_id": "m10",
+      "section_id": "m10-s02",
+      "audience": "student",
+      "anchor": "m10-s02-title",
+      "purpose": "Use the purposeful visual and complete the validated video or complete non-video pathway."
+    },
+    {
+      "site_id": "theory-m10-s03",
+      "route": "modules/module-10.html",
+      "module_id": "m10",
+      "section_id": "m10-s03",
+      "audience": "student",
+      "anchor": "m10-s03-title",
+      "purpose": "Read the named theory section: Reflection, folio and collaborative showcase."
+    },
+    {
+      "site_id": "check-m10-s03",
+      "route": "modules/module-10.html",
+      "module_id": "m10",
+      "section_id": "m10-s03",
+      "audience": "student",
+      "anchor": "m10-s03-learning-package",
+      "purpose": "Complete the feedback-rich 10-question check kc-m10-s03."
+    },
+    {
+      "site_id": "evidence-m10-s03",
+      "route": "modules/module-10.html",
+      "module_id": "m10",
+      "section_id": "m10-s03",
+      "audience": "student",
+      "anchor": "m10-s03-learning-package",
+      "purpose": "Save the scaffolded capstone capstone-m10-s03."
+    },
+    {
+      "site_id": "activity-m10-s03",
+      "route": "modules/module-10.html",
+      "module_id": "m10",
+      "section_id": "m10-s03",
+      "audience": "student",
+      "anchor": "m10-s03-learning-package",
+      "purpose": "Complete the embedded applied-learning activity act-30-m10-s03."
+    },
+    {
+      "site_id": "media-m10-s03",
+      "route": "modules/module-10.html",
+      "module_id": "m10",
+      "section_id": "m10-s03",
+      "audience": "student",
+      "anchor": "m10-s03-title",
+      "purpose": "Use the purposeful visual and complete the validated video or complete non-video pathway."
+    },
+    {
+      "site_id": "course-home",
+      "route": "index.html",
+      "audience": "student",
+      "purpose": "Course map, module entry points and progress orientation.",
+      "module_id": "m01"
+    },
+    {
+      "site_id": "busy-work-bank",
+      "route": "activities.html",
+      "audience": "student",
+      "purpose": "Top-level bank of the 30 concept-linked Applied Learning Activities.",
+      "module_id": "m01"
+    },
+    {
+      "site_id": "video-learning-bank",
+      "route": "video-learning.html",
+      "audience": "student",
+      "purpose": "Section-linked video learning and complete non-video pathways.",
+      "module_id": "m01"
+    },
+    {
+      "site_id": "folio-route",
+      "route": "folio.html",
+      "audience": "student",
+      "purpose": "Autosaving apparel folio with nine evidence stages and an extended response.",
+      "module_id": "m08"
+    },
+    {
+      "site_id": "assessment-route",
+      "route": "assessment.html",
+      "audience": "student",
+      "purpose": "Assessment orientation with formal details held at Teacher to confirm.",
+      "module_id": "m10"
+    },
+    {
+      "site_id": "teacher-resources-route",
+      "route": "teacher-resources.html",
+      "audience": "teacher",
+      "purpose": "Teacher downloads, program and source-bound controls.",
+      "module_id": "m01"
+    },
+    {
+      "site_id": "sources-route",
+      "route": "sources.html",
+      "audience": "teacher",
+      "purpose": "Public-safe source and authority explanation.",
+      "module_id": "m01"
+    }
+  ],
+  "module_coverage": [
+    {
+      "module_id": "m01",
+      "route": "modules/module-01.html",
+      "presentation_site_id": "presentation-m01",
+      "review_site_id": "review-m01",
+      "section_ids": [
+        "m01-s01",
+        "m01-s02",
+        "m01-s03"
+      ]
+    },
+    {
+      "module_id": "m02",
+      "route": "modules/module-02.html",
+      "presentation_site_id": "presentation-m02",
+      "review_site_id": "review-m02",
+      "section_ids": [
+        "m02-s01",
+        "m02-s02",
+        "m02-s03"
+      ]
+    },
+    {
+      "module_id": "m03",
+      "route": "modules/module-03.html",
+      "presentation_site_id": "presentation-m03",
+      "review_site_id": "review-m03",
+      "section_ids": [
+        "m03-s01",
+        "m03-s02",
+        "m03-s03"
+      ]
+    },
+    {
+      "module_id": "m04",
+      "route": "modules/module-04.html",
+      "presentation_site_id": "presentation-m04",
+      "review_site_id": "review-m04",
+      "section_ids": [
+        "m04-s01",
+        "m04-s02",
+        "m04-s03"
+      ]
+    },
+    {
+      "module_id": "m05",
+      "route": "modules/module-05.html",
+      "presentation_site_id": "presentation-m05",
+      "review_site_id": "review-m05",
+      "section_ids": [
+        "m05-s01",
+        "m05-s02",
+        "m05-s03"
+      ]
+    },
+    {
+      "module_id": "m06",
+      "route": "modules/module-06.html",
+      "presentation_site_id": "presentation-m06",
+      "review_site_id": "review-m06",
+      "section_ids": [
+        "m06-s01",
+        "m06-s02",
+        "m06-s03"
+      ]
+    },
+    {
+      "module_id": "m07",
+      "route": "modules/module-07.html",
+      "presentation_site_id": "presentation-m07",
+      "review_site_id": "review-m07",
+      "section_ids": [
+        "m07-s01",
+        "m07-s02",
+        "m07-s03"
+      ]
+    },
+    {
+      "module_id": "m08",
+      "route": "modules/module-08.html",
+      "presentation_site_id": "presentation-m08",
+      "review_site_id": "review-m08",
+      "section_ids": [
+        "m08-s01",
+        "m08-s02",
+        "m08-s03"
+      ]
+    },
+    {
+      "module_id": "m09",
+      "route": "modules/module-09.html",
+      "presentation_site_id": "presentation-m09",
+      "review_site_id": "review-m09",
+      "section_ids": [
+        "m09-s01",
+        "m09-s02",
+        "m09-s03"
+      ]
+    },
+    {
+      "module_id": "m10",
+      "route": "modules/module-10.html",
+      "presentation_site_id": "presentation-m10",
+      "review_site_id": "review-m10",
+      "section_ids": [
+        "m10-s01",
+        "m10-s02",
+        "m10-s03"
+      ]
+    }
+  ],
+  "top_level_learning": [
+    "course-home",
+    "busy-work-bank",
+    "video-learning-bank",
+    "folio-route",
+    "assessment-route",
+    "teacher-resources-route",
+    "sources-route"
+  ],
+  "puzzles": {
+    "state": "not-applicable",
+    "reason": "The integrated candidate has no separate puzzle route. Concept-linked Applied Learning Activities are embedded in every section and collected in Busy Work."
+  },
+  "exclusions": [
+    "Private Drive identifiers and controlled source files are not website destinations.",
+    "Formal assessment dates, weighting, outcomes, rubric and submission routes are not mapped until an approved current notification exists.",
+    "Browser records do not prove practical performance, teacher observation or submission."
+  ]
+}
