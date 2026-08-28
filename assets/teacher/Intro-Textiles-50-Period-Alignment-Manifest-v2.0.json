@@ -1,0 +1,2592 @@
+{
+  "schema_version": "1.1",
+  "program_id": "intro-textiles-stage-4-introductory-elective",
+  "version": "v2.0",
+  "course": {
+    "title": "Intro Textiles Technology",
+    "classification": "School-developed 50-hour Stage 4 introductory elective aligned to Textiles Technology",
+    "stage_or_year": "Stage 4",
+    "delivery_year": 2027,
+    "project": "Design and produce source-backed accessory and apparel textile projects"
+  },
+  "site": {
+    "name": "Stage 4 Textiles Technology - Accessories and Shorts/Pants",
+    "reference": "https://stevencowell.github.io/Year-8-Textiles-Technology/",
+    "inspection_date": "2026-08-28",
+    "state": "mixed"
+  },
+  "syllabus": {
+    "title": "Textiles Technology 7-10 Syllabus",
+    "version": "2025",
+    "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/overview/course",
+    "verified_date": "2026-08-28",
+    "mandatory_from": "2028",
+    "early_implementation": "permitted",
+    "steve_decision": "use-new-early",
+    "implementation_status": "early-adoption-confirmed"
+  },
+  "timetable": {
+    "weeks": 20,
+    "period_minutes": 60,
+    "periods_per_fortnight": 5,
+    "total_periods": 50
+  },
+  "outcomes": [
+    {
+      "code": "TT4-ADJ-01",
+      "statement": "in Stage 4 teachers may adjust the Stage 5 outcomes as appropriate to the needs of students in Years 7 and 8",
+      "source_id": "S2",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/outcomes"
+    },
+    {
+      "code": "TT5-SAF-01",
+      "statement": "applies design processes and safe work practices to develop textile projects",
+      "source_id": "S2",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/outcomes"
+    },
+    {
+      "code": "TT5-COM-01",
+      "statement": "communicates ideas, concepts and processes for textile design and production",
+      "source_id": "S2",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/outcomes"
+    },
+    {
+      "code": "TT5-EVL-01",
+      "statement": "investigates and evaluates design inspiration sources and textile products",
+      "source_id": "S2",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/outcomes"
+    },
+    {
+      "code": "TT5-IVT-01",
+      "statement": "explains industry practices and innovative technologies used in textile design and production",
+      "source_id": "S2",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/outcomes"
+    },
+    {
+      "code": "TT5-CDT-01",
+      "statement": "investigates and applies construction and decorative techniques to create textile products",
+      "source_id": "S2",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/outcomes"
+    },
+    {
+      "code": "TT5-MAT-01",
+      "statement": "justifies the selection and use of materials and technologies for textile design and production",
+      "source_id": "S2",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/outcomes"
+    },
+    {
+      "code": "TT5-ENV-01",
+      "statement": "analyses relationships between textile design, production and sustainability",
+      "source_id": "S2",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/outcomes"
+    }
+  ],
+  "source_register": [
+    {
+      "id": "S1",
+      "title": "Textiles Technology 7-10 Syllabus (2025) course overview",
+      "authority": "official-syllabus",
+      "location": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/overview/course",
+      "revision": "verified 2026-08-28",
+      "use": "Course classification, implementation advice and course requirements"
+    },
+    {
+      "id": "S2",
+      "title": "Textiles Technology 7-10 Syllabus (2025) outcomes",
+      "authority": "official-syllabus",
+      "location": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/outcomes",
+      "revision": "verified 2026-08-28",
+      "use": "Exact Stage 4 adjustment and Stage 5 outcomes"
+    },
+    {
+      "id": "S3",
+      "title": "Textiles Technology Stage 4 content - textile project work",
+      "authority": "official-syllabus",
+      "location": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-4/fab8e5b90a",
+      "revision": "verified 2026-08-28",
+      "use": "Official Stage 4 syllabus content"
+    },
+    {
+      "id": "S4",
+      "title": "Intro Textiles Technology teacher program v1.0.0",
+      "authority": "local-program",
+      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\year8-elective-alignment\\textiles-technology\\assets\\teacher\\teacher-program-v1.0.0.docx",
+      "revision": "08A9DF7B388479908B757BF86BDEDC1C4499FFF76B1A3A2A52721DFD361564D3",
+      "use": "Preserved project sequence, candidate practical contexts and local boundaries"
+    },
+    {
+      "id": "S5",
+      "title": "Intro Textiles Technology guided-course repository",
+      "authority": "website",
+      "location": "https://stevencowell.github.io/Year-8-Textiles-Technology/",
+      "revision": "inspected 2026-08-28",
+      "use": "Named theory sections, checks, scaffolded responses, applied activities, folio and routes"
+    },
+    {
+      "id": "S6",
+      "title": "Footstool network program v2.0",
+      "authority": "quality-reference",
+      "location": "C:\\Users\\scowell1\\Documents\\Codex\\2026-08-28\\okay-so-with-the-all-the\\work\\year8-elective-alignment\\intro-timber\\resources\\teacher\\Footstool-50-Period-Teaching-Program-v2.0-Network-Benchmark.docx",
+      "revision": "35305F05807C01BCD5AB334773ED3E83DFC5B5F5A3EA6579AC5CC4BFF1B07735",
+      "use": "Document structure, timetable pattern and visual family only"
+    }
+  ],
+  "website_learning_inventory": [
+    {
+      "id": "m01-s01",
+      "route": "modules/module-01.html#m01-s01-title",
+      "theory_section": "Textiles in everyday life",
+      "quiz_or_check": "Textiles in everyday life - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        1
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-01-m01-s01 and capstone-m01-s01.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m01-s02",
+      "route": "modules/module-01.html#m01-s02-title",
+      "theory_section": "Studio routines and hazard decisions",
+      "quiz_or_check": "Studio routines and hazard decisions - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        2
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-02-m01-s02 and capstone-m01-s02.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m01-s03",
+      "route": "modules/module-01.html#m01-s03-title",
+      "theory_section": "Tools, materials and shared responsibility",
+      "quiz_or_check": "Tools, materials and shared responsibility - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        3
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-03-m01-s03 and capstone-m01-s03.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m02-s01",
+      "route": "modules/module-02.html#m02-s01-title",
+      "theory_section": "Machine parts and functions",
+      "quiz_or_check": "Machine parts and functions - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        6
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-04-m02-s01 and capstone-m02-s01.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m02-s02",
+      "route": "modules/module-02.html#m02-s02-title",
+      "theory_section": "Safe setup and threading boundaries",
+      "quiz_or_check": "Safe setup and threading boundaries - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        7
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-05-m02-s02 and capstone-m02-s02.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m02-s03",
+      "route": "modules/module-02.html#m02-s03-title",
+      "theory_section": "Stitch control and troubleshooting",
+      "quiz_or_check": "Stitch control and troubleshooting - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        8
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-06-m02-s03 and capstone-m02-s03.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m03-s01",
+      "route": "modules/module-03.html#m03-s01-title",
+      "theory_section": "Brief and success criteria",
+      "quiz_or_check": "Brief and success criteria - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        11
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-07-m03-s01 and capstone-m03-s01.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m03-s02",
+      "route": "modules/module-03.html#m03-s02-title",
+      "theory_section": "Plan, materials and technique sample",
+      "quiz_or_check": "Plan, materials and technique sample - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        12
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-08-m03-s02 and capstone-m03-s02.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m03-s03",
+      "route": "modules/module-03.html#m03-s03-title",
+      "theory_section": "Make, evaluate and improve",
+      "quiz_or_check": "Make, evaluate and improve - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        13
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-09-m03-s03 and capstone-m03-s03.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m04-s01",
+      "route": "modules/module-04.html#m04-s01-title",
+      "theory_section": "Function and user needs",
+      "quiz_or_check": "Function and user needs - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        16
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-10-m04-s01 and capstone-m04-s01.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m04-s02",
+      "route": "modules/module-04.html#m04-s02-title",
+      "theory_section": "Construction sequence and decoration",
+      "quiz_or_check": "Construction sequence and decoration - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        17
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-11-m04-s02 and capstone-m04-s02.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m04-s03",
+      "route": "modules/module-04.html#m04-s03-title",
+      "theory_section": "Quality, evaluation and communication",
+      "quiz_or_check": "Quality, evaluation and communication - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        18
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-12-m04-s03 and capstone-m04-s03.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m05-s01",
+      "route": "modules/module-05.html#m05-s01-title",
+      "theory_section": "Design brief and user",
+      "quiz_or_check": "Design brief and user - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        21
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-13-m05-s01 and capstone-m05-s01.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m05-s02",
+      "route": "modules/module-05.html#m05-s02-title",
+      "theory_section": "Mood boards, colour and texture",
+      "quiz_or_check": "Mood boards, colour and texture - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        22
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-14-m05-s02 and capstone-m05-s02.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m05-s03",
+      "route": "modules/module-05.html#m05-s03-title",
+      "theory_section": "Ethical digital inspiration",
+      "quiz_or_check": "Ethical digital inspiration - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        23
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-15-m05-s03 and capstone-m05-s03.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m06-s01",
+      "route": "modules/module-06.html#m06-s01-title",
+      "theory_section": "Fibre origins",
+      "quiz_or_check": "Fibre origins - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        26
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-16-m06-s01 and capstone-m06-s01.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m06-s02",
+      "route": "modules/module-06.html#m06-s02-title",
+      "theory_section": "Yarn and fabric structures",
+      "quiz_or_check": "Yarn and fabric structures - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        27
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-17-m06-s02 and capstone-m06-s02.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m06-s03",
+      "route": "modules/module-06.html#m06-s03-title",
+      "theory_section": "Properties, testing and end use",
+      "quiz_or_check": "Properties, testing and end use - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        28
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-18-m06-s03 and capstone-m06-s03.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m07-s01",
+      "route": "modules/module-07.html#m07-s01-title",
+      "theory_section": "Envelope, measurements and size choice",
+      "quiz_or_check": "Envelope, measurements and size choice - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        31
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-19-m07-s01 and capstone-m07-s01.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m07-s02",
+      "route": "modules/module-07.html#m07-s02-title",
+      "theory_section": "Pieces, markings and grainline",
+      "quiz_or_check": "Pieces, markings and grainline - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        32
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-20-m07-s02 and capstone-m07-s02.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m07-s03",
+      "route": "modules/module-07.html#m07-s03-title",
+      "theory_section": "Layout, quantity, cost and alterations",
+      "quiz_or_check": "Layout, quantity, cost and alterations - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        33
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-21-m07-s03 and capstone-m07-s03.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m08-s01",
+      "route": "modules/module-08.html#m08-s01-title",
+      "theory_section": "Target market and the apparel brief",
+      "quiz_or_check": "Target market and the apparel brief - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        36
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-22-m08-s01 and capstone-m08-s01.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m08-s02",
+      "route": "modules/module-08.html#m08-s02-title",
+      "theory_section": "Aesthetic and functional features",
+      "quiz_or_check": "Aesthetic and functional features - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        37
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-23-m08-s02 and capstone-m08-s02.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m08-s03",
+      "route": "modules/module-08.html#m08-s03-title",
+      "theory_section": "Final design, material, sustainability and sequence",
+      "quiz_or_check": "Final design, material, sustainability and sequence - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        38
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-24-m08-s03 and capstone-m08-s03.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m09-s01",
+      "route": "modules/module-09.html#m09-s01-title",
+      "theory_section": "Prepare and cut under teacher direction",
+      "quiz_or_check": "Prepare and cut under teacher direction - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        41
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-25-m09-s01 and capstone-m09-s01.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m09-s02",
+      "route": "modules/module-09.html#m09-s02-title",
+      "theory_section": "Construct under teacher demonstration",
+      "quiz_or_check": "Construct under teacher demonstration - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        42
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-26-m09-s02 and capstone-m09-s02.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m09-s03",
+      "route": "modules/module-09.html#m09-s03-title",
+      "theory_section": "Quality control and progress evidence",
+      "quiz_or_check": "Quality control and progress evidence - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        43
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-27-m09-s03 and capstone-m09-s03.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m10-s01",
+      "route": "modules/module-10.html#m10-s01-title",
+      "theory_section": "Test against criteria",
+      "quiz_or_check": "Test against criteria - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        46
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-28-m10-s01 and capstone-m10-s01.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m10-s02",
+      "route": "modules/module-10.html#m10-s02-title",
+      "theory_section": "Care label and swing tag",
+      "quiz_or_check": "Care label and swing tag - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        47
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-29-m10-s02 and capstone-m10-s02.",
+      "teacher_to_confirm_ids": []
+    },
+    {
+      "id": "m10-s03",
+      "route": "modules/module-10.html#m10-s03-title",
+      "theory_section": "Reflection, folio and collaborative showcase",
+      "quiz_or_check": "Reflection, folio and collaborative showcase - knowledge check",
+      "question_count": 10,
+      "scaffolded_response_count": 1,
+      "period_numbers": [
+        48
+      ],
+      "coverage_state": "scheduled",
+      "evidence": "All 10 checked responses, act-30-m10-s03 and capstone-m10-s03.",
+      "teacher_to_confirm_ids": []
+    }
+  ],
+  "periods": [
+    {
+      "number": 1,
+      "type": "Site/theory",
+      "focus": "Textiles in everyday life",
+      "student_work": "Complete 10 checks, the applied activity and the scaffolded response.",
+      "evidence": "Check 10 responses, the activity and the response.",
+      "syllabus_content": [
+        "Investigate textile products and how their features meet needs in diverse contexts."
+      ],
+      "outcome_codes": [
+        "TT5-EVL-01",
+        "TT5-IVT-01",
+        "TT5-ENV-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-01.html#m01-s01-title"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m01-s01"
+      ]
+    },
+    {
+      "number": 2,
+      "type": "Project/folio",
+      "focus": "Studio routines and hazard decisions",
+      "student_work": "Complete 10 checks and the response; save the activity and linked folio evidence.",
+      "evidence": "Check 10 responses, the response and folio evidence.",
+      "syllabus_content": [
+        "Identify responsibilities and apply safe work practices during textile project work."
+      ],
+      "outcome_codes": [
+        "TT5-SAF-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-01.html#m01-s02-title",
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m01-s02"
+      ]
+    },
+    {
+      "number": 3,
+      "type": "Practical",
+      "focus": "Tools, materials and shared responsibility",
+      "student_work": "First 20 min: complete the section check and response. Then start the approved practical.",
+      "evidence": "Check the response; observe the process and one quality point.",
+      "syllabus_content": [
+        "Select and use textile materials, tools and equipment responsibly."
+      ],
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-MAT-01",
+        "TT5-COM-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-01.html#m01-s03-title"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": [
+        "m01-s03"
+      ]
+    },
+    {
+      "number": 4,
+      "type": "Practical",
+      "focus": "Produce: Studio routines and tool-handling investigation",
+      "student_work": "Continue the approved task using the current demonstration and controls; check technique and quality.",
+      "evidence": "Observe setup, process, technique, quality and clean/reset.",
+      "syllabus_content": [
+        "Apply safe work practices, textile techniques and ongoing evaluation in teacher-authorised project work."
+      ],
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-CDT-01",
+        "TT5-EVL-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 5,
+      "type": "Practical",
+      "focus": "Evaluate: Studio routines and tool-handling investigation",
+      "student_work": "Complete the approved stage; record quality, a decision and next action; clean/reset.",
+      "evidence": "Check quality and next action; observe completion and clean/reset.",
+      "syllabus_content": [
+        "Apply safe work practices, textile techniques and ongoing evaluation in teacher-authorised project work."
+      ],
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-EVL-01",
+        "TT5-MAT-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 6,
+      "type": "Site/theory",
+      "focus": "Machine parts and functions",
+      "student_work": "Complete 10 checks, the applied activity and the scaffolded response.",
+      "evidence": "Check 10 responses, the activity and the response.",
+      "syllabus_content": [
+        "Identify functions of textile technologies and relate them to controlled production."
+      ],
+      "outcome_codes": [
+        "TT5-IVT-01",
+        "TT5-CDT-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-02.html#m02-s01-title"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m02-s01"
+      ]
+    },
+    {
+      "number": 7,
+      "type": "Project/folio",
+      "focus": "Safe setup and threading boundaries",
+      "student_work": "Complete 10 checks and the response; save the activity and linked folio evidence.",
+      "evidence": "Check 10 responses, the response and folio evidence.",
+      "syllabus_content": [
+        "Use textile technologies safely and follow teacher-authorised procedures."
+      ],
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-CDT-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-02.html#m02-s02-title",
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m02-s02"
+      ]
+    },
+    {
+      "number": 8,
+      "type": "Practical",
+      "focus": "Stitch control and troubleshooting",
+      "student_work": "First 20 min: complete the section check and response. Then start the approved practical.",
+      "evidence": "Check the response; observe the process and one quality point.",
+      "syllabus_content": [
+        "Experiment with construction techniques and evaluate stitch evidence within authorised limits."
+      ],
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-CDT-01",
+        "TT5-EVL-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-02.html#m02-s03-title"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": [
+        "m02-s03"
+      ]
+    },
+    {
+      "number": 9,
+      "type": "Practical",
+      "focus": "Produce: Teacher-authorised machine practice",
+      "student_work": "Continue the approved task using the current demonstration and controls; check technique and quality.",
+      "evidence": "Observe setup, process, technique, quality and clean/reset.",
+      "syllabus_content": [
+        "Apply safe work practices, textile techniques and ongoing evaluation in teacher-authorised project work."
+      ],
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-CDT-01",
+        "TT5-EVL-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 10,
+      "type": "Practical",
+      "focus": "Evaluate: Teacher-authorised machine practice",
+      "student_work": "Complete the approved stage; record quality, a decision and next action; clean/reset.",
+      "evidence": "Check quality and next action; observe completion and clean/reset.",
+      "syllabus_content": [
+        "Apply safe work practices, textile techniques and ongoing evaluation in teacher-authorised project work."
+      ],
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-EVL-01",
+        "TT5-MAT-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 11,
+      "type": "Site/theory",
+      "focus": "Brief and success criteria",
+      "student_work": "Complete 10 checks, the applied activity and the scaffolded response.",
+      "evidence": "Check 10 responses, the activity and the response.",
+      "syllabus_content": [
+        "Interpret a textile-project brief and develop functional and aesthetic criteria."
+      ],
+      "outcome_codes": [
+        "TT5-COM-01",
+        "TT5-EVL-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-03.html#m03-s01-title"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m03-s01"
+      ]
+    },
+    {
+      "number": 12,
+      "type": "Project/folio",
+      "focus": "Plan, materials and technique sample",
+      "student_work": "Complete 10 checks and the response; save the activity and linked folio evidence.",
+      "evidence": "Check 10 responses, the response and folio evidence.",
+      "syllabus_content": [
+        "Generate and annotate ideas, then test materials and techniques before production."
+      ],
+      "outcome_codes": [
+        "TT5-COM-01",
+        "TT5-CDT-01",
+        "TT5-MAT-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-03.html#m03-s02-title",
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m03-s02"
+      ]
+    },
+    {
+      "number": 13,
+      "type": "Practical",
+      "focus": "Make, evaluate and improve",
+      "student_work": "First 20 min: complete the section check and response. Then start the approved practical.",
+      "evidence": "Check the response; observe the process and one quality point.",
+      "syllabus_content": [
+        "Produce and evaluate a textile project and identify evidence-based improvements."
+      ],
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-CDT-01",
+        "TT5-EVL-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-03.html#m03-s03-title"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": [
+        "m03-s03"
+      ]
+    },
+    {
+      "number": 14,
+      "type": "Practical",
+      "focus": "Produce: Pincushion project",
+      "student_work": "Continue the approved task using the current demonstration and controls; check technique and quality.",
+      "evidence": "Observe setup, process, technique, quality and clean/reset.",
+      "syllabus_content": [
+        "Apply safe work practices, textile techniques and ongoing evaluation in teacher-authorised project work."
+      ],
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-CDT-01",
+        "TT5-EVL-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 15,
+      "type": "Practical",
+      "focus": "Evaluate: Pincushion project",
+      "student_work": "Complete the approved stage; record quality, a decision and next action; clean/reset.",
+      "evidence": "Check quality and next action; observe completion and clean/reset.",
+      "syllabus_content": [
+        "Apply safe work practices, textile techniques and ongoing evaluation in teacher-authorised project work."
+      ],
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-EVL-01",
+        "TT5-MAT-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 16,
+      "type": "Site/theory",
+      "focus": "Function and user needs",
+      "student_work": "Complete 10 checks, the applied activity and the scaffolded response.",
+      "evidence": "Check 10 responses, the activity and the response.",
+      "syllabus_content": [
+        "Assess user needs and functional requirements to guide textile design decisions."
+      ],
+      "outcome_codes": [
+        "TT5-COM-01",
+        "TT5-EVL-01",
+        "TT5-MAT-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-04.html#m04-s01-title"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m04-s01"
+      ]
+    },
+    {
+      "number": 17,
+      "type": "Project/folio",
+      "focus": "Construction sequence and decoration",
+      "student_work": "Complete 10 checks and the response; save the activity and linked folio evidence.",
+      "evidence": "Check 10 responses, the response and folio evidence.",
+      "syllabus_content": [
+        "Plan a production sequence and select appropriate construction and decorative techniques."
+      ],
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-CDT-01",
+        "TT5-MAT-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-04.html#m04-s02-title",
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m04-s02"
+      ]
+    },
+    {
+      "number": 18,
+      "type": "Practical",
+      "focus": "Quality, evaluation and communication",
+      "student_work": "First 20 min: complete the section check and response. Then start the approved practical.",
+      "evidence": "Check the response; observe the process and one quality point.",
+      "syllabus_content": [
+        "Apply ongoing evaluation and communicate quality decisions using textiles terminology."
+      ],
+      "outcome_codes": [
+        "TT5-COM-01",
+        "TT5-EVL-01",
+        "TT5-CDT-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-04.html#m04-s03-title"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": [
+        "m04-s03"
+      ]
+    },
+    {
+      "number": 19,
+      "type": "Practical",
+      "focus": "Produce: Sewing bag project",
+      "student_work": "Continue the approved task using the current demonstration and controls; check technique and quality.",
+      "evidence": "Observe setup, process, technique, quality and clean/reset.",
+      "syllabus_content": [
+        "Apply safe work practices, textile techniques and ongoing evaluation in teacher-authorised project work."
+      ],
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-CDT-01",
+        "TT5-EVL-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 20,
+      "type": "Practical",
+      "focus": "Evaluate: Sewing bag project",
+      "student_work": "Complete the approved stage; record quality, a decision and next action; clean/reset.",
+      "evidence": "Check quality and next action; observe completion and clean/reset.",
+      "syllabus_content": [
+        "Apply safe work practices, textile techniques and ongoing evaluation in teacher-authorised project work."
+      ],
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-EVL-01",
+        "TT5-MAT-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 21,
+      "type": "Site/theory",
+      "focus": "Design brief and user",
+      "student_work": "Complete 10 checks, the applied activity and the scaffolded response.",
+      "evidence": "Check 10 responses, the activity and the response.",
+      "syllabus_content": [
+        "Interpret a design brief and gather user information before generating ideas."
+      ],
+      "outcome_codes": [
+        "TT5-COM-01",
+        "TT5-EVL-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-05.html#m05-s01-title"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m05-s01"
+      ]
+    },
+    {
+      "number": 22,
+      "type": "Project/folio",
+      "focus": "Mood boards, colour and texture",
+      "student_work": "Complete 10 checks and the response; save the activity and linked folio evidence.",
+      "evidence": "Check 10 responses, the response and folio evidence.",
+      "syllabus_content": [
+        "Select design inspiration and apply colour and texture to develop ideas."
+      ],
+      "outcome_codes": [
+        "TT5-EVL-01",
+        "TT5-COM-01",
+        "TT5-MAT-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-05.html#m05-s02-title",
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m05-s02"
+      ]
+    },
+    {
+      "number": 23,
+      "type": "Practical",
+      "focus": "Ethical digital inspiration",
+      "student_work": "First 20 min: complete the section check and response. Then start the approved practical.",
+      "evidence": "Check the response; observe the process and one quality point.",
+      "syllabus_content": [
+        "Research, record and transform inspiration using ethical digital and Cultural protocols."
+      ],
+      "outcome_codes": [
+        "TT5-EVL-01",
+        "TT5-IVT-01",
+        "TT5-ENV-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-05.html#m05-s03-title"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": [
+        "m05-s03"
+      ]
+    },
+    {
+      "number": 24,
+      "type": "Practical",
+      "focus": "Produce: Design-inspiration and technique sampling",
+      "student_work": "Continue the approved task using the current demonstration and controls; check technique and quality.",
+      "evidence": "Observe setup, process, technique, quality and clean/reset.",
+      "syllabus_content": [
+        "Apply safe work practices, textile techniques and ongoing evaluation in teacher-authorised project work."
+      ],
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-CDT-01",
+        "TT5-EVL-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 25,
+      "type": "Practical",
+      "focus": "Evaluate: Design-inspiration and technique sampling",
+      "student_work": "Complete the approved stage; record quality, a decision and next action; clean/reset.",
+      "evidence": "Check quality and next action; observe completion and clean/reset.",
+      "syllabus_content": [
+        "Apply safe work practices, textile techniques and ongoing evaluation in teacher-authorised project work."
+      ],
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-EVL-01",
+        "TT5-MAT-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 26,
+      "type": "Site/theory",
+      "focus": "Fibre origins",
+      "student_work": "Complete 10 checks, the applied activity and the scaffolded response.",
+      "evidence": "Check 10 responses, the activity and the response.",
+      "syllabus_content": [
+        "Identify textile fibres and investigate how origin influences use and responsibility."
+      ],
+      "outcome_codes": [
+        "TT5-MAT-01",
+        "TT5-ENV-01",
+        "TT5-IVT-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-06.html#m06-s01-title"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m06-s01"
+      ]
+    },
+    {
+      "number": 27,
+      "type": "Project/folio",
+      "focus": "Yarn and fabric structures",
+      "student_work": "Complete 10 checks and the response; save the activity and linked folio evidence.",
+      "evidence": "Check 10 responses, the response and folio evidence.",
+      "syllabus_content": [
+        "Compare yarn and fabric structures and their influence on textile behaviour."
+      ],
+      "outcome_codes": [
+        "TT5-MAT-01",
+        "TT5-IVT-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-06.html#m06-s02-title",
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m06-s02"
+      ]
+    },
+    {
+      "number": 28,
+      "type": "Practical",
+      "focus": "Properties, testing and end use",
+      "student_work": "First 20 min: complete the section check and response. Then start the approved practical.",
+      "evidence": "Check the response; observe the process and one quality point.",
+      "syllabus_content": [
+        "Test textile properties and justify material suitability for an intended end use."
+      ],
+      "outcome_codes": [
+        "TT5-MAT-01",
+        "TT5-EVL-01",
+        "TT5-ENV-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-06.html#m06-s03-title"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": [
+        "m06-s03"
+      ]
+    },
+    {
+      "number": 29,
+      "type": "Practical",
+      "focus": "Produce: Fibre, fabric and property testing",
+      "student_work": "Continue the approved task using the current demonstration and controls; check technique and quality.",
+      "evidence": "Observe setup, process, technique, quality and clean/reset.",
+      "syllabus_content": [
+        "Apply safe work practices, textile techniques and ongoing evaluation in teacher-authorised project work."
+      ],
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-CDT-01",
+        "TT5-EVL-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 30,
+      "type": "Practical",
+      "focus": "Evaluate: Fibre, fabric and property testing",
+      "student_work": "Complete the approved stage; record quality, a decision and next action; clean/reset.",
+      "evidence": "Check quality and next action; observe completion and clean/reset.",
+      "syllabus_content": [
+        "Apply safe work practices, textile techniques and ongoing evaluation in teacher-authorised project work."
+      ],
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-EVL-01",
+        "TT5-MAT-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 31,
+      "type": "Site/theory",
+      "focus": "Envelope, measurements and size choice",
+      "student_work": "Complete 10 checks, the applied activity and the scaffolded response.",
+      "evidence": "Check 10 responses, the activity and the response.",
+      "syllabus_content": [
+        "Interpret current pattern information and use measurements to select an appropriate size."
+      ],
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-CDT-01",
+        "TT5-MAT-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-07.html#m07-s01-title"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m07-s01"
+      ]
+    },
+    {
+      "number": 32,
+      "type": "Project/folio",
+      "focus": "Pieces, markings and grainline",
+      "student_work": "Complete 10 checks and the response; save the activity and linked folio evidence.",
+      "evidence": "Check 10 responses, the response and folio evidence.",
+      "syllabus_content": [
+        "Interpret pattern pieces, symbols, markings and grainline as production information."
+      ],
+      "outcome_codes": [
+        "TT5-COM-01",
+        "TT5-CDT-01",
+        "TT5-IVT-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-07.html#m07-s02-title",
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m07-s02"
+      ]
+    },
+    {
+      "number": 33,
+      "type": "Practical",
+      "focus": "Layout, quantity, cost and alterations",
+      "student_work": "First 20 min: complete the section check and response. Then start the approved practical.",
+      "evidence": "Check the response; observe the process and one quality point.",
+      "syllabus_content": [
+        "Plan an authorised layout and justify material quantity, cost and permitted alterations."
+      ],
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-MAT-01",
+        "TT5-ENV-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-07.html#m07-s03-title"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": [
+        "m07-s03"
+      ]
+    },
+    {
+      "number": 34,
+      "type": "Practical",
+      "focus": "Produce: Commercial-pattern interpretation and layout",
+      "student_work": "Continue the approved task using the current demonstration and controls; check technique and quality.",
+      "evidence": "Observe setup, process, technique, quality and clean/reset.",
+      "syllabus_content": [
+        "Apply safe work practices, textile techniques and ongoing evaluation in teacher-authorised project work."
+      ],
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-CDT-01",
+        "TT5-EVL-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 35,
+      "type": "Practical",
+      "focus": "Evaluate: Commercial-pattern interpretation and layout",
+      "student_work": "Complete the approved stage; record quality, a decision and next action; clean/reset.",
+      "evidence": "Check quality and next action; observe completion and clean/reset.",
+      "syllabus_content": [
+        "Apply safe work practices, textile techniques and ongoing evaluation in teacher-authorised project work."
+      ],
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-EVL-01",
+        "TT5-MAT-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 36,
+      "type": "Site/theory",
+      "focus": "Target market and the apparel brief",
+      "student_work": "Complete 10 checks, the applied activity and the scaffolded response.",
+      "evidence": "Check 10 responses, the activity and the response.",
+      "syllabus_content": [
+        "Use target-market evidence and the authorised brief to develop design criteria."
+      ],
+      "outcome_codes": [
+        "TT5-COM-01",
+        "TT5-EVL-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-08.html#m08-s01-title"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m08-s01"
+      ]
+    },
+    {
+      "number": 37,
+      "type": "Project/folio",
+      "focus": "Aesthetic and functional features",
+      "student_work": "Complete 10 checks and the response; save the activity and linked folio evidence.",
+      "evidence": "Check 10 responses, the response and folio evidence.",
+      "syllabus_content": [
+        "Analyse and balance aesthetic and functional features for the intended user."
+      ],
+      "outcome_codes": [
+        "TT5-COM-01",
+        "TT5-EVL-01",
+        "TT5-MAT-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-08.html#m08-s02-title",
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m08-s02"
+      ]
+    },
+    {
+      "number": 38,
+      "type": "Practical",
+      "focus": "Final design, material, sustainability and sequence",
+      "student_work": "First 20 min: complete the section check and response. Then start the approved practical.",
+      "evidence": "Check the response; observe the process and one quality point.",
+      "syllabus_content": [
+        "Refine and justify a final design, material selection and feasible production sequence."
+      ],
+      "outcome_codes": [
+        "TT5-COM-01",
+        "TT5-MAT-01",
+        "TT5-ENV-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-08.html#m08-s03-title"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": [
+        "m08-s03"
+      ]
+    },
+    {
+      "number": 39,
+      "type": "Practical",
+      "focus": "Produce: Apparel design sample and readiness work",
+      "student_work": "Continue the approved task using the current demonstration and controls; check technique and quality.",
+      "evidence": "Observe setup, process, technique, quality and clean/reset.",
+      "syllabus_content": [
+        "Apply safe work practices, textile techniques and ongoing evaluation in teacher-authorised project work."
+      ],
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-CDT-01",
+        "TT5-EVL-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 40,
+      "type": "Practical",
+      "focus": "Evaluate: Apparel design sample and readiness work",
+      "student_work": "Complete the approved stage; record quality, a decision and next action; clean/reset.",
+      "evidence": "Check quality and next action; observe completion and clean/reset.",
+      "syllabus_content": [
+        "Apply safe work practices, textile techniques and ongoing evaluation in teacher-authorised project work."
+      ],
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-EVL-01",
+        "TT5-MAT-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 41,
+      "type": "Site/theory",
+      "focus": "Prepare and cut under teacher direction",
+      "student_work": "Complete 10 checks, the applied activity and the scaffolded response.",
+      "evidence": "Check 10 responses, the activity and the response.",
+      "syllabus_content": [
+        "Plan and organise pattern preparation and cutting under current teacher direction."
+      ],
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-CDT-01",
+        "TT5-MAT-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-09.html#m09-s01-title"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m09-s01"
+      ]
+    },
+    {
+      "number": 42,
+      "type": "Project/folio",
+      "focus": "Construct under teacher demonstration",
+      "student_work": "Complete 10 checks and the response; save the activity and linked folio evidence.",
+      "evidence": "Check 10 responses, the response and folio evidence.",
+      "syllabus_content": [
+        "Apply authorised construction techniques through supervised textile project work."
+      ],
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-CDT-01",
+        "TT5-MAT-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-09.html#m09-s02-title",
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m09-s02"
+      ]
+    },
+    {
+      "number": 43,
+      "type": "Practical",
+      "focus": "Quality control and progress evidence",
+      "student_work": "First 20 min: complete the section check and response. Then start the approved practical.",
+      "evidence": "Check the response; observe the process and one quality point.",
+      "syllabus_content": [
+        "Apply ongoing evaluation and record production decisions and quality evidence."
+      ],
+      "outcome_codes": [
+        "TT5-COM-01",
+        "TT5-EVL-01",
+        "TT5-CDT-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-09.html#m09-s03-title"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": [
+        "m09-s03"
+      ]
+    },
+    {
+      "number": 44,
+      "type": "Practical",
+      "focus": "Produce: Shorts or pants production",
+      "student_work": "Continue the approved task using the current demonstration and controls; check technique and quality.",
+      "evidence": "Observe setup, process, technique, quality and clean/reset.",
+      "syllabus_content": [
+        "Apply safe work practices, textile techniques and ongoing evaluation in teacher-authorised project work."
+      ],
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-CDT-01",
+        "TT5-EVL-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 45,
+      "type": "Practical",
+      "focus": "Evaluate: Shorts or pants production",
+      "student_work": "Complete the approved stage; record quality, a decision and next action; clean/reset.",
+      "evidence": "Check quality and next action; observe completion and clean/reset.",
+      "syllabus_content": [
+        "Apply safe work practices, textile techniques and ongoing evaluation in teacher-authorised project work."
+      ],
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-EVL-01",
+        "TT5-MAT-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 46,
+      "type": "Site/theory",
+      "focus": "Test against criteria",
+      "student_work": "Complete 10 checks, the applied activity and the scaffolded response.",
+      "evidence": "Check 10 responses, the activity and the response.",
+      "syllabus_content": [
+        "Evaluate a textile product against functional and aesthetic criteria using evidence."
+      ],
+      "outcome_codes": [
+        "TT5-EVL-01",
+        "TT5-COM-01",
+        "TT5-MAT-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-10.html#m10-s01-title"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m10-s01"
+      ]
+    },
+    {
+      "number": 47,
+      "type": "Project/folio",
+      "focus": "Care label and swing tag",
+      "student_work": "Complete 10 checks and the response; save the activity and linked folio evidence.",
+      "evidence": "Check 10 responses, the response and folio evidence.",
+      "syllabus_content": [
+        "Communicate verified product and care information for a defined audience."
+      ],
+      "outcome_codes": [
+        "TT5-COM-01",
+        "TT5-IVT-01",
+        "TT5-MAT-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-10.html#m10-s02-title",
+        "folio.html"
+      ],
+      "practical_authority": "not-applicable",
+      "teacher_to_confirm_ids": [],
+      "website_learning_ids": [
+        "m10-s02"
+      ]
+    },
+    {
+      "number": 48,
+      "type": "Practical",
+      "focus": "Reflection, folio and collaborative showcase",
+      "student_work": "First 20 min: complete the section check and response. Then start the approved practical.",
+      "evidence": "Check the response; observe the process and one quality point.",
+      "syllabus_content": [
+        "Document and communicate project learning through reflection, folio evidence and collaboration."
+      ],
+      "outcome_codes": [
+        "TT5-COM-01",
+        "TT5-EVL-01",
+        "TT5-ENV-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "mapped",
+      "site_destinations": [
+        "modules/module-10.html#m10-s03-title"
+      ],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": [
+        "m10-s03"
+      ]
+    },
+    {
+      "number": 49,
+      "type": "Practical",
+      "focus": "Produce: Product testing, finishing and showcase preparation",
+      "student_work": "Continue the approved task using the current demonstration and controls; check technique and quality.",
+      "evidence": "Observe setup, process, technique, quality and clean/reset.",
+      "syllabus_content": [
+        "Apply safe work practices, textile techniques and ongoing evaluation in teacher-authorised project work."
+      ],
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-CDT-01",
+        "TT5-EVL-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    },
+    {
+      "number": 50,
+      "type": "Practical",
+      "focus": "Evaluate: Product testing, finishing and showcase preparation",
+      "student_work": "Complete the approved stage; record quality, a decision and next action; clean/reset.",
+      "evidence": "Check quality and next action; observe completion and clean/reset.",
+      "syllabus_content": [
+        "Apply safe work practices, textile techniques and ongoing evaluation in teacher-authorised project work."
+      ],
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-EVL-01",
+        "TT5-MAT-01"
+      ],
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "site_alignment": "not-required",
+      "site_destinations": [],
+      "practical_authority": "teacher-to-confirm",
+      "teacher_to_confirm_ids": [
+        "TTC-01",
+        "TTC-02"
+      ],
+      "website_learning_ids": []
+    }
+  ],
+  "site_route_map": [
+    {
+      "destination": "folio.html",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        2,
+        7,
+        12,
+        17,
+        22,
+        27,
+        32,
+        37,
+        42,
+        47
+      ]
+    },
+    {
+      "destination": "modules/module-01.html#m01-s01-title",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        1
+      ]
+    },
+    {
+      "destination": "modules/module-01.html#m01-s02-title",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        2
+      ]
+    },
+    {
+      "destination": "modules/module-01.html#m01-s03-title",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        3
+      ]
+    },
+    {
+      "destination": "modules/module-02.html#m02-s01-title",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        6
+      ]
+    },
+    {
+      "destination": "modules/module-02.html#m02-s02-title",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        7
+      ]
+    },
+    {
+      "destination": "modules/module-02.html#m02-s03-title",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        8
+      ]
+    },
+    {
+      "destination": "modules/module-03.html#m03-s01-title",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        11
+      ]
+    },
+    {
+      "destination": "modules/module-03.html#m03-s02-title",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        12
+      ]
+    },
+    {
+      "destination": "modules/module-03.html#m03-s03-title",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        13
+      ]
+    },
+    {
+      "destination": "modules/module-04.html#m04-s01-title",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        16
+      ]
+    },
+    {
+      "destination": "modules/module-04.html#m04-s02-title",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        17
+      ]
+    },
+    {
+      "destination": "modules/module-04.html#m04-s03-title",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        18
+      ]
+    },
+    {
+      "destination": "modules/module-05.html#m05-s01-title",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        21
+      ]
+    },
+    {
+      "destination": "modules/module-05.html#m05-s02-title",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        22
+      ]
+    },
+    {
+      "destination": "modules/module-05.html#m05-s03-title",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        23
+      ]
+    },
+    {
+      "destination": "modules/module-06.html#m06-s01-title",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        26
+      ]
+    },
+    {
+      "destination": "modules/module-06.html#m06-s02-title",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        27
+      ]
+    },
+    {
+      "destination": "modules/module-06.html#m06-s03-title",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        28
+      ]
+    },
+    {
+      "destination": "modules/module-07.html#m07-s01-title",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        31
+      ]
+    },
+    {
+      "destination": "modules/module-07.html#m07-s02-title",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        32
+      ]
+    },
+    {
+      "destination": "modules/module-07.html#m07-s03-title",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        33
+      ]
+    },
+    {
+      "destination": "modules/module-08.html#m08-s01-title",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        36
+      ]
+    },
+    {
+      "destination": "modules/module-08.html#m08-s02-title",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        37
+      ]
+    },
+    {
+      "destination": "modules/module-08.html#m08-s03-title",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        38
+      ]
+    },
+    {
+      "destination": "modules/module-09.html#m09-s01-title",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        41
+      ]
+    },
+    {
+      "destination": "modules/module-09.html#m09-s02-title",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        42
+      ]
+    },
+    {
+      "destination": "modules/module-09.html#m09-s03-title",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        43
+      ]
+    },
+    {
+      "destination": "modules/module-10.html#m10-s01-title",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        46
+      ]
+    },
+    {
+      "destination": "modules/module-10.html#m10-s02-title",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        47
+      ]
+    },
+    {
+      "destination": "modules/module-10.html#m10-s03-title",
+      "purpose": "Named theory/check or saved folio destination",
+      "audience": "student",
+      "period_numbers": [
+        48
+      ]
+    }
+  ],
+  "teacher_to_confirm": [
+    {
+      "id": "TTC-01",
+      "item": "Current brief, dimensions, materials, supplied pattern, size range, permitted variations and required folio evidence",
+      "owner": "Teacher / faculty",
+      "affected_periods": [
+        3,
+        4,
+        5,
+        8,
+        9,
+        10,
+        13,
+        14,
+        15,
+        18,
+        19,
+        20,
+        23,
+        24,
+        25,
+        28,
+        29,
+        30,
+        33,
+        34,
+        35,
+        38,
+        39,
+        40,
+        43,
+        44,
+        45,
+        48,
+        49,
+        50
+      ],
+      "due_before": "Before each project"
+    },
+    {
+      "id": "TTC-02",
+      "item": "Current machines, demonstrations, construction sequence, supervision, room routines and local risk controls",
+      "owner": "Teacher / faculty",
+      "affected_periods": [
+        3,
+        4,
+        5,
+        8,
+        9,
+        10,
+        13,
+        14,
+        15,
+        18,
+        19,
+        20,
+        23,
+        24,
+        25,
+        28,
+        29,
+        30,
+        33,
+        34,
+        35,
+        38,
+        39,
+        40,
+        43,
+        44,
+        45,
+        48,
+        49,
+        50
+      ],
+      "due_before": "Before practical work"
+    },
+    {
+      "id": "TTC-03",
+      "item": "Task authority, outcomes, marks, dates, conditions, adjustments, rubric and submission method",
+      "owner": "Teacher / faculty",
+      "affected_periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "due_before": "Before assessment"
+    },
+    {
+      "id": "TTC-04",
+      "item": "Privacy-safe collaborative arrangements and evidence used for any outcome judgement",
+      "owner": "Teacher / faculty",
+      "affected_periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "due_before": "Before final showcase"
+    }
+  ],
+  "files": [
+    {
+      "path": "assets/teacher/Intro-Textiles-50-Period-Teaching-Program-v2.0-Network-Benchmark.docx",
+      "purpose": "editable-program",
+      "version": "v2.0",
+      "sha256": "1AEE1FF9DF240198FEF194EB070E07972DA8AE45B161664E8FB9F336B10B5FA6"
+    },
+    {
+      "path": "assets/teacher/Intro-Textiles-50-Period-Teaching-Program-v2.0-Network-Benchmark.pdf",
+      "purpose": "rendered-program",
+      "version": "v2.0",
+      "sha256": "B2E2F8DF8FA5F99974FD2AD7971DF311C075648C62801184B13B353C8F2C4D37"
+    },
+    {
+      "path": "assets/teacher/Intro-Textiles-50-Period-Alignment-Manifest-v2.0.json",
+      "purpose": "alignment-manifest",
+      "version": "v2.0"
+    }
+  ]
+}

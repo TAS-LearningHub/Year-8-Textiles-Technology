@@ -307,6 +307,37 @@ button {
   margin-bottom: 1.25rem;
 }
 
+.table-wrap {
+  max-width: 100%;
+  margin-block: 1rem 1.5rem;
+  overflow-x: auto;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  -webkit-overflow-scrolling: touch;
+}
+
+.teacher-table {
+  width: 100%;
+  min-width: 780px;
+  border-collapse: collapse;
+  background: var(--paper);
+  font-size: .88rem;
+  line-height: 1.45;
+}
+
+.teacher-table th,
+.teacher-table td {
+  padding: .7rem .75rem;
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+  vertical-align: top;
+}
+
+.teacher-table th { color: #fff; background: var(--wine-800); }
+.teacher-table tbody tr:nth-child(odd) { background: #fbf1f5; }
+.teacher-table tbody tr:last-child td { border-bottom: 0; }
+.teacher-table td strong { color: var(--wine-800); }
+
 .section-heading h2,
 .learning-section > header h2 {
   margin: 0 0 0.45rem;
