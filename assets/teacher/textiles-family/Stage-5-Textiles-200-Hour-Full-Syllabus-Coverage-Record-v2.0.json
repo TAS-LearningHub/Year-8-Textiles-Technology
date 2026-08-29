@@ -1,0 +1,3874 @@
+{
+  "schema_version": "1.1",
+  "record_id": "stage-5-textiles-200-hour-full-syllabus-coverage",
+  "version": "v2.0",
+  "syllabus": {
+    "title": "Textiles Technology 7–10 Syllabus (2025)",
+    "version": "2025",
+    "stage": "Stage 5",
+    "course": "200-hour elective",
+    "course_code": "1900",
+    "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/overview/course",
+    "outcomes_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/outcomes",
+    "early_implementation_decision": "2027 planning/preparation phase"
+  },
+  "allocation_basis": {
+    "master_audit_order": "Year 9 source sequence then Year 10 source sequence",
+    "delivery_order": "Flexible: either 100-period component may be timetabled first; audit numbering does not mandate delivery order.",
+    "primary_rule": "Every one of the 92 required Stage 5 content statements has exactly one primary audit allocation.",
+    "site_support_rule": "Programmed-site-supported means the current site has a named relevant learning/evidence destination. Programmed-site-gap means the program now schedules the point but the site extension and evidence task still require approval/building."
+  },
+  "counts": {
+    "official_content_statements": 92,
+    "programmed-site-gap": 24,
+    "programmed-site-supported": 68,
+    "outcomes": 7
+  },
+  "coverage_records": [
+    {
+      "number": 1,
+      "content_item_id": "ci27cd1dee",
+      "focus_id": "fa14f64ca9",
+      "focus_area": "Local and global textile perspectives",
+      "group_id": "cgd13216e0",
+      "content_group": "Aboriginal and Torres Strait Islander Peoples’ textile Practices",
+      "exact_official_content": "Identify textile art forms created for expression, communication and Storytelling",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9",
+      "outcome_codes": [
+        "TT5-EVL-01",
+        "TT5-COM-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 26,
+        "master_audit_period": 126,
+        "period_type": "Site/theory",
+        "focus": "Textiles and culture",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-05.html#section-51",
+          "label": "5.1 Textiles as expressive and functional media",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/module-05.html#section-51"
+        },
+        "evidence": "Knowledge check and saved response"
+      },
+      "coverage_status": "programmed-site-gap",
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "number": 2,
+      "content_item_id": "cif210102a",
+      "focus_id": "fa14f64ca9",
+      "focus_area": "Local and global textile perspectives",
+      "group_id": "cgd13216e0",
+      "content_group": "Aboriginal and Torres Strait Islander Peoples’ textile Practices",
+      "exact_official_content": "Describe Aboriginal and Torres Strait Islander textile designer Practices and products",
+      "including_points": [],
+      "examples": [
+        "Aboriginal fashion designer couture, activewear, sporting apparel, textile installations in art and design contexts."
+      ],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9",
+      "outcome_codes": [
+        "TT5-EVL-01",
+        "TT5-COM-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 27,
+        "master_audit_period": 127,
+        "period_type": "Site/theory",
+        "focus": "ICIP and respectful design",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-05.html#section-52",
+          "label": "5.2 Indigenous Cultural and Intellectual Property",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/module-05.html#section-52"
+        },
+        "evidence": "Knowledge check and saved response"
+      },
+      "coverage_status": "programmed-site-gap",
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "number": 3,
+      "content_item_id": "ci66faf08b",
+      "focus_id": "fa14f64ca9",
+      "focus_area": "Local and global textile perspectives",
+      "group_id": "cgd13216e0",
+      "content_group": "Aboriginal and Torres Strait Islander Peoples’ textile Practices",
+      "exact_official_content": "Explore Aboriginal and Torres Strait Islander Peoples’ material sourcing Practices and describe the suitability of the materials for end use",
+      "including_points": [],
+      "examples": [
+        "Wetland grasses and reeds, pandanus as a waterproof material, spinifex cultivation for basket weaving, bark fibre for string, mats, dilly bags and dance belts."
+      ],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9",
+      "outcome_codes": [
+        "TT5-EVL-01",
+        "TT5-COM-01",
+        "TT5-MAT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 29,
+        "master_audit_period": 129,
+        "period_type": "Project/folio",
+        "focus": "Cultural source register",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/folio.html",
+          "label": "Project folio",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "folio.html"
+        },
+        "evidence": "Saved folio checkpoint"
+      },
+      "coverage_status": "programmed-site-gap",
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "number": 4,
+      "content_item_id": "ci4dbb0cd1",
+      "focus_id": "fa14f64ca9",
+      "focus_area": "Local and global textile perspectives",
+      "group_id": "cgd13216e0",
+      "content_group": "Aboriginal and Torres Strait Islander Peoples’ textile Practices",
+      "exact_official_content": "Investigate Aboriginal and Torres Strait Islander customary Practices and outline how they are applied to contemporary designs",
+      "including_points": [],
+      "examples": [
+        "Piinpi fashion, Aboriginal textile designers, symbolism in representative sports jerseys."
+      ],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9",
+      "outcome_codes": [
+        "TT5-EVL-01",
+        "TT5-COM-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 28,
+        "master_audit_period": 128,
+        "period_type": "Site/theory",
+        "focus": "Case-study analysis",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-05.html#section-53",
+          "label": "5.3 Case studies and design influence",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/module-05.html#section-53"
+        },
+        "evidence": "Knowledge check and saved response"
+      },
+      "coverage_status": "programmed-site-gap",
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "number": 5,
+      "content_item_id": "ci7fef7668",
+      "focus_id": "fa14f64ca9",
+      "focus_area": "Local and global textile perspectives",
+      "group_id": "cgd13216e0",
+      "content_group": "Aboriginal and Torres Strait Islander Peoples’ textile Practices",
+      "exact_official_content": "Evaluate ethical considerations for the use and appropriation of designs and products",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9",
+      "outcome_codes": [
+        "TT5-EVL-01",
+        "TT5-COM-01",
+        "TT5-SAF-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 30,
+        "master_audit_period": 130,
+        "period_type": "Project/folio",
+        "focus": "Designer case study",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/folio.html",
+          "label": "Project folio",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "folio.html"
+        },
+        "evidence": "Saved folio checkpoint"
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 6,
+      "content_item_id": "cif6ab46a3",
+      "focus_id": "fa14f64ca9",
+      "focus_area": "Local and global textile perspectives",
+      "group_id": "cgd13216e0",
+      "content_group": "Aboriginal and Torres Strait Islander Peoples’ textile Practices",
+      "exact_official_content": "Explore design inspiration sources in the local area to generate textile design ideas and concepts",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9",
+      "outcome_codes": [
+        "TT5-EVL-01",
+        "TT5-COM-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 31,
+        "master_audit_period": 131,
+        "period_type": "Site/theory",
+        "focus": "Kimono form and context",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-06.html#section-61",
+          "label": "6.1 Kimono form and context",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/module-06.html#section-61"
+        },
+        "evidence": "Knowledge check and saved response"
+      },
+      "coverage_status": "programmed-site-gap",
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "number": 7,
+      "content_item_id": "ci2e69760d",
+      "focus_id": "fa14f64ca9",
+      "focus_area": "Local and global textile perspectives",
+      "group_id": "cgd13216e0",
+      "content_group": "Aboriginal and Torres Strait Islander Peoples’ textile Practices",
+      "exact_official_content": "Apply protocols for designing with respect for Aboriginal and Torres Strait Islander designers, Communities and Cultural Knowledges, including Indigenous Cultural and Intellectual Property (ICIP)",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9",
+      "outcome_codes": [
+        "TT5-EVL-01",
+        "TT5-COM-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 32,
+        "master_audit_period": 132,
+        "period_type": "Project/folio",
+        "focus": "Kimono research and moodboard",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/folio.html",
+          "label": "Project folio",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "folio.html"
+        },
+        "evidence": "Saved folio checkpoint"
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 8,
+      "content_item_id": "cibba5b543",
+      "focus_id": "fa14f64ca9",
+      "focus_area": "Local and global textile perspectives",
+      "group_id": "cgd65381ee",
+      "content_group": "Historical and cultural influences on textile practices",
+      "exact_official_content": "Investigate textile designers and textile products from a range of historical periods",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9",
+      "outcome_codes": [
+        "TT5-EVL-01",
+        "TT5-IVT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 51,
+        "master_audit_period": 51,
+        "period_type": "Site/theory",
+        "focus": "Fashion eras and historical influence",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/6.html#fashion-eras",
+          "label": "Fashion eras and historical influence",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/6.html#fashion-eras"
+        },
+        "evidence": "Era influence explanation and ten checks; guided response saved."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 9,
+      "content_item_id": "ci89ef6ef9",
+      "focus_id": "fa14f64ca9",
+      "focus_area": "Local and global textile perspectives",
+      "group_id": "cgd65381ee",
+      "content_group": "Historical and cultural influences on textile practices",
+      "exact_official_content": "Identify and describe how historical design features can be applied to contemporary designs",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9",
+      "outcome_codes": [
+        "TT5-EVL-01",
+        "TT5-IVT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 54,
+        "master_audit_period": 54,
+        "period_type": "Project/folio",
+        "focus": "Historical influence comparison",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/folio.html#fashion-magazine",
+          "label": "Fashion magazine folio",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "folio.html#fashion-magazine"
+        },
+        "evidence": "Captioned comparison and explanation."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 10,
+      "content_item_id": "ciae6a5f88",
+      "focus_id": "fa14f64ca9",
+      "focus_area": "Local and global textile perspectives",
+      "group_id": "cgd65381ee",
+      "content_group": "Historical and cultural influences on textile practices",
+      "exact_official_content": "Investigate reasons textile design practices have changed over time",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9",
+      "outcome_codes": [
+        "TT5-EVL-01",
+        "TT5-IVT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 55,
+        "master_audit_period": 55,
+        "period_type": "Site/theory",
+        "focus": "Designer practice and target markets",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/6.html#designer-practice",
+          "label": "Designer practice and target markets",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/6.html#designer-practice"
+        },
+        "evidence": "Designer/market analysis and ten checks; guided response saved."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 11,
+      "content_item_id": "cib4de3694",
+      "focus_id": "fa14f64ca9",
+      "focus_area": "Local and global textile perspectives",
+      "group_id": "cgd65381ee",
+      "content_group": "Historical and cultural influences on textile practices",
+      "exact_official_content": "Evaluate how textile practices have changed over time to improve sustainability",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9",
+      "outcome_codes": [
+        "TT5-EVL-01",
+        "TT5-IVT-01",
+        "TT5-ENV-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 9,
+        "master_audit_period": 109,
+        "period_type": "Site/theory",
+        "focus": "Textile life cycles",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-03.html#section-31",
+          "label": "3.1 Textile life cycles",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/module-03.html#section-31"
+        },
+        "evidence": "Knowledge check and saved response"
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 12,
+      "content_item_id": "ci06c6a69a",
+      "focus_id": "fa14f64ca9",
+      "focus_area": "Local and global textile perspectives",
+      "group_id": "cgd65381ee",
+      "content_group": "Historical and cultural influences on textile practices",
+      "exact_official_content": "Investigate and evaluate textile practices and describe design features of textile products from a range of cultural groups",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9",
+      "outcome_codes": [
+        "TT5-EVL-01",
+        "TT5-IVT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 33,
+        "master_audit_period": 133,
+        "period_type": "Practical",
+        "focus": "Decoration sample 1",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-06.html#section-62",
+          "label": "6.2 Colouration and decoration",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/module-06.html#section-62"
+        },
+        "evidence": "Teacher check and labelled practical evidence"
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 13,
+      "content_item_id": "cia41ba39c",
+      "focus_id": "fa14f64ca9",
+      "focus_area": "Local and global textile perspectives",
+      "group_id": "cgd65381ee",
+      "content_group": "Historical and cultural influences on textile practices",
+      "exact_official_content": "Evaluate how diverse cultural perspectives may influence the work of textile designers",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9",
+      "outcome_codes": [
+        "TT5-EVL-01",
+        "TT5-IVT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 34,
+        "master_audit_period": 134,
+        "period_type": "Practical",
+        "focus": "Decoration sample 2",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-06.html",
+          "label": "Course page",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/module-06.html"
+        },
+        "evidence": "Teacher check and labelled practical evidence"
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 14,
+      "content_item_id": "ci9885a723",
+      "focus_id": "fa14f64ca9",
+      "focus_area": "Local and global textile perspectives",
+      "group_id": "cgd65381ee",
+      "content_group": "Historical and cultural influences on textile practices",
+      "exact_official_content": "Identify historical and cultural design features to apply as sources of design inspiration in the development of textile projects",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9",
+      "outcome_codes": [
+        "TT5-EVL-01",
+        "TT5-IVT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 52,
+        "master_audit_period": 52,
+        "period_type": "Project/folio",
+        "focus": "Fashion-era research question",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/folio.html#fashion-magazine",
+          "label": "Fashion magazine folio",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "folio.html#fashion-magazine"
+        },
+        "evidence": "Fashion-era planning notes."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 15,
+      "content_item_id": "ci386d50a8",
+      "focus_id": "fa14f64ca9",
+      "focus_area": "Local and global textile perspectives",
+      "group_id": "cgc9b482d3",
+      "content_group": "Textile industry design and production practices",
+      "exact_official_content": "Identify fibres cultivated in Australia for use in textile design and production",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9",
+      "outcome_codes": [
+        "TT5-IVT-01",
+        "TT5-ENV-01",
+        "TT5-MAT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 5,
+        "master_audit_period": 105,
+        "period_type": "Practical",
+        "focus": "Fibre-to-item samples",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-02.html#section-21",
+          "label": "2.1 From fibre to textile item",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/module-02.html#section-21"
+        },
+        "evidence": "Teacher check and labelled practical evidence"
+      },
+      "coverage_status": "programmed-site-gap",
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "number": 16,
+      "content_item_id": "ciace6a08d",
+      "focus_id": "fa14f64ca9",
+      "focus_area": "Local and global textile perspectives",
+      "group_id": "cgc9b482d3",
+      "content_group": "Textile industry design and production practices",
+      "exact_official_content": "Describe local and global techniques used in the cultivation and processing of fibres",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9",
+      "outcome_codes": [
+        "TT5-IVT-01",
+        "TT5-ENV-01",
+        "TT5-MAT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 6,
+        "master_audit_period": 106,
+        "period_type": "Practical",
+        "focus": "Fabric structures",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-02.html#section-22",
+          "label": "2.2 Fabric structures",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/module-02.html#section-22"
+        },
+        "evidence": "Teacher check and labelled practical evidence"
+      },
+      "coverage_status": "programmed-site-gap",
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "number": 17,
+      "content_item_id": "ci1da40ef9",
+      "focus_id": "fa14f64ca9",
+      "focus_area": "Local and global textile perspectives",
+      "group_id": "cgc9b482d3",
+      "content_group": "Textile industry design and production practices",
+      "exact_official_content": "Identify and evaluate sustainable textile materials and practices",
+      "including_points": [],
+      "examples": [
+        "Organic and vegan textiles, organic and chemical-free farming."
+      ],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9",
+      "outcome_codes": [
+        "TT5-IVT-01",
+        "TT5-ENV-01",
+        "TT5-MAT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 10,
+        "master_audit_period": 110,
+        "period_type": "Practical",
+        "focus": "Life-cycle evidence",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-03.html",
+          "label": "Course page",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/module-03.html"
+        },
+        "evidence": "Teacher check and labelled practical evidence"
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 18,
+      "content_item_id": "ci054c9184",
+      "focus_id": "fa14f64ca9",
+      "focus_area": "Local and global textile perspectives",
+      "group_id": "cgc9b482d3",
+      "content_group": "Textile industry design and production practices",
+      "exact_official_content": "Identify textile supply chain systems to assess future development opportunities",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9",
+      "outcome_codes": [
+        "TT5-IVT-01",
+        "TT5-ENV-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 91,
+        "master_audit_period": 191,
+        "period_type": "Site/theory",
+        "focus": "Textile industry system",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-09.html#section-91",
+          "label": "9.1 The textile industry system",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/module-09.html#section-91"
+        },
+        "evidence": "Knowledge check and saved response"
+      },
+      "coverage_status": "programmed-site-gap",
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "number": 19,
+      "content_item_id": "cid0d89af0",
+      "focus_id": "fa14f64ca9",
+      "focus_area": "Local and global textile perspectives",
+      "group_id": "cgc9b482d3",
+      "content_group": "Textile industry design and production practices",
+      "exact_official_content": "Explain current challenges that may influence future development of Australian textile industries",
+      "including_points": [],
+      "examples": [
+        "Climate, pest and disease management, market fluctuations, textile imports."
+      ],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9",
+      "outcome_codes": [
+        "TT5-IVT-01",
+        "TT5-ENV-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 91,
+        "master_audit_period": 191,
+        "period_type": "Site/theory",
+        "focus": "Textile industry system",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-09.html#section-91",
+          "label": "9.1 The textile industry system",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/module-09.html#section-91"
+        },
+        "evidence": "Knowledge check and saved response"
+      },
+      "coverage_status": "programmed-site-gap",
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "number": 20,
+      "content_item_id": "cic1ae423e",
+      "focus_id": "fa14f64ca9",
+      "focus_area": "Local and global textile perspectives",
+      "group_id": "cgc9b482d3",
+      "content_group": "Textile industry design and production practices",
+      "exact_official_content": "Discuss emerging opportunities to improve sustainable textile practices",
+      "including_points": [],
+      "examples": [
+        "Commonwealth Scientific and Industrial Research Organisation (CSIRO) sustainably produced fibres, waste management processes."
+      ],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9",
+      "outcome_codes": [
+        "TT5-IVT-01",
+        "TT5-ENV-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 92,
+        "master_audit_period": 192,
+        "period_type": "Site/theory",
+        "focus": "Innovation claims",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-09.html#section-92",
+          "label": "9.2 Innovation and evidence",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/module-09.html#section-92"
+        },
+        "evidence": "Knowledge check and saved response"
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 21,
+      "content_item_id": "ci33eb968f",
+      "focus_id": "fa14f64ca9",
+      "focus_area": "Local and global textile perspectives",
+      "group_id": "cgc9b482d3",
+      "content_group": "Textile industry design and production practices",
+      "exact_official_content": "Investigate innovative technologies used in textile design and production",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9",
+      "outcome_codes": [
+        "TT5-IVT-01",
+        "TT5-ENV-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 92,
+        "master_audit_period": 192,
+        "period_type": "Site/theory",
+        "focus": "Innovation claims",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-09.html#section-92",
+          "label": "9.2 Innovation and evidence",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/module-09.html#section-92"
+        },
+        "evidence": "Knowledge check and saved response"
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 22,
+      "content_item_id": "ci52906b95",
+      "focus_id": "fa14f64ca9",
+      "focus_area": "Local and global textile perspectives",
+      "group_id": "cgc9b482d3",
+      "content_group": "Textile industry design and production practices",
+      "exact_official_content": "Investigate career opportunities in textile design and production industries",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9",
+      "outcome_codes": [
+        "TT5-IVT-01",
+        "TT5-ENV-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 94,
+        "master_audit_period": 194,
+        "period_type": "Site/theory",
+        "focus": "Careers and skills",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-09.html#section-93",
+          "label": "9.3 Pathways and transferable skills",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/module-09.html#section-93"
+        },
+        "evidence": "Knowledge check and saved response"
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 23,
+      "content_item_id": "cib4a59fc4",
+      "focus_id": "fa14f64ca9",
+      "focus_area": "Local and global textile perspectives",
+      "group_id": "cgc9b482d3",
+      "content_group": "Textile industry design and production practices",
+      "exact_official_content": "Describe the influence of globalisation on the Australian textile industry",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9",
+      "outcome_codes": [
+        "TT5-IVT-01",
+        "TT5-ENV-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 91,
+        "master_audit_period": 191,
+        "period_type": "Site/theory",
+        "focus": "Textile industry system",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-09.html#section-91",
+          "label": "9.1 The textile industry system",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/module-09.html#section-91"
+        },
+        "evidence": "Knowledge check and saved response"
+      },
+      "coverage_status": "programmed-site-gap",
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "number": 24,
+      "content_item_id": "cif647f89a",
+      "focus_id": "fa14f64ca9",
+      "focus_area": "Local and global textile perspectives",
+      "group_id": "cgc9b482d3",
+      "content_group": "Textile industry design and production practices",
+      "exact_official_content": "Analyse ethical considerations for local and global textile design and production practices",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9",
+      "outcome_codes": [
+        "TT5-IVT-01",
+        "TT5-ENV-01",
+        "TT5-SAF-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 12,
+        "master_audit_period": 112,
+        "period_type": "Site/theory",
+        "focus": "Ethical choices",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-03.html#section-33",
+          "label": "3.3 Ethical and informed choices",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/module-03.html#section-33"
+        },
+        "evidence": "Knowledge check and saved response"
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 25,
+      "content_item_id": "cifd6f0749",
+      "focus_id": "fa14f64ca9",
+      "focus_area": "Local and global textile perspectives",
+      "group_id": "cgc9b482d3",
+      "content_group": "Textile industry design and production practices",
+      "exact_official_content": "Investigate community and industry initiatives that promote textile sustainability and consumer awareness",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9",
+      "outcome_codes": [
+        "TT5-IVT-01",
+        "TT5-ENV-01",
+        "TT5-COM-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 95,
+        "master_audit_period": 195,
+        "period_type": "Project/folio",
+        "focus": "Innovation/career case study",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/folio.html",
+          "label": "Project folio",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "folio.html"
+        },
+        "evidence": "Saved folio checkpoint"
+      },
+      "coverage_status": "programmed-site-gap",
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "number": 26,
+      "content_item_id": "ci62a9ff24",
+      "focus_id": "fa14f64ca9",
+      "focus_area": "Local and global textile perspectives",
+      "group_id": "cgc9b482d3",
+      "content_group": "Textile industry design and production practices",
+      "exact_official_content": "Explore ways designers and consumers can influence change in textile design and production practices to improve sustainability in the textile industry",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9",
+      "outcome_codes": [
+        "TT5-IVT-01",
+        "TT5-ENV-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 13,
+        "master_audit_period": 113,
+        "period_type": "Project/folio",
+        "focus": "Life-cycle investigation",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/folio.html",
+          "label": "Project folio",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "folio.html"
+        },
+        "evidence": "Saved folio checkpoint"
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 27,
+      "content_item_id": "ci51b590ce",
+      "focus_id": "fa14f64ca9",
+      "focus_area": "Local and global textile perspectives",
+      "group_id": "cgc9b482d3",
+      "content_group": "Textile industry design and production practices",
+      "exact_official_content": "Explain relationships between textile design, production and sustainable practices",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9",
+      "outcome_codes": [
+        "TT5-IVT-01",
+        "TT5-ENV-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 8,
+        "master_audit_period": 108,
+        "period_type": "Project/folio",
+        "focus": "Sample evidence",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/folio.html",
+          "label": "Project folio",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "folio.html"
+        },
+        "evidence": "Saved folio checkpoint"
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 28,
+      "content_item_id": "ci80f0c2b0",
+      "focus_id": "fa3f83f4aa",
+      "focus_area": "Textile design and product development",
+      "group_id": "cg8735f2f2",
+      "content_group": "Textile design for diverse purposes",
+      "exact_official_content": "Identify and describe different purposes of textile design",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa",
+      "outcome_codes": [
+        "TT5-EVL-01",
+        "TT5-MAT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 11,
+        "master_audit_period": 11,
+        "period_type": "Site/theory",
+        "focus": "Textiles as a design medium",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/2.html#design-medium",
+          "label": "Textiles as a design medium",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/2.html#design-medium"
+        },
+        "evidence": "Design-purpose explanation and ten checks; guided response saved."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 29,
+      "content_item_id": "ci4177d009",
+      "focus_id": "fa3f83f4aa",
+      "focus_area": "Textile design and product development",
+      "group_id": "cg8735f2f2",
+      "content_group": "Textile design for diverse purposes",
+      "exact_official_content": "Investigate how textile designers adapt designs in response to consumer demands",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa",
+      "outcome_codes": [
+        "TT5-EVL-01",
+        "TT5-MAT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 17,
+        "master_audit_period": 17,
+        "period_type": "Site/theory",
+        "focus": "Target markets and nightwear needs",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/3.html#target-market",
+          "label": "Target markets and nightwear needs",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/3.html#target-market"
+        },
+        "evidence": "Target-market profile and ten checks; guided response saved."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 30,
+      "content_item_id": "ci3334d34f",
+      "focus_id": "fa3f83f4aa",
+      "focus_area": "Textile design and product development",
+      "group_id": "cg8735f2f2",
+      "content_group": "Textile design for diverse purposes",
+      "exact_official_content": "Evaluate adaptive, emerging and innovative textile technologies for specific purposes",
+      "including_points": [],
+      "examples": [
+        "Light-up safety wear, sensory-friendly clothing, temperature control clothing."
+      ],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa",
+      "outcome_codes": [
+        "TT5-EVL-01",
+        "TT5-MAT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 93,
+        "master_audit_period": 193,
+        "period_type": "Practical",
+        "focus": "Innovation sample test",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-09.html",
+          "label": "Course page",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/module-09.html"
+        },
+        "evidence": "Teacher check and labelled practical evidence"
+      },
+      "coverage_status": "programmed-site-gap",
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "number": 31,
+      "content_item_id": "ci12be1977",
+      "focus_id": "fa3f83f4aa",
+      "focus_area": "Textile design and product development",
+      "group_id": "cg8735f2f2",
+      "content_group": "Textile design for diverse purposes",
+      "exact_official_content": "Describe how innovative textile design can improve accessibility, participation and inclusivity for diverse populations",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa",
+      "outcome_codes": [
+        "TT5-EVL-01",
+        "TT5-MAT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 68,
+        "master_audit_period": 168,
+        "period_type": "Site/theory",
+        "focus": "Costume communication",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-08.html#section-81",
+          "label": "8.1 Costume communicates",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/module-08.html#section-81"
+        },
+        "evidence": "Knowledge check and saved response"
+      },
+      "coverage_status": "programmed-site-gap",
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "number": 32,
+      "content_item_id": "ci81e021e8",
+      "focus_id": "fa3f83f4aa",
+      "focus_area": "Textile design and product development",
+      "group_id": "cg8735f2f2",
+      "content_group": "Textile design for diverse purposes",
+      "exact_official_content": "Assess the functional requirements of textile products for their intended purpose",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa",
+      "outcome_codes": [
+        "TT5-EVL-01",
+        "TT5-MAT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 44,
+        "master_audit_period": 144,
+        "period_type": "Site/theory",
+        "focus": "Furnishing requirements",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-07.html#section-71",
+          "label": "7.1 Furnishing requirements",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/module-07.html#section-71"
+        },
+        "evidence": "Knowledge check and saved response"
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 33,
+      "content_item_id": "ci6fe19fd7",
+      "focus_id": "fa3f83f4aa",
+      "focus_area": "Textile design and product development",
+      "group_id": "cg8735f2f2",
+      "content_group": "Textile design for diverse purposes",
+      "exact_official_content": "Generate textile ideas and concepts for identified needs and diverse purposes",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa",
+      "outcome_codes": [
+        "TT5-EVL-01",
+        "TT5-MAT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 20,
+        "master_audit_period": 20,
+        "period_type": "Site/theory",
+        "focus": "Developing and selecting design ideas",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/3.html#design-development",
+          "label": "Developing and selecting design ideas",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/3.html#design-development"
+        },
+        "evidence": "Two concepts and selection rationale; ten checks and response saved."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 34,
+      "content_item_id": "ci3b6f58b3",
+      "focus_id": "fa3f83f4aa",
+      "focus_area": "Textile design and product development",
+      "group_id": "cg87fe4e38",
+      "content_group": "Material selection for textile production and end use",
+      "exact_official_content": "Identify a range of fibres, yarns and fabrics used in the creation of textile projects",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa",
+      "outcome_codes": [
+        "TT5-MAT-01",
+        "TT5-ENV-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 22,
+        "master_audit_period": 22,
+        "period_type": "Site/theory",
+        "focus": "Fibre classification and properties",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/4.html#fibres",
+          "label": "Fibre classification and properties",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/4.html#fibres"
+        },
+        "evidence": "Fibre classification and ten checks; guided response saved."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 35,
+      "content_item_id": "ci51819278",
+      "focus_id": "fa3f83f4aa",
+      "focus_area": "Textile design and product development",
+      "group_id": "cg87fe4e38",
+      "content_group": "Material selection for textile production and end use",
+      "exact_official_content": "Outline differences between natural and synthetic fibre production",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa",
+      "outcome_codes": [
+        "TT5-MAT-01",
+        "TT5-ENV-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 23,
+        "master_audit_period": 23,
+        "period_type": "Site/theory",
+        "focus": "From fibres to yarns",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/4.html#yarns",
+          "label": "From fibres to yarns",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/4.html#yarns"
+        },
+        "evidence": "Fibre-to-yarn explanation and ten checks; guided response saved."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 36,
+      "content_item_id": "ciac6a8266",
+      "focus_id": "fa3f83f4aa",
+      "focus_area": "Textile design and product development",
+      "group_id": "cg87fe4e38",
+      "content_group": "Material selection for textile production and end use",
+      "exact_official_content": "Compare characteristics of yarn types, including staple and filament composition, single and plied structure, low and high twist, and other properties, including strength and texture",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa",
+      "outcome_codes": [
+        "TT5-MAT-01",
+        "TT5-ENV-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 24,
+        "master_audit_period": 24,
+        "period_type": "Site/theory",
+        "focus": "Woven, knitted and non-woven fabrics",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/4.html#fabric-structures",
+          "label": "Woven, knitted and non-woven fabrics",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/4.html#fabric-structures"
+        },
+        "evidence": "Structure comparison and ten checks; guided response saved."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 37,
+      "content_item_id": "ci23c8a67e",
+      "focus_id": "fa3f83f4aa",
+      "focus_area": "Textile design and product development",
+      "group_id": "cg87fe4e38",
+      "content_group": "Material selection for textile production and end use",
+      "exact_official_content": "Identify properties and structures of fabrics, including woven, knit and non-woven",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa",
+      "outcome_codes": [
+        "TT5-MAT-01",
+        "TT5-ENV-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 25,
+        "master_audit_period": 25,
+        "period_type": "Practical",
+        "focus": "Fabric structure and end-use investigation",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/4.html#fabric-structures",
+          "label": "Woven, knitted and non-woven fabrics",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/4.html#fabric-structures"
+        },
+        "evidence": "Dated work sample/photo and teacher observation."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 38,
+      "content_item_id": "ci7c7605bb",
+      "focus_id": "fa3f83f4aa",
+      "focus_area": "Textile design and product development",
+      "group_id": "cg87fe4e38",
+      "content_group": "Material selection for textile production and end use",
+      "exact_official_content": "Explain how properties of fibres, yarns and fabrics determine their suitability for end use",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa",
+      "outcome_codes": [
+        "TT5-MAT-01",
+        "TT5-ENV-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 26,
+        "master_audit_period": 26,
+        "period_type": "Site/theory",
+        "focus": "Construction sequence and technique samples",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/5.html#construction",
+          "label": "Construction sequence and technique samples",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/5.html#construction"
+        },
+        "evidence": "Sequenced method and ten checks; guided response saved."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 39,
+      "content_item_id": "ci73622c64",
+      "focus_id": "fa3f83f4aa",
+      "focus_area": "Textile design and product development",
+      "group_id": "cg87fe4e38",
+      "content_group": "Material selection for textile production and end use",
+      "exact_official_content": "Evaluate sustainable material sourcing practices for textile design and production",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa",
+      "outcome_codes": [
+        "TT5-MAT-01",
+        "TT5-ENV-01",
+        "TT5-EVL-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 11,
+        "master_audit_period": 111,
+        "period_type": "Practical",
+        "focus": "Fast-fashion waste audit",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-03.html#section-32",
+          "label": "3.2 Fast fashion and waste",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/module-03.html#section-32"
+        },
+        "evidence": "Teacher check and labelled practical evidence"
+      },
+      "coverage_status": "programmed-site-gap",
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "number": 40,
+      "content_item_id": "ci064cf9af",
+      "focus_id": "fa3f83f4aa",
+      "focus_area": "Textile design and product development",
+      "group_id": "cg87fe4e38",
+      "content_group": "Material selection for textile production and end use",
+      "exact_official_content": "Explain the selection and suitability of materials for textile products",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa",
+      "outcome_codes": [
+        "TT5-MAT-01",
+        "TT5-ENV-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 7,
+        "master_audit_period": 107,
+        "period_type": "Practical",
+        "focus": "Performance testing",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-02.html#section-23",
+          "label": "2.3 Properties, performance and end use",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/module-02.html#section-23"
+        },
+        "evidence": "Teacher check and labelled practical evidence"
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 41,
+      "content_item_id": "ci390f5a36",
+      "focus_id": "fa3f83f4aa",
+      "focus_area": "Textile design and product development",
+      "group_id": "cg39ce64b0",
+      "content_group": "Creative textile design and technological applications",
+      "exact_official_content": "Identify elements of design, including shape, size, colour, value, line, direction and texture",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa",
+      "outcome_codes": [
+        "TT5-COM-01",
+        "TT5-EVL-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 13,
+        "master_audit_period": 13,
+        "period_type": "Site/theory",
+        "focus": "Elements of design",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/2.html#design-elements",
+          "label": "Elements of design",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/2.html#design-elements"
+        },
+        "evidence": "Annotated element examples and ten checks; guided response saved."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 42,
+      "content_item_id": "ci3f314477",
+      "focus_id": "fa3f83f4aa",
+      "focus_area": "Textile design and product development",
+      "group_id": "cg39ce64b0",
+      "content_group": "Creative textile design and technological applications",
+      "exact_official_content": "Identify principles of design, including proportion, balance, rhythm, emphasis, contrast and harmony",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa",
+      "outcome_codes": [
+        "TT5-COM-01",
+        "TT5-EVL-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 14,
+        "master_audit_period": 14,
+        "period_type": "Practical",
+        "focus": "Design-element textile sampler",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/2.html#design-elements",
+          "label": "Elements of design",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/2.html#design-elements"
+        },
+        "evidence": "Dated work sample/photo and teacher observation."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 43,
+      "content_item_id": "ci396958f5",
+      "focus_id": "fa3f83f4aa",
+      "focus_area": "Textile design and product development",
+      "group_id": "cg39ce64b0",
+      "content_group": "Creative textile design and technological applications",
+      "exact_official_content": "Describe elements and principles of design featured in works created by Aboriginal and Torres Strait Islander Peoples",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa",
+      "outcome_codes": [
+        "TT5-COM-01",
+        "TT5-EVL-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 35,
+        "master_audit_period": 135,
+        "period_type": "Site/theory",
+        "focus": "Pattern and quality",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-06.html#section-63",
+          "label": "6.3 Pattern, sequence and quality",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/module-06.html#section-63"
+        },
+        "evidence": "Knowledge check and saved response"
+      },
+      "coverage_status": "programmed-site-gap",
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "number": 44,
+      "content_item_id": "cid6ca0b33",
+      "focus_id": "fa3f83f4aa",
+      "focus_area": "Textile design and product development",
+      "group_id": "cg39ce64b0",
+      "content_group": "Creative textile design and technological applications",
+      "exact_official_content": "Assess how elements and principles of design feature in the works and collections of textile designers",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa",
+      "outcome_codes": [
+        "TT5-COM-01",
+        "TT5-EVL-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 56,
+        "master_audit_period": 56,
+        "period_type": "Project/folio",
+        "focus": "Designer research",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/folio.html#fashion-magazine",
+          "label": "Fashion magazine folio",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "folio.html#fashion-magazine"
+        },
+        "evidence": "Designer profile evidence."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 45,
+      "content_item_id": "ci1ab134d7",
+      "focus_id": "fa3f83f4aa",
+      "focus_area": "Textile design and product development",
+      "group_id": "cg39ce64b0",
+      "content_group": "Creative textile design and technological applications",
+      "exact_official_content": "Explore customary and contemporary decorative design Practices developed by Aboriginal and Torres Strait Islander Peoples",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa",
+      "outcome_codes": [
+        "TT5-COM-01",
+        "TT5-EVL-01",
+        "TT5-CDT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 36,
+        "master_audit_period": 136,
+        "period_type": "Project/folio",
+        "focus": "Assignment slide plan",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/folio.html",
+          "label": "Project folio",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "folio.html"
+        },
+        "evidence": "Saved folio checkpoint"
+      },
+      "coverage_status": "programmed-site-gap",
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "number": 46,
+      "content_item_id": "ci641d128c",
+      "focus_id": "fa3f83f4aa",
+      "focus_area": "Textile design and product development",
+      "group_id": "cg39ce64b0",
+      "content_group": "Creative textile design and technological applications",
+      "exact_official_content": "Investigate textile designs and designers that feature creative decorative applications",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa",
+      "outcome_codes": [
+        "TT5-COM-01",
+        "TT5-EVL-01",
+        "TT5-CDT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 62,
+        "master_audit_period": 62,
+        "period_type": "Site/theory",
+        "focus": "Exploring textile-art techniques",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/7.html#techniques",
+          "label": "Exploring textile-art techniques",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/7.html#techniques"
+        },
+        "evidence": "Technique decision and ten checks; guided response saved."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 47,
+      "content_item_id": "ci9d088956",
+      "focus_id": "fa3f83f4aa",
+      "focus_area": "Textile design and product development",
+      "group_id": "cg39ce64b0",
+      "content_group": "Creative textile design and technological applications",
+      "exact_official_content": "Generate ideas and concepts for innovative design and technological applications",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa",
+      "outcome_codes": [
+        "TT5-COM-01",
+        "TT5-EVL-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 70,
+        "master_audit_period": 70,
+        "period_type": "Site/theory",
+        "focus": "Developing an original garden design",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/7.html#garden-design",
+          "label": "Developing an original garden design",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/7.html#garden-design"
+        },
+        "evidence": "Original design rationale and ten checks; guided response saved."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 48,
+      "content_item_id": "cid1c60158",
+      "focus_id": "fa3f83f4aa",
+      "focus_area": "Textile design and product development",
+      "group_id": "cg39ce64b0",
+      "content_group": "Creative textile design and technological applications",
+      "exact_official_content": "Demonstrate safe and ethical practices when using digital design and technological applications",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa",
+      "outcome_codes": [
+        "TT5-COM-01",
+        "TT5-EVL-01",
+        "TT5-SAF-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 60,
+        "master_audit_period": 60,
+        "period_type": "Project/folio",
+        "focus": "Image captions and ethical use",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/folio.html#fashion-magazine",
+          "label": "Fashion magazine folio",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "folio.html#fashion-magazine"
+        },
+        "evidence": "Caption and image-source audit."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 49,
+      "content_item_id": "cif9f34a3c",
+      "focus_id": "fa3f83f4aa",
+      "focus_area": "Textile design and product development",
+      "group_id": "cg39ce64b0",
+      "content_group": "Creative textile design and technological applications",
+      "exact_official_content": "Investigate the application of innovative sustainable technologies for textile design and production",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa",
+      "outcome_codes": [
+        "TT5-COM-01",
+        "TT5-EVL-01",
+        "TT5-ENV-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 93,
+        "master_audit_period": 193,
+        "period_type": "Practical",
+        "focus": "Innovation sample test",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-09.html",
+          "label": "Course page",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/module-09.html"
+        },
+        "evidence": "Teacher check and labelled practical evidence"
+      },
+      "coverage_status": "programmed-site-gap",
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "number": 50,
+      "content_item_id": "ci37a962b6",
+      "focus_id": "fa3f83f4aa",
+      "focus_area": "Textile design and product development",
+      "group_id": "cg39ce64b0",
+      "content_group": "Creative textile design and technological applications",
+      "exact_official_content": "Explore elements and principles of design through practical application",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa",
+      "outcome_codes": [
+        "TT5-COM-01",
+        "TT5-EVL-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 15,
+        "master_audit_period": 15,
+        "period_type": "Site/theory",
+        "focus": "Sources of inspiration and mood boards",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/2.html#inspiration",
+          "label": "Sources of inspiration and mood boards",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/2.html#inspiration"
+        },
+        "evidence": "Mood-board rationale and ten checks; guided response saved."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 51,
+      "content_item_id": "cia1c6b4e9",
+      "focus_id": "fa3f83f4aa",
+      "focus_area": "Textile design and product development",
+      "group_id": "cg39ce64b0",
+      "content_group": "Creative textile design and technological applications",
+      "exact_official_content": "Evaluate the practices and products of textile designers",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa",
+      "outcome_codes": [
+        "TT5-COM-01",
+        "TT5-EVL-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 57,
+        "master_audit_period": 57,
+        "period_type": "Project/folio",
+        "focus": "Designer interview writing",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/folio.html#fashion-magazine",
+          "label": "Fashion magazine folio",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "folio.html#fashion-magazine"
+        },
+        "evidence": "Draft designer interview."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 52,
+      "content_item_id": "ci53af5d6f",
+      "focus_id": "fa3f83f4aa",
+      "focus_area": "Textile design and product development",
+      "group_id": "cg0c060ab5",
+      "content_group": "Promotion of textile products",
+      "exact_official_content": "Identify and describe target markets for current and emerging textile designers and brands",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa",
+      "outcome_codes": [
+        "TT5-COM-01",
+        "TT5-IVT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 18,
+        "master_audit_period": 18,
+        "period_type": "Site/theory",
+        "focus": "Reading a commercial pattern",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/3.html#commercial-pattern",
+          "label": "Reading a commercial pattern",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/3.html#commercial-pattern"
+        },
+        "evidence": "Pattern-symbol notes and ten checks; guided response saved."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 53,
+      "content_item_id": "ci205bd78d",
+      "focus_id": "fa3f83f4aa",
+      "focus_area": "Textile design and product development",
+      "group_id": "cg0c060ab5",
+      "content_group": "Promotion of textile products",
+      "exact_official_content": "Compare promotional strategies used by textile designers",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa",
+      "outcome_codes": [
+        "TT5-COM-01",
+        "TT5-IVT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 58,
+        "master_audit_period": 58,
+        "period_type": "Project/folio",
+        "focus": "Target market and brand positioning",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/folio.html#fashion-magazine",
+          "label": "Fashion magazine folio",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "folio.html#fashion-magazine"
+        },
+        "evidence": "Target-market analysis."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 54,
+      "content_item_id": "cia653d816",
+      "focus_id": "fa3f83f4aa",
+      "focus_area": "Textile design and product development",
+      "group_id": "cg0c060ab5",
+      "content_group": "Promotion of textile products",
+      "exact_official_content": "Investigate how data is used by textile designers and brands to inform textile product design",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa",
+      "outcome_codes": [
+        "TT5-COM-01",
+        "TT5-IVT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 59,
+        "master_audit_period": 59,
+        "period_type": "Site/theory",
+        "focus": "Magazine research and respectful evidence",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/6.html#magazine-evidence",
+          "label": "Magazine research and respectful evidence",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/6.html#magazine-evidence"
+        },
+        "evidence": "Caption/reference audit and ten checks; guided response saved."
+      },
+      "coverage_status": "programmed-site-gap",
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "number": 55,
+      "content_item_id": "ci5637badb",
+      "focus_id": "fa3f83f4aa",
+      "focus_area": "Textile design and product development",
+      "group_id": "cg0c060ab5",
+      "content_group": "Promotion of textile products",
+      "exact_official_content": "Explain how textile designers promote ethical and sustainable design practices",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa",
+      "outcome_codes": [
+        "TT5-COM-01",
+        "TT5-IVT-01",
+        "TT5-SAF-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 14,
+        "master_audit_period": 114,
+        "period_type": "Site/theory",
+        "focus": "Upcycling pathways",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-04.html#section-41",
+          "label": "4.1 Upcycling, recycling and reuse",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/module-04.html#section-41"
+        },
+        "evidence": "Knowledge check and saved response"
+      },
+      "coverage_status": "programmed-site-gap",
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "number": 56,
+      "content_item_id": "cib5cabe65",
+      "focus_id": "fa3f83f4aa",
+      "focus_area": "Textile design and product development",
+      "group_id": "cg0c060ab5",
+      "content_group": "Promotion of textile products",
+      "exact_official_content": "Use digital design and technological applications to create promotional materials for textile consumers",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa",
+      "outcome_codes": [
+        "TT5-COM-01",
+        "TT5-IVT-01",
+        "TT5-MAT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 61,
+        "master_audit_period": 61,
+        "period_type": "Project/folio",
+        "focus": "APA references and page plan",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/activities.html#txt9-bw17",
+          "label": "Learning activity",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "activities.html#txt9-bw17"
+        },
+        "evidence": "APA list and page map."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 57,
+      "content_item_id": "ci75d5c210",
+      "focus_id": "fa3f83f4aa",
+      "focus_area": "Textile design and product development",
+      "group_id": "cg0c060ab5",
+      "content_group": "Promotion of textile products",
+      "exact_official_content": "Demonstrate safe and ethical practices when accessing and collecting data",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa",
+      "outcome_codes": [
+        "TT5-COM-01",
+        "TT5-IVT-01",
+        "TT5-SAF-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 63,
+        "master_audit_period": 63,
+        "period_type": "Practical",
+        "focus": "Textile-art technique sample — Hand embroidery",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/7.html#techniques",
+          "label": "Exploring textile-art techniques",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/7.html#techniques"
+        },
+        "evidence": "Dated work sample/photo and teacher observation."
+      },
+      "coverage_status": "programmed-site-gap",
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "number": 58,
+      "content_item_id": "cic9e50918",
+      "focus_id": "fab8e5b90a",
+      "focus_area": "Textile project work",
+      "group_id": "cg092afc21",
+      "content_group": "Textile design areas",
+      "exact_official_content": "Identify textile products created within a range of different textile design areas",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+      "outcome_codes": [
+        "TT5-EVL-01",
+        "TT5-MAT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 12,
+        "master_audit_period": 12,
+        "period_type": "Project/folio",
+        "focus": "Designer Pyjamas brief and criteria",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/folio.html#designer-pyjamas",
+          "label": "Designer Pyjamas folio",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "folio.html#designer-pyjamas"
+        },
+        "evidence": "Completed brief and criteria cards."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 59,
+      "content_item_id": "cib05f5a54",
+      "focus_id": "fab8e5b90a",
+      "focus_area": "Textile project work",
+      "group_id": "cg092afc21",
+      "content_group": "Textile design areas",
+      "exact_official_content": "Outline the uses of a range of textile products",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+      "outcome_codes": [
+        "TT5-EVL-01",
+        "TT5-MAT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 45,
+        "master_audit_period": 145,
+        "period_type": "Project/folio",
+        "focus": "Quillow brief and inspiration",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/folio.html",
+          "label": "Project folio",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "folio.html"
+        },
+        "evidence": "Saved folio checkpoint"
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 60,
+      "content_item_id": "cif4ce5e01",
+      "focus_id": "fab8e5b90a",
+      "focus_area": "Textile project work",
+      "group_id": "cg092afc21",
+      "content_group": "Textile design areas",
+      "exact_official_content": "Describe aesthetic features of a range of textile products",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+      "outcome_codes": [
+        "TT5-EVL-01",
+        "TT5-MAT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 69,
+        "master_audit_period": 169,
+        "period_type": "Site/theory",
+        "focus": "Costume influence",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-08.html#section-82",
+          "label": "8.2 Historical, cultural and contemporary influence",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/module-08.html#section-82"
+        },
+        "evidence": "Knowledge check and saved response"
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 61,
+      "content_item_id": "cib0b262d6",
+      "focus_id": "fab8e5b90a",
+      "focus_area": "Textile project work",
+      "group_id": "cg092afc21",
+      "content_group": "Textile design areas",
+      "exact_official_content": "Explain functional properties of a range of textile products",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+      "outcome_codes": [
+        "TT5-EVL-01",
+        "TT5-MAT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 46,
+        "master_audit_period": 146,
+        "period_type": "Practical",
+        "focus": "Manipulation samples",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-07.html#section-72",
+          "label": "7.2 Manipulation and embellishment samples",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/module-07.html#section-72"
+        },
+        "evidence": "Teacher check and labelled practical evidence"
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 62,
+      "content_item_id": "ci9da3553d",
+      "focus_id": "fab8e5b90a",
+      "focus_area": "Textile project work",
+      "group_id": "cg02c279b7",
+      "content_group": "Design inspiration",
+      "exact_official_content": "Investigate a range of design inspiration sources",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+      "outcome_codes": [
+        "TT5-EVL-01",
+        "TT5-COM-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 16,
+        "master_audit_period": 16,
+        "period_type": "Project/folio",
+        "focus": "Mood board and inspiration evidence",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/folio.html#designer-pyjamas",
+          "label": "Designer Pyjamas folio",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "folio.html#designer-pyjamas"
+        },
+        "evidence": "Inspiration card with captions and source list."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 63,
+      "content_item_id": "ci6b3fa63e",
+      "focus_id": "fab8e5b90a",
+      "focus_area": "Textile project work",
+      "group_id": "cg02c279b7",
+      "content_group": "Design inspiration",
+      "exact_official_content": "Explore how designers use design inspiration sources when developing textile products and collections",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+      "outcome_codes": [
+        "TT5-EVL-01",
+        "TT5-COM-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 19,
+        "master_audit_period": 19,
+        "period_type": "Practical",
+        "focus": "Commercial-pattern handling",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/3.html#commercial-pattern",
+          "label": "Reading a commercial pattern",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/3.html#commercial-pattern"
+        },
+        "evidence": "Dated work sample/photo and teacher observation."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 64,
+      "content_item_id": "ci5b98927e",
+      "focus_id": "fab8e5b90a",
+      "focus_area": "Textile project work",
+      "group_id": "cg02c279b7",
+      "content_group": "Design inspiration",
+      "exact_official_content": "Select and evaluate design inspiration sources for the development of textile projects",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+      "outcome_codes": [
+        "TT5-EVL-01",
+        "TT5-COM-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 21,
+        "master_audit_period": 21,
+        "period_type": "Project/folio",
+        "focus": "Concept comparison and selection",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/folio.html#designer-pyjamas",
+          "label": "Designer Pyjamas folio",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "folio.html#designer-pyjamas"
+        },
+        "evidence": "Concepts card and design decision."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 65,
+      "content_item_id": "cidc698afa",
+      "focus_id": "fab8e5b90a",
+      "focus_area": "Textile project work",
+      "group_id": "cg02c279b7",
+      "content_group": "Design inspiration",
+      "exact_official_content": "Outline features of design inspiration sources used to generate and refine ideas",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+      "outcome_codes": [
+        "TT5-EVL-01",
+        "TT5-COM-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 10,
+        "master_audit_period": 10,
+        "period_type": "Practical",
+        "focus": "Pincushion practice — finish and quality check",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/1.html#pincushion",
+          "label": "Pincushion practice and reflection",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/1.html#pincushion"
+        },
+        "evidence": "Dated work sample/photo and teacher observation."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 66,
+      "content_item_id": "ci34fde9a3",
+      "focus_id": "fab8e5b90a",
+      "focus_area": "Textile project work",
+      "group_id": "cg02c279b7",
+      "content_group": "Design inspiration",
+      "exact_official_content": "Demonstrate safe and ethical practices using digital technologies to source information",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+      "outcome_codes": [
+        "TT5-EVL-01",
+        "TT5-COM-01",
+        "TT5-SAF-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 64,
+        "master_audit_period": 64,
+        "period_type": "Practical",
+        "focus": "Textile-art technique sample — Appliqué",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/7.html#techniques",
+          "label": "Exploring textile-art techniques",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/7.html#techniques"
+        },
+        "evidence": "Dated work sample/photo and teacher observation."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 67,
+      "content_item_id": "ci383481bb",
+      "focus_id": "fab8e5b90a",
+      "focus_area": "Textile project work",
+      "group_id": "cg18e16b03",
+      "content_group": "Idea development",
+      "exact_official_content": "Explore design software and applications to design and generate ideas",
+      "including_points": [],
+      "examples": [
+        "Computer-aided design (CAD)."
+      ],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+      "outcome_codes": [
+        "TT5-COM-01",
+        "TT5-EVL-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 27,
+        "master_audit_period": 27,
+        "period_type": "Practical",
+        "focus": "Pattern check and layout",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/5.html#construction",
+          "label": "Construction sequence and technique samples",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/5.html#construction"
+        },
+        "evidence": "Dated work sample/photo and teacher observation."
+      },
+      "coverage_status": "programmed-site-gap",
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "number": 68,
+      "content_item_id": "cib99be85e",
+      "focus_id": "fab8e5b90a",
+      "focus_area": "Textile project work",
+      "group_id": "cg18e16b03",
+      "content_group": "Idea development",
+      "exact_official_content": "Apply design and creative thinking to generate ideas using a range of communication techniques",
+      "including_points": [],
+      "examples": [
+        "Fashion drawing, production drawings, pattern pieces, sketching."
+      ],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+      "outcome_codes": [
+        "TT5-COM-01",
+        "TT5-EVL-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 28,
+        "master_audit_period": 28,
+        "period_type": "Practical",
+        "focus": "Accurate marking and cutting",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/5.html#construction",
+          "label": "Construction sequence and technique samples",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/5.html#construction"
+        },
+        "evidence": "Dated work sample/photo and teacher observation."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 69,
+      "content_item_id": "ci71f59c8c",
+      "focus_id": "fab8e5b90a",
+      "focus_area": "Textile project work",
+      "group_id": "cg18e16b03",
+      "content_group": "Idea development",
+      "exact_official_content": "Annotate aesthetic features and functional properties of design ideas",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+      "outcome_codes": [
+        "TT5-COM-01",
+        "TT5-EVL-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 29,
+        "master_audit_period": 29,
+        "period_type": "Practical",
+        "focus": "Initial seam sample",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/5.html#construction",
+          "label": "Construction sequence and technique samples",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/5.html#construction"
+        },
+        "evidence": "Dated work sample/photo and teacher observation."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 70,
+      "content_item_id": "ci308af920",
+      "focus_id": "fab8e5b90a",
+      "focus_area": "Textile project work",
+      "group_id": "cg18e16b03",
+      "content_group": "Idea development",
+      "exact_official_content": "Evaluate and refine design ideas to justify the selection of final textile products using written, visual, verbal or multimodal communication forms",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+      "outcome_codes": [
+        "TT5-COM-01",
+        "TT5-EVL-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 30,
+        "master_audit_period": 30,
+        "period_type": "Practical",
+        "focus": "Pyjama assembly",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/5.html#construction",
+          "label": "Construction sequence and technique samples",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/5.html#construction"
+        },
+        "evidence": "Dated work sample/photo and teacher observation."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 71,
+      "content_item_id": "cie7ec28e1",
+      "focus_id": "fab8e5b90a",
+      "focus_area": "Textile project work",
+      "group_id": "cg18e16b03",
+      "content_group": "Idea development",
+      "exact_official_content": "Analyse ways that textile ideas and products could be modified to improve sustainability",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+      "outcome_codes": [
+        "TT5-COM-01",
+        "TT5-EVL-01",
+        "TT5-ENV-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 20,
+        "master_audit_period": 120,
+        "period_type": "Project/folio",
+        "focus": "Concept generation",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/folio.html",
+          "label": "Project folio",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "folio.html"
+        },
+        "evidence": "Saved folio checkpoint"
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 72,
+      "content_item_id": "ci4a2db4dd",
+      "focus_id": "fab8e5b90a",
+      "focus_area": "Textile project work",
+      "group_id": "cg18e16b03",
+      "content_group": "Idea development",
+      "exact_official_content": "Use subject-specific terminology to communicate ideas for textile design and production",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+      "outcome_codes": [
+        "TT5-COM-01",
+        "TT5-EVL-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 65,
+        "master_audit_period": 65,
+        "period_type": "Practical",
+        "focus": "Textile-art technique sample — Couching",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/7.html#techniques",
+          "label": "Exploring textile-art techniques",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/7.html#techniques"
+        },
+        "evidence": "Dated work sample/photo and teacher observation."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 73,
+      "content_item_id": "ci281373f6",
+      "focus_id": "fab8e5b90a",
+      "focus_area": "Textile project work",
+      "group_id": "cg0715f884",
+      "content_group": "Experimentation",
+      "exact_official_content": "Explore and experiment with construction techniques to test their suitability for textile products through practical application",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+      "outcome_codes": [
+        "TT5-CDT-01",
+        "TT5-MAT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 31,
+        "master_audit_period": 31,
+        "period_type": "Practical",
+        "focus": "Seam finish and quality",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/5.html#construction",
+          "label": "Construction sequence and technique samples",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/5.html#construction"
+        },
+        "evidence": "Dated work sample/photo and teacher observation."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 74,
+      "content_item_id": "ci182fa013",
+      "focus_id": "fab8e5b90a",
+      "focus_area": "Textile project work",
+      "group_id": "cg0715f884",
+      "content_group": "Experimentation",
+      "exact_official_content": "Investigate and experiment with decorative techniques to enhance textile products through practical application",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+      "outcome_codes": [
+        "TT5-CDT-01",
+        "TT5-MAT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 66,
+        "master_audit_period": 66,
+        "period_type": "Practical",
+        "focus": "Textile-art technique sample — Free-motion or machine embroidery",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/7.html#techniques",
+          "label": "Exploring textile-art techniques",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/7.html#techniques"
+        },
+        "evidence": "Dated work sample/photo and teacher observation."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 75,
+      "content_item_id": "cie4ad7640",
+      "focus_id": "fab8e5b90a",
+      "focus_area": "Textile project work",
+      "group_id": "cg0715f884",
+      "content_group": "Experimentation",
+      "exact_official_content": "Evaluate experimentation with decorative and construction techniques to determine their application to textile projects",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+      "outcome_codes": [
+        "TT5-CDT-01",
+        "TT5-MAT-01",
+        "TT5-EVL-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 75,
+        "master_audit_period": 75,
+        "period_type": "Practical",
+        "focus": "Textile-art technique sample — Technique combination test",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/7.html#techniques",
+          "label": "Exploring textile-art techniques",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/7.html#techniques"
+        },
+        "evidence": "Dated work sample/photo and teacher observation."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 76,
+      "content_item_id": "cie59ef587",
+      "focus_id": "fab8e5b90a",
+      "focus_area": "Textile project work",
+      "group_id": "cg0715f884",
+      "content_group": "Experimentation",
+      "exact_official_content": "Experiment with design software and applications to decorate and manipulate materials for textile design and production",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+      "outcome_codes": [
+        "TT5-CDT-01",
+        "TT5-MAT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 37,
+        "master_audit_period": 137,
+        "period_type": "Project/folio",
+        "focus": "Mini-kimono design",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/folio.html",
+          "label": "Project folio",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "folio.html"
+        },
+        "evidence": "Saved folio checkpoint"
+      },
+      "coverage_status": "programmed-site-gap",
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "number": 77,
+      "content_item_id": "cib46ba016",
+      "focus_id": "fab8e5b90a",
+      "focus_area": "Textile project work",
+      "group_id": "cg0715f884",
+      "content_group": "Experimentation",
+      "exact_official_content": "Examine fabric characteristics and properties to determine their suitability for textile products",
+      "including_points": [],
+      "examples": [
+        "Abrasion resistance, breathability, colour, drape, durability, stretch, texture, woven, knitted, bonded, waterproof."
+      ],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+      "outcome_codes": [
+        "TT5-CDT-01",
+        "TT5-MAT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 32,
+        "master_audit_period": 32,
+        "period_type": "Practical",
+        "focus": "Waist/fastening process",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/5.html#construction",
+          "label": "Construction sequence and technique samples",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/5.html#construction"
+        },
+        "evidence": "Dated work sample/photo and teacher observation."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 78,
+      "content_item_id": "ci06633ec6",
+      "focus_id": "fab8e5b90a",
+      "focus_area": "Textile project work",
+      "group_id": "cg0715f884",
+      "content_group": "Experimentation",
+      "exact_official_content": "Justify the selection of materials used for textile products through testing and evaluation",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+      "outcome_codes": [
+        "TT5-CDT-01",
+        "TT5-MAT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 4,
+        "master_audit_period": 104,
+        "period_type": "Practical",
+        "focus": "Sewing and pressing induction",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-01.html#section-13",
+          "label": "1.3 Safe sewing and pressing routines",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/module-01.html#section-13"
+        },
+        "evidence": "Teacher check and labelled practical evidence"
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 79,
+      "content_item_id": "ci88bf6ca2",
+      "focus_id": "fab8e5b90a",
+      "focus_area": "Textile project work",
+      "group_id": "cg0715f884",
+      "content_group": "Experimentation",
+      "exact_official_content": "Create written texts to describe and evaluate design ideas and production processes",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+      "outcome_codes": [
+        "TT5-CDT-01",
+        "TT5-MAT-01",
+        "TT5-COM-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 73,
+        "master_audit_period": 73,
+        "period_type": "Project/folio",
+        "focus": "Final design and technique plan",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/folio.html#textile-art",
+          "label": "Textile Art folio",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "folio.html#textile-art"
+        },
+        "evidence": "Final design and technique plan."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 80,
+      "content_item_id": "ci5d9c152c",
+      "focus_id": "fab8e5b90a",
+      "focus_area": "Textile project work",
+      "group_id": "cg74f29513",
+      "content_group": "Textile product construction and design application",
+      "exact_official_content": "Apply planning and organisation skills in the production of textile products",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-CDT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 33,
+        "master_audit_period": 33,
+        "period_type": "Practical",
+        "focus": "Hem preparation",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/5.html#construction",
+          "label": "Construction sequence and technique samples",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/5.html#construction"
+        },
+        "evidence": "Dated work sample/photo and teacher observation."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 81,
+      "content_item_id": "ci15e4c4e8",
+      "focus_id": "fab8e5b90a",
+      "focus_area": "Textile project work",
+      "group_id": "cg74f29513",
+      "content_group": "Textile product construction and design application",
+      "exact_official_content": "Demonstrate safe practices when selecting and using materials, technologies and processes",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-CDT-01",
+        "TT5-MAT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 2,
+        "master_audit_period": 2,
+        "period_type": "Practical",
+        "focus": "Room routines and equipment hold points",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/1.html#room-safety",
+          "label": "Working safely in the textiles room",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/1.html#room-safety"
+        },
+        "evidence": "Dated work sample/photo and teacher observation."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 82,
+      "content_item_id": "ci5631ba69",
+      "focus_id": "fab8e5b90a",
+      "focus_area": "Textile project work",
+      "group_id": "cg74f29513",
+      "content_group": "Textile product construction and design application",
+      "exact_official_content": "Identify and apply appropriate standards and codes of practice when designing textile products",
+      "including_points": [],
+      "examples": [
+        "Mandatory standards for safety testing and care labelling, diversity codes of practice."
+      ],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-CDT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 2,
+        "master_audit_period": 102,
+        "period_type": "Site/theory",
+        "focus": "Hazard language",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-01.html#section-12",
+          "label": "1.2 Hazards, risks and controls",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/module-01.html#section-12"
+        },
+        "evidence": "Knowledge check and saved response"
+      },
+      "coverage_status": "programmed-site-gap",
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "number": 83,
+      "content_item_id": "ci916ab638",
+      "focus_id": "fab8e5b90a",
+      "focus_area": "Textile project work",
+      "group_id": "cg74f29513",
+      "content_group": "Textile product construction and design application",
+      "exact_official_content": "Use collaborative practices in textile design and production, including teamwork, communication and shared decision-making",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-CDT-01",
+        "TT5-COM-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 76,
+        "master_audit_period": 76,
+        "period_type": "Site/theory",
+        "focus": "Production drawing, making and evaluation",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/7.html#art-production",
+          "label": "Production drawing, making and evaluation",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/7.html#art-production"
+        },
+        "evidence": "Production/evaluation explanation and ten checks saved."
+      },
+      "coverage_status": "programmed-site-gap",
+      "teacher_to_confirm_ids": [
+        "TTC-COLLAB"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "number": 84,
+      "content_item_id": "cia983a493",
+      "focus_id": "fab8e5b90a",
+      "focus_area": "Textile project work",
+      "group_id": "cg74f29513",
+      "content_group": "Textile product construction and design application",
+      "exact_official_content": "Deconstruct textile products to identify components and explore creative reuse opportunities",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-CDT-01",
+        "TT5-ENV-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 16,
+        "master_audit_period": 116,
+        "period_type": "Practical",
+        "focus": "Material audit",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-04.html#section-42",
+          "label": "4.2 Deconstruction and material audit",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/module-04.html#section-42"
+        },
+        "evidence": "Teacher check and labelled practical evidence"
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 85,
+      "content_item_id": "ci8f682dc6",
+      "focus_id": "fab8e5b90a",
+      "focus_area": "Textile project work",
+      "group_id": "cg74f29513",
+      "content_group": "Textile product construction and design application",
+      "exact_official_content": "Identify and apply sustainable practices and processes for textile design and production",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-CDT-01",
+        "TT5-ENV-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 17,
+        "master_audit_period": 117,
+        "period_type": "Practical",
+        "focus": "Deconstruction",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-04.html",
+          "label": "Course page",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/module-04.html"
+        },
+        "evidence": "Teacher check and labelled practical evidence"
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 86,
+      "content_item_id": "ci07bf5c37",
+      "focus_id": "fab8e5b90a",
+      "focus_area": "Textile project work",
+      "group_id": "cg74f29513",
+      "content_group": "Textile product construction and design application",
+      "exact_official_content": "Identify and select appropriate fabric and notions for production",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-CDT-01",
+        "TT5-MAT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 35,
+        "master_audit_period": 35,
+        "period_type": "Project/folio",
+        "focus": "Resources, costing and production evidence",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/folio.html#designer-pyjamas",
+          "label": "Designer Pyjamas folio",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "folio.html#designer-pyjamas"
+        },
+        "evidence": "Costing/resource table and dated production plan."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 87,
+      "content_item_id": "ci5907723a",
+      "focus_id": "fab8e5b90a",
+      "focus_area": "Textile project work",
+      "group_id": "cg74f29513",
+      "content_group": "Textile product construction and design application",
+      "exact_official_content": "Select, modify and use construction patterns",
+      "including_points": [],
+      "examples": [
+        "Commercial patterns, drafting blocks, digital pattern making applications."
+      ],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-CDT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 34,
+        "master_audit_period": 34,
+        "period_type": "Site/theory",
+        "focus": "Resources, equipment and costing",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/5.html#resources-costing",
+          "label": "Resources, equipment and costing",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/5.html#resources-costing"
+        },
+        "evidence": "Real-resource table and ten checks; guided response saved."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 88,
+      "content_item_id": "ci07ce5dff",
+      "focus_id": "fab8e5b90a",
+      "focus_area": "Textile project work",
+      "group_id": "cg74f29513",
+      "content_group": "Textile product construction and design application",
+      "exact_official_content": "Interpret pattern instructions, transfer pattern marking and apply pattern layout plans",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-CDT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 36,
+        "master_audit_period": 36,
+        "period_type": "Practical",
+        "focus": "Hoodie fabric handling",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/5.html#construction",
+          "label": "Construction sequence and technique samples",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/5.html#construction"
+        },
+        "evidence": "Dated work sample/photo and teacher observation."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 89,
+      "content_item_id": "cie0a47f7e",
+      "focus_id": "fab8e5b90a",
+      "focus_area": "Textile project work",
+      "group_id": "cg74f29513",
+      "content_group": "Textile product construction and design application",
+      "exact_official_content": "Select and apply construction techniques to develop quality textile products",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-CDT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 37,
+        "master_audit_period": 37,
+        "period_type": "Practical",
+        "focus": "Hoodie seam sample",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/5.html#construction",
+          "label": "Construction sequence and technique samples",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/5.html#construction"
+        },
+        "evidence": "Dated work sample/photo and teacher observation."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 90,
+      "content_item_id": "cia549b0b6",
+      "focus_id": "fab8e5b90a",
+      "focus_area": "Textile project work",
+      "group_id": "cg74f29513",
+      "content_group": "Textile product construction and design application",
+      "exact_official_content": "Select and apply decorative techniques to enhance textile designs",
+      "including_points": [],
+      "examples": [
+        "Colouration, embellishment, fabric manipulation, haberdashery applications."
+      ],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-CDT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year9",
+        "program_title": "Year 9 Textiles",
+        "local_period": 67,
+        "master_audit_period": 67,
+        "period_type": "Practical",
+        "focus": "Textile-art technique sample — Printing/painting",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/7.html#techniques",
+          "label": "Exploring textile-art techniques",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/7.html#techniques"
+        },
+        "evidence": "Dated work sample/photo and teacher observation."
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 91,
+      "content_item_id": "ci56d347f1",
+      "focus_id": "fab8e5b90a",
+      "focus_area": "Textile project work",
+      "group_id": "cg74f29513",
+      "content_group": "Textile product construction and design application",
+      "exact_official_content": "Apply ongoing evaluation during the development and production of textile products",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-CDT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 23,
+        "master_audit_period": 123,
+        "period_type": "Practical",
+        "focus": "Upcycle production 2",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-04.html",
+          "label": "Course page",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/module-04.html"
+        },
+        "evidence": "Teacher check and labelled practical evidence"
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    },
+    {
+      "number": 92,
+      "content_item_id": "ci6b15b9cf",
+      "focus_id": "fab8e5b90a",
+      "focus_area": "Textile project work",
+      "group_id": "cg74f29513",
+      "content_group": "Textile product construction and design application",
+      "exact_official_content": "Develop, refine and demonstrate technical proficiency through textile project work, individually or collaboratively",
+      "including_points": [],
+      "examples": [],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+      "outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-CDT-01"
+      ],
+      "primary_allocation": {
+        "program_id": "year10",
+        "program_title": "Year 10 Textiles",
+        "local_period": 99,
+        "master_audit_period": 199,
+        "period_type": "Practical",
+        "focus": "Exhibition preparation",
+        "site_destination": {
+          "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-10.html",
+          "label": "Course page",
+          "purpose": "Named course learning or evidence destination",
+          "audience": "student",
+          "route_status": "source-inventory-verified",
+          "source_route": "modules/module-10.html"
+        },
+        "evidence": "Teacher check and labelled practical evidence"
+      },
+      "coverage_status": "programmed-site-supported",
+      "teacher_to_confirm_ids": [],
+      "gap_action": null
+    }
+  ],
+  "gaps": [
+    {
+      "content_item_id": "ci27cd1dee",
+      "exact_official_content": "Identify textile art forms created for expression, communication and Storytelling",
+      "program_id": "year10",
+      "local_period": 26,
+      "site_destination": {
+        "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-05.html#section-51",
+        "label": "5.1 Textiles as expressive and functional media",
+        "purpose": "Named course learning or evidence destination",
+        "audience": "student",
+        "route_status": "source-inventory-verified",
+        "source_route": "modules/module-05.html#section-51"
+      },
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "content_item_id": "cif210102a",
+      "exact_official_content": "Describe Aboriginal and Torres Strait Islander textile designer Practices and products",
+      "program_id": "year10",
+      "local_period": 27,
+      "site_destination": {
+        "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-05.html#section-52",
+        "label": "5.2 Indigenous Cultural and Intellectual Property",
+        "purpose": "Named course learning or evidence destination",
+        "audience": "student",
+        "route_status": "source-inventory-verified",
+        "source_route": "modules/module-05.html#section-52"
+      },
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "content_item_id": "ci66faf08b",
+      "exact_official_content": "Explore Aboriginal and Torres Strait Islander Peoples’ material sourcing Practices and describe the suitability of the materials for end use",
+      "program_id": "year10",
+      "local_period": 29,
+      "site_destination": {
+        "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/folio.html",
+        "label": "Project folio",
+        "purpose": "Named course learning or evidence destination",
+        "audience": "student",
+        "route_status": "source-inventory-verified",
+        "source_route": "folio.html"
+      },
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "content_item_id": "ci4dbb0cd1",
+      "exact_official_content": "Investigate Aboriginal and Torres Strait Islander customary Practices and outline how they are applied to contemporary designs",
+      "program_id": "year10",
+      "local_period": 28,
+      "site_destination": {
+        "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-05.html#section-53",
+        "label": "5.3 Case studies and design influence",
+        "purpose": "Named course learning or evidence destination",
+        "audience": "student",
+        "route_status": "source-inventory-verified",
+        "source_route": "modules/module-05.html#section-53"
+      },
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "content_item_id": "cif6ab46a3",
+      "exact_official_content": "Explore design inspiration sources in the local area to generate textile design ideas and concepts",
+      "program_id": "year10",
+      "local_period": 31,
+      "site_destination": {
+        "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-06.html#section-61",
+        "label": "6.1 Kimono form and context",
+        "purpose": "Named course learning or evidence destination",
+        "audience": "student",
+        "route_status": "source-inventory-verified",
+        "source_route": "modules/module-06.html#section-61"
+      },
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "content_item_id": "ci386d50a8",
+      "exact_official_content": "Identify fibres cultivated in Australia for use in textile design and production",
+      "program_id": "year10",
+      "local_period": 5,
+      "site_destination": {
+        "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-02.html#section-21",
+        "label": "2.1 From fibre to textile item",
+        "purpose": "Named course learning or evidence destination",
+        "audience": "student",
+        "route_status": "source-inventory-verified",
+        "source_route": "modules/module-02.html#section-21"
+      },
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "content_item_id": "ciace6a08d",
+      "exact_official_content": "Describe local and global techniques used in the cultivation and processing of fibres",
+      "program_id": "year10",
+      "local_period": 6,
+      "site_destination": {
+        "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-02.html#section-22",
+        "label": "2.2 Fabric structures",
+        "purpose": "Named course learning or evidence destination",
+        "audience": "student",
+        "route_status": "source-inventory-verified",
+        "source_route": "modules/module-02.html#section-22"
+      },
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "content_item_id": "ci054c9184",
+      "exact_official_content": "Identify textile supply chain systems to assess future development opportunities",
+      "program_id": "year10",
+      "local_period": 91,
+      "site_destination": {
+        "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-09.html#section-91",
+        "label": "9.1 The textile industry system",
+        "purpose": "Named course learning or evidence destination",
+        "audience": "student",
+        "route_status": "source-inventory-verified",
+        "source_route": "modules/module-09.html#section-91"
+      },
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "content_item_id": "cid0d89af0",
+      "exact_official_content": "Explain current challenges that may influence future development of Australian textile industries",
+      "program_id": "year10",
+      "local_period": 91,
+      "site_destination": {
+        "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-09.html#section-91",
+        "label": "9.1 The textile industry system",
+        "purpose": "Named course learning or evidence destination",
+        "audience": "student",
+        "route_status": "source-inventory-verified",
+        "source_route": "modules/module-09.html#section-91"
+      },
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "content_item_id": "cib4a59fc4",
+      "exact_official_content": "Describe the influence of globalisation on the Australian textile industry",
+      "program_id": "year10",
+      "local_period": 91,
+      "site_destination": {
+        "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-09.html#section-91",
+        "label": "9.1 The textile industry system",
+        "purpose": "Named course learning or evidence destination",
+        "audience": "student",
+        "route_status": "source-inventory-verified",
+        "source_route": "modules/module-09.html#section-91"
+      },
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "content_item_id": "cifd6f0749",
+      "exact_official_content": "Investigate community and industry initiatives that promote textile sustainability and consumer awareness",
+      "program_id": "year10",
+      "local_period": 95,
+      "site_destination": {
+        "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/folio.html",
+        "label": "Project folio",
+        "purpose": "Named course learning or evidence destination",
+        "audience": "student",
+        "route_status": "source-inventory-verified",
+        "source_route": "folio.html"
+      },
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "content_item_id": "ci3334d34f",
+      "exact_official_content": "Evaluate adaptive, emerging and innovative textile technologies for specific purposes",
+      "program_id": "year10",
+      "local_period": 93,
+      "site_destination": {
+        "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-09.html",
+        "label": "Course page",
+        "purpose": "Named course learning or evidence destination",
+        "audience": "student",
+        "route_status": "source-inventory-verified",
+        "source_route": "modules/module-09.html"
+      },
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "content_item_id": "ci12be1977",
+      "exact_official_content": "Describe how innovative textile design can improve accessibility, participation and inclusivity for diverse populations",
+      "program_id": "year10",
+      "local_period": 68,
+      "site_destination": {
+        "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-08.html#section-81",
+        "label": "8.1 Costume communicates",
+        "purpose": "Named course learning or evidence destination",
+        "audience": "student",
+        "route_status": "source-inventory-verified",
+        "source_route": "modules/module-08.html#section-81"
+      },
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "content_item_id": "ci73622c64",
+      "exact_official_content": "Evaluate sustainable material sourcing practices for textile design and production",
+      "program_id": "year10",
+      "local_period": 11,
+      "site_destination": {
+        "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-03.html#section-32",
+        "label": "3.2 Fast fashion and waste",
+        "purpose": "Named course learning or evidence destination",
+        "audience": "student",
+        "route_status": "source-inventory-verified",
+        "source_route": "modules/module-03.html#section-32"
+      },
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "content_item_id": "ci396958f5",
+      "exact_official_content": "Describe elements and principles of design featured in works created by Aboriginal and Torres Strait Islander Peoples",
+      "program_id": "year10",
+      "local_period": 35,
+      "site_destination": {
+        "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-06.html#section-63",
+        "label": "6.3 Pattern, sequence and quality",
+        "purpose": "Named course learning or evidence destination",
+        "audience": "student",
+        "route_status": "source-inventory-verified",
+        "source_route": "modules/module-06.html#section-63"
+      },
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "content_item_id": "ci1ab134d7",
+      "exact_official_content": "Explore customary and contemporary decorative design Practices developed by Aboriginal and Torres Strait Islander Peoples",
+      "program_id": "year10",
+      "local_period": 36,
+      "site_destination": {
+        "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/folio.html",
+        "label": "Project folio",
+        "purpose": "Named course learning or evidence destination",
+        "audience": "student",
+        "route_status": "source-inventory-verified",
+        "source_route": "folio.html"
+      },
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "content_item_id": "cif9f34a3c",
+      "exact_official_content": "Investigate the application of innovative sustainable technologies for textile design and production",
+      "program_id": "year10",
+      "local_period": 93,
+      "site_destination": {
+        "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-09.html",
+        "label": "Course page",
+        "purpose": "Named course learning or evidence destination",
+        "audience": "student",
+        "route_status": "source-inventory-verified",
+        "source_route": "modules/module-09.html"
+      },
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "content_item_id": "cia653d816",
+      "exact_official_content": "Investigate how data is used by textile designers and brands to inform textile product design",
+      "program_id": "year9",
+      "local_period": 59,
+      "site_destination": {
+        "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/6.html#magazine-evidence",
+        "label": "Magazine research and respectful evidence",
+        "purpose": "Named course learning or evidence destination",
+        "audience": "student",
+        "route_status": "source-inventory-verified",
+        "source_route": "modules/6.html#magazine-evidence"
+      },
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "content_item_id": "ci5637badb",
+      "exact_official_content": "Explain how textile designers promote ethical and sustainable design practices",
+      "program_id": "year10",
+      "local_period": 14,
+      "site_destination": {
+        "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-04.html#section-41",
+        "label": "4.1 Upcycling, recycling and reuse",
+        "purpose": "Named course learning or evidence destination",
+        "audience": "student",
+        "route_status": "source-inventory-verified",
+        "source_route": "modules/module-04.html#section-41"
+      },
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "content_item_id": "ci75d5c210",
+      "exact_official_content": "Demonstrate safe and ethical practices when accessing and collecting data",
+      "program_id": "year9",
+      "local_period": 63,
+      "site_destination": {
+        "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/7.html#techniques",
+        "label": "Exploring textile-art techniques",
+        "purpose": "Named course learning or evidence destination",
+        "audience": "student",
+        "route_status": "source-inventory-verified",
+        "source_route": "modules/7.html#techniques"
+      },
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "content_item_id": "ci383481bb",
+      "exact_official_content": "Explore design software and applications to design and generate ideas",
+      "program_id": "year9",
+      "local_period": 27,
+      "site_destination": {
+        "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/5.html#construction",
+        "label": "Construction sequence and technique samples",
+        "purpose": "Named course learning or evidence destination",
+        "audience": "student",
+        "route_status": "source-inventory-verified",
+        "source_route": "modules/5.html#construction"
+      },
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "content_item_id": "cie59ef587",
+      "exact_official_content": "Experiment with design software and applications to decorate and manipulate materials for textile design and production",
+      "program_id": "year10",
+      "local_period": 37,
+      "site_destination": {
+        "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/folio.html",
+        "label": "Project folio",
+        "purpose": "Named course learning or evidence destination",
+        "audience": "student",
+        "route_status": "source-inventory-verified",
+        "source_route": "folio.html"
+      },
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "content_item_id": "ci5631ba69",
+      "exact_official_content": "Identify and apply appropriate standards and codes of practice when designing textile products",
+      "program_id": "year10",
+      "local_period": 2,
+      "site_destination": {
+        "url": "https://stevencowell.github.io/Year-10-Textiles-Technology/modules/module-01.html#section-12",
+        "label": "1.2 Hazards, risks and controls",
+        "purpose": "Named course learning or evidence destination",
+        "audience": "student",
+        "route_status": "source-inventory-verified",
+        "source_route": "modules/module-01.html#section-12"
+      },
+      "teacher_to_confirm_ids": [
+        "TTC-SYL-GAPS"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    },
+    {
+      "content_item_id": "ci916ab638",
+      "exact_official_content": "Use collaborative practices in textile design and production, including teamwork, communication and shared decision-making",
+      "program_id": "year9",
+      "local_period": 76,
+      "site_destination": {
+        "url": "https://stevencowell.github.io/Year-9-Textiles-Technology/modules/7.html#art-production",
+        "label": "Production drawing, making and evaluation",
+        "purpose": "Named course learning or evidence destination",
+        "audience": "student",
+        "route_status": "source-inventory-verified",
+        "source_route": "modules/7.html#art-production"
+      },
+      "teacher_to_confirm_ids": [
+        "TTC-COLLAB"
+      ],
+      "gap_action": "Add and approve a source-bound course-site learning section and named evidence task before claiming delivered coverage."
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "schema_version": "1.1",
+  "validation_date": "2026-08-29",
+  "scope": "Stage 5 Textiles Year 9, Year 10 and flexible 200-hour master network family",
+  "result": "PASS_WITH_DECLARED_SITE_GAPS",
+  "checks": [
+    {
+      "check": "year9-period-count",
+      "pass": true,
+      "actual": 100,
+      "expected": 100
+    },
+    {
+      "check": "year9-numbering",
+      "pass": true,
+      "actual": [
+        1,
+        2,
+        3,
+        98,
+        99,
+        100
+      ]
+    },
+    {
+      "check": "year9-practical-majority",
+      "pass": true,
+      "actual": 54,
+      "expected": ">50"
+    },
+    {
+      "check": "year9-one-outcome-family",
+      "pass": true,
+      "actual": [
+        "TT5-CDT-01",
+        "TT5-COM-01",
+        "TT5-ENV-01",
+        "TT5-EVL-01",
+        "TT5-IVT-01",
+        "TT5-MAT-01",
+        "TT5-SAF-01"
+      ],
+      "expected": [
+        "TT5-CDT-01",
+        "TT5-COM-01",
+        "TT5-ENV-01",
+        "TT5-EVL-01",
+        "TT5-IVT-01",
+        "TT5-MAT-01",
+        "TT5-SAF-01"
+      ]
+    },
+    {
+      "check": "year9-valid-types",
+      "pass": true,
+      "actual": {
+        "Site/theory": 24,
+        "Practical": 54,
+        "Project/folio": 22
+      }
+    },
+    {
+      "check": "year10-period-count",
+      "pass": true,
+      "actual": 100,
+      "expected": 100
+    },
+    {
+      "check": "year10-numbering",
+      "pass": true,
+      "actual": [
+        1,
+        2,
+        3,
+        98,
+        99,
+        100
+      ]
+    },
+    {
+      "check": "year10-practical-majority",
+      "pass": true,
+      "actual": 56,
+      "expected": ">50"
+    },
+    {
+      "check": "year10-one-outcome-family",
+      "pass": true,
+      "actual": [
+        "TT5-CDT-01",
+        "TT5-COM-01",
+        "TT5-ENV-01",
+        "TT5-EVL-01",
+        "TT5-IVT-01",
+        "TT5-MAT-01",
+        "TT5-SAF-01"
+      ],
+      "expected": [
+        "TT5-CDT-01",
+        "TT5-COM-01",
+        "TT5-ENV-01",
+        "TT5-EVL-01",
+        "TT5-IVT-01",
+        "TT5-MAT-01",
+        "TT5-SAF-01"
+      ]
+    },
+    {
+      "check": "year10-valid-types",
+      "pass": true,
+      "actual": {
+        "Site/theory": 21,
+        "Project/folio": 23,
+        "Practical": 56
+      }
+    },
+    {
+      "check": "master-exact-content-count",
+      "pass": true,
+      "actual": 92,
+      "expected": 92
+    },
+    {
+      "check": "master-primary-exactly-once",
+      "pass": true,
+      "actual": 92
+    },
+    {
+      "check": "all-routes-resolve-locally",
+      "pass": true,
+      "actual_failures": []
+    },
+    {
+      "check": "collaborative-activity-honestly-bounded",
+      "pass": true,
+      "actual": "gap recorded; Teacher to confirm genuine collaborative task"
+    }
+  ],
+  "route_validation": {
+    "checked_references": 226,
+    "unique_routes": 79,
+    "failures": []
+  },
+  "official_source_counts": {
+    "stage_5_outcomes": 7,
+    "focus_areas": 3,
+    "groups": 12,
+    "required_content_statements_total": 92,
+    "by_focus": {
+      "local-and-global-textile-perspectives": 27,
+      "textile-design-and-product-development": 30,
+      "textile-project-work": 35
+    },
+    "including_points": 0,
+    "official_examples": 13
+  },
+  "coverage_counts": {
+    "official_content_statements": 92,
+    "programmed-site-gap": 24,
+    "programmed-site-supported": 68,
+    "outcomes": 7
+  },
+  "document_rules": {
+    "page_size": "A4 landscape",
+    "teaching_rows_per_page": 8,
+    "page_count_reason": "Eight rows preserve 9.5 pt text, exact named site links, syllabus labels and evidence without split rows or spill pages.",
+    "teaching_table_body_font_pt": 9.5,
+    "raw_urls_visible": false,
+    "link_style": "bold English labels"
+  },
+  "render_validation": {
+    "status": "PASS",
+    "inspection_method": "Poppler PNG rendering at 120 dpi with contact-sheet and original-page inspection",
+    "records": [
+      {
+        "program": "year9",
+        "docx": "Year-9-Textiles-100-Period-Teaching-Program-v2.0-Network-Benchmark.docx",
+        "docx_sha256": "0E6583EF176569EEE917B14CAD6E35DE62718E428712C246D47A85519CDA4C7E",
+        "pdf": "Year-9-Textiles-100-Period-Teaching-Program-v2.0-Network-Benchmark.pdf",
+        "pdf_sha256": "D8B92D23F37DDB10162DD338AA1DEFE4836ECF902D45BFCBE4206E0BAE32AC2C",
+        "pdf_pages": 14,
+        "expected_pages": 14,
+        "page_count_pass": true
+      },
+      {
+        "program": "year10",
+        "docx": "Year-10-Textiles-100-Period-Teaching-Program-v2.0-Network-Benchmark.docx",
+        "docx_sha256": "9F217BCD725629E8AF14AA8F58EFED0F38D170C5CA014FDDB2032E32B2A40299",
+        "pdf": "Year-10-Textiles-100-Period-Teaching-Program-v2.0-Network-Benchmark.pdf",
+        "pdf_sha256": "C76484D5E58397A21481934FCFE3E640D42D48DF5F9778A2B2F126E1732CDB19",
+        "pdf_pages": 14,
+        "expected_pages": 14,
+        "page_count_pass": true
+      },
+      {
+        "program": "master",
+        "docx": "Stage-5-Textiles-200-Hour-Master-Teaching-Program-v2.0-Network-Benchmark.docx",
+        "docx_sha256": "D1AD086028DC505EDC6AEE79668E9786623E0AEAC421E63E4E5EC3899AE0EAB5",
+        "pdf": "Stage-5-Textiles-200-Hour-Master-Teaching-Program-v2.0-Network-Benchmark.pdf",
+        "pdf_sha256": "C1FA5F3F00AFE9E955F7DAEF352AEBDFBF6A1AF9C4570DB56654C315C4B864A4",
+        "pdf_pages": 26,
+        "expected_pages": 26,
+        "page_count_pass": true
+      }
+    ],
+    "all_page_counts_pass": true,
+    "all_pages_visually_inspected": true
+  }
+}

@@ -4,10 +4,12 @@
   "version": "v2.0",
   "course": {
     "title": "Intro Textiles Technology",
-    "classification": "School-developed 50-hour Stage 4 introductory elective aligned to Textiles Technology",
+    "classification": "Introductory unit contributing to a 100-hour Textiles Technology elective",
     "stage_or_year": "Stage 4",
     "delivery_year": 2027,
-    "project": "Design and produce source-backed accessory and apparel textile projects"
+    "project": "Design and produce source-backed accessory and apparel textile projects",
+    "course_requirement": "This 50-period unit must be paired with sufficient additional study to complete the school's named 100-hour Textiles Technology elective.",
+    "stage4_adjustment_advice": "For Stage 4 delivery, teachers may adjust the Stage 5 outcomes as appropriate to the needs of students. This advice is not an additional syllabus outcome."
   },
   "site": {
     "name": "Stage 4 Textiles Technology - Accessories and Shorts/Pants",
@@ -32,12 +34,6 @@
     "total_periods": 50
   },
   "outcomes": [
-    {
-      "code": "TT4-ADJ-01",
-      "statement": "in Stage 4 teachers may adjust the Stage 5 outcomes as appropriate to the needs of students in Years 7 and 8",
-      "source_id": "S2",
-      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/outcomes"
-    },
     {
       "code": "TT5-SAF-01",
       "statement": "applies design processes and safe work practices to develop textile projects",
@@ -96,7 +92,7 @@
       "authority": "official-syllabus",
       "location": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/outcomes",
       "revision": "verified 2026-08-28",
-      "use": "Exact Stage 4 adjustment and Stage 5 outcomes"
+      "use": "Exact Stage 5 outcomes and Stage 4 adjustment advice"
     },
     {
       "id": "S3",
@@ -2575,13 +2571,13 @@
       "path": "assets/teacher/Intro-Textiles-50-Period-Teaching-Program-v2.0-Network-Benchmark.docx",
       "purpose": "editable-program",
       "version": "v2.0",
-      "sha256": "1AEE1FF9DF240198FEF194EB070E07972DA8AE45B161664E8FB9F336B10B5FA6"
+      "sha256": "A27AE0D94E2704688F91956C7C398DC2C68F789F48A5FD165C9C8C6A26523988"
     },
     {
       "path": "assets/teacher/Intro-Textiles-50-Period-Teaching-Program-v2.0-Network-Benchmark.pdf",
       "purpose": "rendered-program",
       "version": "v2.0",
-      "sha256": "B2E2F8DF8FA5F99974FD2AD7971DF311C075648C62801184B13B353C8F2C4D37"
+      "sha256": "E14C36884578CFC43144D397DF7639B487AB495D63986C7DF54486FD20D4471A"
     },
     {
       "path": "assets/teacher/Intro-Textiles-50-Period-Alignment-Manifest-v2.0.json",

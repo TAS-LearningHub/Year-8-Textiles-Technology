@@ -1,0 +1,1342 @@
+{
+  "schema_version": "1.0",
+  "retrieved_at_utc": "2026-08-29T12:50:44+00:00",
+  "authority": {
+    "publisher": "NSW Education Standards Authority",
+    "platform": "NSW Curriculum",
+    "syllabus_title": "Textiles Technology 7–10 Syllabus (2025)",
+    "syllabus_version": "2025",
+    "course": "Textiles Technology 200-hour elective",
+    "course_code": "1900",
+    "stage": "Stage 5"
+  },
+  "implementation": {
+    "implementation_from": 2028,
+    "planning_and_preparation_years": [
+      2026,
+      2027
+    ],
+    "steve_decision": "Use the new syllabus during the 2027 planning and preparation phase",
+    "implementation_status": "early-adoption-confirmed-for-2027",
+    "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/overview/course"
+  },
+  "course_requirements": {
+    "all_outcomes": "All outcomes must be programmed for 100-hour and 200-hour courses.",
+    "course_100_hours": "At least 2 textile projects, with associated folio documentation, selected syllabus content relevant to each project, and at least one collaborative activity.",
+    "course_200_hours": "At least 4 textile projects, with associated folio documentation, all syllabus content, and at least one collaborative activity.",
+    "practical_majority": "Practical experiences must make up the majority of the course and should be designed to be accessible to all students.",
+    "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/overview/course"
+  },
+  "outcomes": [
+    {
+      "code": "TT5-SAF-01",
+      "statement": "applies design processes and safe work practices to develop textile projects",
+      "stable_id": "oc2b4f336e",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/outcomes"
+    },
+    {
+      "code": "TT5-COM-01",
+      "statement": "communicates ideas, concepts and processes for textile design and production",
+      "stable_id": "oc4d436310",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/outcomes"
+    },
+    {
+      "code": "TT5-EVL-01",
+      "statement": "investigates and evaluates design inspiration sources and textile products",
+      "stable_id": "oc7f06ebe2",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/outcomes"
+    },
+    {
+      "code": "TT5-IVT-01",
+      "statement": "explains industry practices and innovative technologies used in textile design and production",
+      "stable_id": "ocefcd0c03",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/outcomes"
+    },
+    {
+      "code": "TT5-CDT-01",
+      "statement": "investigates and applies construction and decorative techniques to create textile products",
+      "stable_id": "occ5a3a415",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/outcomes"
+    },
+    {
+      "code": "TT5-MAT-01",
+      "statement": "justifies the selection and use of materials and technologies for textile design and production",
+      "stable_id": "oc25f43d79",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/outcomes"
+    },
+    {
+      "code": "TT5-ENV-01",
+      "statement": "analyses relationships between textile design, production and sustainability",
+      "stable_id": "oc7755e8f5",
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/outcomes"
+    }
+  ],
+  "focus_areas": [
+    {
+      "key": "local-and-global-textile-perspectives",
+      "stable_id": "fa14f64ca9",
+      "title": "Local and global textile perspectives",
+      "stages": [
+        "Stage 4",
+        "Stage 5"
+      ],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9",
+      "requirement_status": "required_content_for_200_hour_course",
+      "linked_outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-COM-01",
+        "TT5-EVL-01",
+        "TT5-IVT-01",
+        "TT5-MAT-01",
+        "TT5-ENV-01"
+      ],
+      "groups": [
+        {
+          "stable_id": "cgd13216e0",
+          "title": "Aboriginal and Torres Strait Islander Peoples’ textile Practices",
+          "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9",
+          "statements": [
+            {
+              "stable_id": "ci27cd1dee",
+              "statement": "Identify textile art forms created for expression, communication and Storytelling",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9"
+            },
+            {
+              "stable_id": "cif210102a",
+              "statement": "Describe Aboriginal and Torres Strait Islander textile designer Practices and products",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [
+                "Aboriginal fashion designer couture, activewear, sporting apparel, textile installations in art and design contexts."
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9"
+            },
+            {
+              "stable_id": "ci66faf08b",
+              "statement": "Explore Aboriginal and Torres Strait Islander Peoples’ material sourcing Practices and describe the suitability of the materials for end use",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [
+                "Wetland grasses and reeds, pandanus as a waterproof material, spinifex cultivation for basket weaving, bark fibre for string, mats, dilly bags and dance belts."
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9"
+            },
+            {
+              "stable_id": "ci4dbb0cd1",
+              "statement": "Investigate Aboriginal and Torres Strait Islander customary Practices and outline how they are applied to contemporary designs",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [
+                "Piinpi fashion, Aboriginal textile designers, symbolism in representative sports jerseys."
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9"
+            },
+            {
+              "stable_id": "ci7fef7668",
+              "statement": "Evaluate ethical considerations for the use and appropriation of designs and products",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9"
+            },
+            {
+              "stable_id": "cif6ab46a3",
+              "statement": "Explore design inspiration sources in the local area to generate textile design ideas and concepts",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9"
+            },
+            {
+              "stable_id": "ci2e69760d",
+              "statement": "Apply protocols for designing with respect for Aboriginal and Torres Strait Islander designers, Communities and Cultural Knowledges, including Indigenous Cultural and Intellectual Property (ICIP)",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9"
+            }
+          ]
+        },
+        {
+          "stable_id": "cgd65381ee",
+          "title": "Historical and cultural influences on textile practices",
+          "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9",
+          "statements": [
+            {
+              "stable_id": "cibba5b543",
+              "statement": "Investigate textile designers and textile products from a range of historical periods",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9"
+            },
+            {
+              "stable_id": "ci89ef6ef9",
+              "statement": "Identify and describe how historical design features can be applied to contemporary designs",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9"
+            },
+            {
+              "stable_id": "ciae6a5f88",
+              "statement": "Investigate reasons textile design practices have changed over time",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9"
+            },
+            {
+              "stable_id": "cib4de3694",
+              "statement": "Evaluate how textile practices have changed over time to improve sustainability",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9"
+            },
+            {
+              "stable_id": "ci06c6a69a",
+              "statement": "Investigate and evaluate textile practices and describe design features of textile products from a range of cultural groups",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9"
+            },
+            {
+              "stable_id": "cia41ba39c",
+              "statement": "Evaluate how diverse cultural perspectives may influence the work of textile designers",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9"
+            },
+            {
+              "stable_id": "ci9885a723",
+              "statement": "Identify historical and cultural design features to apply as sources of design inspiration in the development of textile projects",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9"
+            }
+          ]
+        },
+        {
+          "stable_id": "cgc9b482d3",
+          "title": "Textile industry design and production practices",
+          "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9",
+          "statements": [
+            {
+              "stable_id": "ci386d50a8",
+              "statement": "Identify fibres cultivated in Australia for use in textile design and production",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9"
+            },
+            {
+              "stable_id": "ciace6a08d",
+              "statement": "Describe local and global techniques used in the cultivation and processing of fibres",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9"
+            },
+            {
+              "stable_id": "ci1da40ef9",
+              "statement": "Identify and evaluate sustainable textile materials and practices",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [
+                "Organic and vegan textiles, organic and chemical-free farming."
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9"
+            },
+            {
+              "stable_id": "ci054c9184",
+              "statement": "Identify textile supply chain systems to assess future development opportunities",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9"
+            },
+            {
+              "stable_id": "cid0d89af0",
+              "statement": "Explain current challenges that may influence future development of Australian textile industries",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [
+                "Climate, pest and disease management, market fluctuations, textile imports."
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9"
+            },
+            {
+              "stable_id": "cic1ae423e",
+              "statement": "Discuss emerging opportunities to improve sustainable textile practices",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [
+                "Commonwealth Scientific and Industrial Research Organisation (CSIRO) sustainably produced fibres, waste management processes."
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9"
+            },
+            {
+              "stable_id": "ci33eb968f",
+              "statement": "Investigate innovative technologies used in textile design and production",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9"
+            },
+            {
+              "stable_id": "ci52906b95",
+              "statement": "Investigate career opportunities in textile design and production industries",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9"
+            },
+            {
+              "stable_id": "cib4a59fc4",
+              "statement": "Describe the influence of globalisation on the Australian textile industry",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9"
+            },
+            {
+              "stable_id": "cif647f89a",
+              "statement": "Analyse ethical considerations for local and global textile design and production practices",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9"
+            },
+            {
+              "stable_id": "cifd6f0749",
+              "statement": "Investigate community and industry initiatives that promote textile sustainability and consumer awareness",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9"
+            },
+            {
+              "stable_id": "ci62a9ff24",
+              "statement": "Explore ways designers and consumers can influence change in textile design and production practices to improve sustainability in the textile industry",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9"
+            },
+            {
+              "stable_id": "ci51b590ce",
+              "statement": "Explain relationships between textile design, production and sustainable practices",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "textile-design-and-product-development",
+      "stable_id": "fa3f83f4aa",
+      "title": "Textile design and product development",
+      "stages": [
+        "Stage 4",
+        "Stage 5"
+      ],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa",
+      "requirement_status": "required_content_for_200_hour_course",
+      "linked_outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-COM-01",
+        "TT5-EVL-01",
+        "TT5-IVT-01",
+        "TT5-MAT-01",
+        "TT5-ENV-01"
+      ],
+      "groups": [
+        {
+          "stable_id": "cg8735f2f2",
+          "title": "Textile design for diverse purposes",
+          "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa",
+          "statements": [
+            {
+              "stable_id": "ci80f0c2b0",
+              "statement": "Identify and describe different purposes of textile design",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa"
+            },
+            {
+              "stable_id": "ci4177d009",
+              "statement": "Investigate how textile designers adapt designs in response to consumer demands",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa"
+            },
+            {
+              "stable_id": "ci3334d34f",
+              "statement": "Evaluate adaptive, emerging and innovative textile technologies for specific purposes",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [
+                "Light-up safety wear, sensory-friendly clothing, temperature control clothing."
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa"
+            },
+            {
+              "stable_id": "ci12be1977",
+              "statement": "Describe how innovative textile design can improve accessibility, participation and inclusivity for diverse populations",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa"
+            },
+            {
+              "stable_id": "ci81e021e8",
+              "statement": "Assess the functional requirements of textile products for their intended purpose",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa"
+            },
+            {
+              "stable_id": "ci6fe19fd7",
+              "statement": "Generate textile ideas and concepts for identified needs and diverse purposes",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa"
+            }
+          ]
+        },
+        {
+          "stable_id": "cg87fe4e38",
+          "title": "Material selection for textile production and end use",
+          "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa",
+          "statements": [
+            {
+              "stable_id": "ci3b6f58b3",
+              "statement": "Identify a range of fibres, yarns and fabrics used in the creation of textile projects",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa"
+            },
+            {
+              "stable_id": "ci51819278",
+              "statement": "Outline differences between natural and synthetic fibre production",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa"
+            },
+            {
+              "stable_id": "ciac6a8266",
+              "statement": "Compare characteristics of yarn types, including staple and filament composition, single and plied structure, low and high twist, and other properties, including strength and texture",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa"
+            },
+            {
+              "stable_id": "ci23c8a67e",
+              "statement": "Identify properties and structures of fabrics, including woven, knit and non-woven",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa"
+            },
+            {
+              "stable_id": "ci7c7605bb",
+              "statement": "Explain how properties of fibres, yarns and fabrics determine their suitability for end use",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa"
+            },
+            {
+              "stable_id": "ci73622c64",
+              "statement": "Evaluate sustainable material sourcing practices for textile design and production",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa"
+            },
+            {
+              "stable_id": "ci064cf9af",
+              "statement": "Explain the selection and suitability of materials for textile products",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa"
+            }
+          ]
+        },
+        {
+          "stable_id": "cg39ce64b0",
+          "title": "Creative textile design and technological applications",
+          "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa",
+          "statements": [
+            {
+              "stable_id": "ci390f5a36",
+              "statement": "Identify elements of design, including shape, size, colour, value, line, direction and texture",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa"
+            },
+            {
+              "stable_id": "ci3f314477",
+              "statement": "Identify principles of design, including proportion, balance, rhythm, emphasis, contrast and harmony",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa"
+            },
+            {
+              "stable_id": "ci396958f5",
+              "statement": "Describe elements and principles of design featured in works created by Aboriginal and Torres Strait Islander Peoples",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa"
+            },
+            {
+              "stable_id": "cid6ca0b33",
+              "statement": "Assess how elements and principles of design feature in the works and collections of textile designers",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa"
+            },
+            {
+              "stable_id": "ci1ab134d7",
+              "statement": "Explore customary and contemporary decorative design Practices developed by Aboriginal and Torres Strait Islander Peoples",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa"
+            },
+            {
+              "stable_id": "ci641d128c",
+              "statement": "Investigate textile designs and designers that feature creative decorative applications",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa"
+            },
+            {
+              "stable_id": "ci9d088956",
+              "statement": "Generate ideas and concepts for innovative design and technological applications",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa"
+            },
+            {
+              "stable_id": "cid1c60158",
+              "statement": "Demonstrate safe and ethical practices when using digital design and technological applications",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa"
+            },
+            {
+              "stable_id": "cif9f34a3c",
+              "statement": "Investigate the application of innovative sustainable technologies for textile design and production",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa"
+            },
+            {
+              "stable_id": "ci37a962b6",
+              "statement": "Explore elements and principles of design through practical application",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa"
+            },
+            {
+              "stable_id": "cia1c6b4e9",
+              "statement": "Evaluate the practices and products of textile designers",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa"
+            }
+          ]
+        },
+        {
+          "stable_id": "cg0c060ab5",
+          "title": "Promotion of textile products",
+          "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa",
+          "statements": [
+            {
+              "stable_id": "ci53af5d6f",
+              "statement": "Identify and describe target markets for current and emerging textile designers and brands",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa"
+            },
+            {
+              "stable_id": "ci205bd78d",
+              "statement": "Compare promotional strategies used by textile designers",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa"
+            },
+            {
+              "stable_id": "cia653d816",
+              "statement": "Investigate how data is used by textile designers and brands to inform textile product design",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa"
+            },
+            {
+              "stable_id": "ci5637badb",
+              "statement": "Explain how textile designers promote ethical and sustainable design practices",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa"
+            },
+            {
+              "stable_id": "cib5cabe65",
+              "statement": "Use digital design and technological applications to create promotional materials for textile consumers",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa"
+            },
+            {
+              "stable_id": "ci75d5c210",
+              "statement": "Demonstrate safe and ethical practices when accessing and collecting data",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "textile-project-work",
+      "stable_id": "fab8e5b90a",
+      "title": "Textile project work",
+      "stages": [
+        "Stage 4",
+        "Stage 5"
+      ],
+      "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+      "requirement_status": "required_content_for_200_hour_course",
+      "linked_outcome_codes": [
+        "TT5-SAF-01",
+        "TT5-COM-01",
+        "TT5-EVL-01",
+        "TT5-CDT-01",
+        "TT5-MAT-01",
+        "TT5-ENV-01"
+      ],
+      "groups": [
+        {
+          "stable_id": "cg092afc21",
+          "title": "Textile design areas",
+          "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+          "statements": [
+            {
+              "stable_id": "cic9e50918",
+              "statement": "Identify textile products created within a range of different textile design areas",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a"
+            },
+            {
+              "stable_id": "cib05f5a54",
+              "statement": "Outline the uses of a range of textile products",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a"
+            },
+            {
+              "stable_id": "cif4ce5e01",
+              "statement": "Describe aesthetic features of a range of textile products",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a"
+            },
+            {
+              "stable_id": "cib0b262d6",
+              "statement": "Explain functional properties of a range of textile products",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a"
+            }
+          ]
+        },
+        {
+          "stable_id": "cg02c279b7",
+          "title": "Design inspiration",
+          "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+          "statements": [
+            {
+              "stable_id": "ci9da3553d",
+              "statement": "Investigate a range of design inspiration sources",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a"
+            },
+            {
+              "stable_id": "ci6b3fa63e",
+              "statement": "Explore how designers use design inspiration sources when developing textile products and collections",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a"
+            },
+            {
+              "stable_id": "ci5b98927e",
+              "statement": "Select and evaluate design inspiration sources for the development of textile projects",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a"
+            },
+            {
+              "stable_id": "cidc698afa",
+              "statement": "Outline features of design inspiration sources used to generate and refine ideas",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a"
+            },
+            {
+              "stable_id": "ci34fde9a3",
+              "statement": "Demonstrate safe and ethical practices using digital technologies to source information",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a"
+            }
+          ]
+        },
+        {
+          "stable_id": "cg18e16b03",
+          "title": "Idea development",
+          "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+          "statements": [
+            {
+              "stable_id": "ci383481bb",
+              "statement": "Explore design software and applications to design and generate ideas",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [
+                "Computer-aided design (CAD)."
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a"
+            },
+            {
+              "stable_id": "cib99be85e",
+              "statement": "Apply design and creative thinking to generate ideas using a range of communication techniques",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [
+                "Fashion drawing, production drawings, pattern pieces, sketching."
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a"
+            },
+            {
+              "stable_id": "ci71f59c8c",
+              "statement": "Annotate aesthetic features and functional properties of design ideas",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a"
+            },
+            {
+              "stable_id": "ci308af920",
+              "statement": "Evaluate and refine design ideas to justify the selection of final textile products using written, visual, verbal or multimodal communication forms",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a"
+            },
+            {
+              "stable_id": "cie7ec28e1",
+              "statement": "Analyse ways that textile ideas and products could be modified to improve sustainability",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a"
+            },
+            {
+              "stable_id": "ci4a2db4dd",
+              "statement": "Use subject-specific terminology to communicate ideas for textile design and production",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a"
+            }
+          ]
+        },
+        {
+          "stable_id": "cg0715f884",
+          "title": "Experimentation",
+          "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+          "statements": [
+            {
+              "stable_id": "ci281373f6",
+              "statement": "Explore and experiment with construction techniques to test their suitability for textile products through practical application",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a"
+            },
+            {
+              "stable_id": "ci182fa013",
+              "statement": "Investigate and experiment with decorative techniques to enhance textile products through practical application",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a"
+            },
+            {
+              "stable_id": "cie4ad7640",
+              "statement": "Evaluate experimentation with decorative and construction techniques to determine their application to textile projects",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a"
+            },
+            {
+              "stable_id": "cie59ef587",
+              "statement": "Experiment with design software and applications to decorate and manipulate materials for textile design and production",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a"
+            },
+            {
+              "stable_id": "cib46ba016",
+              "statement": "Examine fabric characteristics and properties to determine their suitability for textile products",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [
+                "Abrasion resistance, breathability, colour, drape, durability, stretch, texture, woven, knitted, bonded, waterproof."
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a"
+            },
+            {
+              "stable_id": "ci06633ec6",
+              "statement": "Justify the selection of materials used for textile products through testing and evaluation",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a"
+            },
+            {
+              "stable_id": "ci88bf6ca2",
+              "statement": "Create written texts to describe and evaluate design ideas and production processes",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a"
+            }
+          ]
+        },
+        {
+          "stable_id": "cg74f29513",
+          "title": "Textile product construction and design application",
+          "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+          "statements": [
+            {
+              "stable_id": "ci5d9c152c",
+              "statement": "Apply planning and organisation skills in the production of textile products",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a"
+            },
+            {
+              "stable_id": "ci15e4c4e8",
+              "statement": "Demonstrate safe practices when selecting and using materials, technologies and processes",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a"
+            },
+            {
+              "stable_id": "ci5631ba69",
+              "statement": "Identify and apply appropriate standards and codes of practice when designing textile products",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [
+                "Mandatory standards for safety testing and care labelling, diversity codes of practice."
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a"
+            },
+            {
+              "stable_id": "ci916ab638",
+              "statement": "Use collaborative practices in textile design and production, including teamwork, communication and shared decision-making",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a"
+            },
+            {
+              "stable_id": "cia983a493",
+              "statement": "Deconstruct textile products to identify components and explore creative reuse opportunities",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a"
+            },
+            {
+              "stable_id": "ci8f682dc6",
+              "statement": "Identify and apply sustainable practices and processes for textile design and production",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a"
+            },
+            {
+              "stable_id": "ci07bf5c37",
+              "statement": "Identify and select appropriate fabric and notions for production",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a"
+            },
+            {
+              "stable_id": "ci5907723a",
+              "statement": "Select, modify and use construction patterns",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [
+                "Commercial patterns, drafting blocks, digital pattern making applications."
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a"
+            },
+            {
+              "stable_id": "ci07ce5dff",
+              "statement": "Interpret pattern instructions, transfer pattern marking and apply pattern layout plans",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a"
+            },
+            {
+              "stable_id": "cie0a47f7e",
+              "statement": "Select and apply construction techniques to develop quality textile products",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a"
+            },
+            {
+              "stable_id": "cia549b0b6",
+              "statement": "Select and apply decorative techniques to enhance textile designs",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [
+                "Colouration, embellishment, fabric manipulation, haberdashery applications."
+              ],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a"
+            },
+            {
+              "stable_id": "ci56d347f1",
+              "statement": "Apply ongoing evaluation during the development and production of textile products",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a"
+            },
+            {
+              "stable_id": "ci6b15b9cf",
+              "statement": "Develop, refine and demonstrate technical proficiency through textile project work, individually or collaboratively",
+              "stages": [
+                "Stage 4",
+                "Stage 5"
+              ],
+              "including_points": [],
+              "examples": [],
+              "official_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "counts": {
+    "stage_5_outcomes": 7,
+    "focus_areas": 3,
+    "groups": 12,
+    "required_content_statements_total": 92,
+    "by_focus": {
+      "local-and-global-textile-perspectives": 27,
+      "textile-design-and-product-development": 30,
+      "textile-project-work": 35
+    },
+    "including_points": 0,
+    "official_examples": 13
+  },
+  "boundaries": [
+    {
+      "id": "local-practical-authority",
+      "status": "teacher-controlled",
+      "note": "The syllabus establishes curriculum requirements; current local demonstrations, plans, equipment, PPE, risk controls and supervision authorise practical delivery."
+    },
+    {
+      "id": "aboriginal-community-authority",
+      "status": "community-controlled",
+      "note": "Local cultural knowledge, permissions and collaboration protocols remain with the relevant Aboriginal Community and teacher-approved sources."
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "course-overview",
+      "authority": "official-nsw-curriculum-nesa",
+      "url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/overview/course",
+      "final_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/overview/course",
+      "http_status": 200,
+      "sha256": "57dadc46fa6934aed8acd80fffda19409bb7cc7c922af8bfc0ee14547d40265a",
+      "bytes": 1414106
+    },
+    {
+      "source_id": "syllabus-overview",
+      "authority": "official-nsw-curriculum-nesa",
+      "url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/overview",
+      "final_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/overview",
+      "http_status": 200,
+      "sha256": "c3dc4a9021d095dd5d684e24295a6291cc44130af4bde4e67875fd6ff374d320",
+      "bytes": 1407685
+    },
+    {
+      "source_id": "stage-5-outcomes",
+      "authority": "official-nsw-curriculum-nesa",
+      "url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/outcomes",
+      "final_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/outcomes",
+      "http_status": 200,
+      "sha256": "785a88ffec4c9ccc82338ce5adb46d008fc228bde4d5b31c5d403ad9f9afd63a",
+      "bytes": 1440611
+    },
+    {
+      "source_id": "local-and-global-textile-perspectives",
+      "authority": "official-nsw-curriculum-nesa",
+      "url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9",
+      "final_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa14f64ca9",
+      "http_status": 200,
+      "sha256": "912965f90f36b5f61207f17279ad9188c313995f212eeeb243d5832262c95a94",
+      "bytes": 2126284
+    },
+    {
+      "source_id": "textile-design-and-product-development",
+      "authority": "official-nsw-curriculum-nesa",
+      "url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa",
+      "final_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fa3f83f4aa",
+      "http_status": 200,
+      "sha256": "821f0dd1b723b95a0d38f472d7a46c7fe5d5345ba9a64dcd12f2b6c95012d0ec",
+      "bytes": 2139404
+    },
+    {
+      "source_id": "textile-project-work",
+      "authority": "official-nsw-curriculum-nesa",
+      "url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+      "final_url": "https://curriculum.nsw.edu.au/learning-areas/tas/textiles-technology-7-10-2025/content/stage-5/fab8e5b90a",
+      "http_status": 200,
+      "sha256": "45e99fa8e1bbe2cffc0525aeaea444b6a72722127f0e8bcf65353675e25d8623",
+      "bytes": 2244548
+    }
+  ]
+}
